@@ -1,0 +1,59 @@
+{
+  "LevelId": 27,
+  "Questions": [
+    {
+      "id": 272,
+      "level_image": 3,
+      "answer_text": "POPCORN",
+      "question": "popular and tasty snack is often enjoyed while watching movies"
+    },
+    {
+      "id": 273,
+      "level_image": 3,
+      "answer_text": "MEASURE",
+      "question": "term refers to determining the extent, size, or quantity of something"
+    },
+    {
+      "id": 274,
+      "level_image": 3,
+      "answer_text": "MUSICAL",
+      "question": "performance art involves the composition and production of harmonious sounds"
+    },
+    {
+      "id": 275,
+      "level_image": 3,
+      "answer_text": "passage",
+      "question": "term is used to describe a journey from one place to another, especially by sea or air"
+    },
+    {
+      "id": 276,
+      "level_image": 4,
+      "answer_text": "ARTWORK",
+      "question": "describe a piece of creative expression, such as a painting produced by artisit"
+    },
+    {
+      "id": 277,
+      "level_image": 4,
+      "answer_text": "EATONIA",
+      "question": "term refers to the quality and character of a sound's pitch in relation to its intensity and duration"
+    },
+    {
+      "id": 278,
+      "level_image": 4,
+      "answer_text": "EGERTON",
+      "question": "actor played the role of Eggsy in the film \"Kingsman: The Secret Service\""
+    },
+    {
+      "id": 279,
+      "level_image": 4,
+      "answer_text": "YARDAGE",
+      "question": "would you measure the length of a golf course"
+    },
+    {
+      "id": 280,
+      "level_image": 0,
+      "answer_text": "PASSWORD",
+      "question": "do you use to secure your online accounts"
+    }
+  ]
+}

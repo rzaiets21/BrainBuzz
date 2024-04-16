@@ -1,0 +1,71 @@
+{
+  "LevelId": 65,
+  "Questions": [
+    {
+      "id": 661,
+      "level_image": 6,
+      "answer_text": "BENCHMARK",
+      "question": "standard or point of reference that is used for comparison or evaluation,"
+    },
+    {
+      "id": 662,
+      "level_image": 6,
+      "answer_text": "GOGGLEBOX",
+      "question": "British television show where people watch and comment on various television"
+    },
+    {
+      "id": 663,
+      "level_image": 6,
+      "answer_text": "AVOCADOES",
+      "question": "creamy fruits that are often associated with dishes like guacamole"
+    },
+    {
+      "id": 664,
+      "level_image": 6,
+      "answer_text": "ARCHRIVAL",
+      "question": "individual's main competitor or adversary, often regarded with intense rivalry"
+    },
+    {
+      "id": 665,
+      "level_image": 6,
+      "answer_text": "BEESWINGS",
+      "question": "delicate, translucent wing covers left behind by honeybees"
+    },
+    {
+      "id": 666,
+      "level_image": 6,
+      "answer_text": "ABOLITION",
+      "question": "the act of officially ending or eliminating a system, practice,"
+    },
+    {
+      "id": 667,
+      "level_image": 6,
+      "answer_text": "BACKSTAIR",
+      "question": "a private or secondary staircase, typically located in the rear or less visible part of a building"
+    },
+    {
+      "id": 668,
+      "level_image": 6,
+      "answer_text": "APPLIANCE",
+      "question": "term for a device or machine designed for a specific task,"
+    },
+    {
+      "id": 669,
+      "level_image": 6,
+      "answer_text": "AIRDROMES",
+      "question": "facilities equipped for the takeoff, landing, and maintenance of aircraft,"
+    },
+    {
+      "id": 670,
+      "level_image": 6,
+      "answer_text": "ALONENESS",
+      "question": "express the state of being entirely alone or experiencing solitude"
+    },
+    {
+      "id": 671,
+      "level_image": 0,
+      "answer_text": "MEDITATION",
+      "question": "often through breathing exercises or mindful contemplation,"
+    }
+  ]
+}

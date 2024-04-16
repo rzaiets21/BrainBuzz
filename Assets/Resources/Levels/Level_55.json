@@ -1,0 +1,71 @@
+{
+  "LevelId": 55,
+  "Questions": [
+    {
+      "id": 555,
+      "level_image": 7,
+      "answer_text": "AIRSPACES",
+      "question": "the purpose of managing air traffic and ensuring safe and efficient flight operations"
+    },
+    {
+      "id": 556,
+      "level_image": 7,
+      "answer_text": "ADULTHOOD",
+      "question": "life is characterized by maturity, independence, and typically begins around the age of 18"
+    },
+    {
+      "id": 557,
+      "level_image": 7,
+      "answer_text": "MIGRAINES",
+      "question": "recurring and intense headaches often accompanied by nausea,"
+    },
+    {
+      "id": 558,
+      "level_image": 7,
+      "answer_text": "COLOURFUL",
+      "question": "visual quality characterized by a vibrant and varied display of hues, shades,"
+    },
+    {
+      "id": 559,
+      "level_image": 7,
+      "answer_text": "DRIZZLING",
+      "question": "weather phenomenon is characterized by light rain falling in fine, mist-like droplets,"
+    },
+    {
+      "id": 560,
+      "level_image": 7,
+      "answer_text": "DIAMONDED",
+      "question": "describe an object or surface adorned or covered with diamonds,"
+    },
+    {
+      "id": 561,
+      "level_image": 7,
+      "answer_text": "BEACHWEAR",
+      "question": "describe clothing, typically casual and lightweight, designed for wear at the beach"
+    },
+    {
+      "id": 562,
+      "level_image": 7,
+      "answer_text": "MUDSTONES",
+      "question": "sedimentary rocks composed primarily of fine-grained mud or clay particles,"
+    },
+    {
+      "id": 563,
+      "level_image": 7,
+      "answer_text": "BOOKRACKS",
+      "question": "item is designed for holding and organizing books, typically with horizontal shelves,"
+    },
+    {
+      "id": 564,
+      "level_image": 7,
+      "answer_text": "BARABICELS",
+      "question": "bristle-like structures found on certain plants, often serving a protective or sensory function,"
+    },
+    {
+      "id": 565,
+      "level_image": 0,
+      "answer_text": "CONFIDENCE",
+      "question": "state of self-assurance, belief in one's abilities, and a positive outlook"
+    }
+  ]
+}

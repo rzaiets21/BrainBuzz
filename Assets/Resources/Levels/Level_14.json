@@ -1,0 +1,59 @@
+{
+  "LevelId": 14,
+  "Questions": [
+    {
+      "id": 132,
+      "level_image": 3,
+      "answer_text": "FLUFFY",
+      "question": "Soft and light in texture"
+    },
+    {
+      "id": 133,
+      "level_image": 3,
+      "answer_text": "DAMAGE",
+      "question": "Harm or impairment caused to something"
+    },
+    {
+      "id": 134,
+      "level_image": 3,
+      "answer_text": "BUBBLE",
+      "question": "Spherical pocket of air or gas in liquid"
+    },
+    {
+      "id": 135,
+      "level_image": 3,
+      "answer_text": "BURGER",
+      "question": "Grilled or fried sandwich with a filling"
+    },
+    {
+      "id": 136,
+      "level_image": 3,
+      "answer_text": "BREATH",
+      "question": "process of taking in and expelling air during respiration"
+    },
+    {
+      "id": 137,
+      "level_image": 3,
+      "answer_text": "BALLON",
+      "question": "object is often used for decoration, celebration, or as a plaything"
+    },
+    {
+      "id": 138,
+      "level_image": 3,
+      "answer_text": "CALLER",
+      "question": "call someone who makes a telephone call or visits in person"
+    },
+    {
+      "id": 139,
+      "level_image": 3,
+      "answer_text": "BATMAN",
+      "question": "fictional superhero with a bat-themed persona, known for fighting crime in Gotham City"
+    },
+    {
+      "id": 140,
+      "level_image": 0,
+      "answer_text": "UMBRELLA",
+      "question": "item is commonly used for protection against rain or sun"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "LevelId": 32,
+  "Questions": [
+    {
+      "id": 324,
+      "level_image": 4,
+      "answer_text": "MATERIAL",
+      "question": "substances of which something is made or composed"
+    },
+    {
+      "id": 325,
+      "level_image": 4,
+      "answer_text": "BLINKING",
+      "question": "action do humans perform approximately 15 to 20 times per minute,"
+    },
+    {
+      "id": 326,
+      "level_image": 4,
+      "answer_text": "EASTWARD",
+      "question": "In which cardinal direction does the sun generally rise"
+    },
+    {
+      "id": 327,
+      "level_image": 4,
+      "answer_text": "GOVERNOR",
+      "question": "head of a state or territory, often responsible for implementing and enforcing laws within that region"
+    },
+    {
+      "id": 328,
+      "level_image": 4,
+      "answer_text": "MARRIAGE",
+      "question": "involves a legally or formally recognized union between individuals"
+    },
+    {
+      "id": 329,
+      "level_image": 4,
+      "answer_text": "NORTHERN",
+      "question": "In which direction on a compass would you find the North Pole"
+    },
+    {
+      "id": 330,
+      "level_image": 4,
+      "answer_text": "VACATION",
+      "question": "a period of time during which individuals take a break from work or routine activities to relax"
+    },
+    {
+      "id": 331,
+      "level_image": 4,
+      "answer_text": "CABINETS",
+      "question": "commonly used to describe storage units with shelves or drawers,"
+    },
+    {
+      "id": 332,
+      "level_image": 4,
+      "answer_text": "BOUNDARY",
+      "question": "define the line or limit that marks the edge of an area,"
+    },
+    {
+      "id": 333,
+      "level_image": 4,
+      "answer_text": "FIREWALL",
+      "question": "network security system designed to monitor and control incoming and outgoing network traffic,"
+    },
+    {
+      "id": 334,
+      "level_image": 4,
+      "answer_text": "GUARDIAN",
+      "question": "a person who protects or watches over someone or something, providing guidance, support, and care"
+    },
+    {
+      "id": 335,
+      "level_image": 0,
+      "answer_text": "ENTERTAINER",
+      "question": "a person that performs and provides enjoyment to an audience through various forms of art,"
+    }
+  ]
+}

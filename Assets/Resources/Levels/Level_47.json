@@ -1,0 +1,59 @@
+{
+  "LevelId": 47,
+  "Questions": [
+    {
+      "id": 478,
+      "level_image": 4,
+      "answer_text": "CRACKDOWN",
+      "question": "describe a strong and decisive action taken by authorities"
+    },
+    {
+      "id": 479,
+      "level_image": 4,
+      "answer_text": "GROUNDING",
+      "question": "the act of connecting an electrical device to the earth to ensure safety"
+    },
+    {
+      "id": 480,
+      "level_image": 4,
+      "answer_text": "BEDROOMS",
+      "question": "In a house, where do individuals typically sleep"
+    },
+    {
+      "id": 481,
+      "level_image": 4,
+      "answer_text": "TEARDROPS",
+      "question": "What are the small, salty fluid droplets that often form in the eyes"
+    },
+    {
+      "id": 482,
+      "level_image": 4,
+      "answer_text": "THREATING",
+      "question": "something that poses a potential danger or harm"
+    },
+    {
+      "id": 483,
+      "level_image": 4,
+      "answer_text": "KIDNAPPED",
+      "question": "the act of forcefully taking someone, often against their will,"
+    },
+    {
+      "id": 484,
+      "level_image": 4,
+      "answer_text": "CRUCIFIES",
+      "question": "symbolized by the act of nailing or fastening someone to a cross,"
+    },
+    {
+      "id": 485,
+      "level_image": 4,
+      "answer_text": "BICYCLIST",
+      "question": "an individual who rides a two-wheeled vehicle propelled by pedals,"
+    },
+    {
+      "id": 486,
+      "level_image": 0,
+      "answer_text": "CURRENCY",
+      "question": "system of money used in a particular country or region"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "LevelId": 51,
+  "Questions": [
+    {
+      "id": 513,
+      "level_image": 4,
+      "answer_text": "DIABETES",
+      "question": "medical condition involves high blood sugar levels"
+    },
+    {
+      "id": 514,
+      "level_image": 4,
+      "answer_text": "CORRIDOR",
+      "question": "the term for a narrow, long passage typically found in buildings, connecting different rooms or areas"
+    },
+    {
+      "id": 515,
+      "level_image": 4,
+      "answer_text": "SOLITARY",
+      "question": "term describes the state of being alone or isolated,"
+    },
+    {
+      "id": 516,
+      "level_image": 4,
+      "answer_text": "TAILORED",
+      "question": "something specially designed or adjusted to fit a particular person or purpose, often referring to clothing"
+    },
+    {
+      "id": 517,
+      "level_image": 4,
+      "answer_text": "EMPLOYER",
+      "question": "the person or entity that hires and employs individuals to perform specific tasks"
+    },
+    {
+      "id": 518,
+      "level_image": 4,
+      "answer_text": "INDICIAS",
+      "question": "the plural form of the word \"indicia,\" referring to marks, signs, or symbols"
+    },
+    {
+      "id": 519,
+      "level_image": 4,
+      "answer_text": "DATABASE",
+      "question": "collection of data that is organized and can be easily accessed, managed, and updated"
+    },
+    {
+      "id": 520,
+      "level_image": 4,
+      "answer_text": "EARNINGS",
+      "question": "financial gains or profits obtained by an individual or a company from its business"
+    },
+    {
+      "id": 521,
+      "level_image": 4,
+      "answer_text": "NORTHERN",
+      "question": "the opposite of south, typically associated with the colder regions of a hemisphere"
+    },
+    {
+      "id": 522,
+      "level_image": 0,
+      "answer_text": "BRILLIANT",
+      "question": "someone or something exceptionally intelligent, creative, or shining with outstanding brightness"
+    }
+  ]
+}

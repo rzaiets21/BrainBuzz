@@ -1,0 +1,77 @@
+{
+  "LevelId": 57,
+  "Questions": [
+    {
+      "id": 577,
+      "level_image": 3,
+      "answer_text": "HYDROMETER",
+      "question": "instrument is commonly used to measure the specific gravity or density of a liquid,"
+    },
+    {
+      "id": 578,
+      "level_image": 3,
+      "answer_text": "CHECKBOXES",
+      "question": "elements in forms or digital interfaces allow users to select or mark items from a list,"
+    },
+    {
+      "id": 579,
+      "level_image": 3,
+      "answer_text": "PASSAMEZZO",
+      "question": "lively and stylized dance in triple meter, popular during the Renaissance period,"
+    },
+    {
+      "id": 580,
+      "level_image": 3,
+      "answer_text": "BUTTERMILK",
+      "question": "sour liquid often used in cooking and baking"
+    },
+    {
+      "id": 581,
+      "level_image": 3,
+      "answer_text": "CHICKENPOX",
+      "question": "viral infection, characterized by an itchy rash of red spots,"
+    },
+    {
+      "id": 582,
+      "level_image": 3,
+      "answer_text": "BANDAGINGS",
+      "question": "the process of applying strips or layers of material, typically cloth or gauze,"
+    },
+    {
+      "id": 583,
+      "level_image": 3,
+      "answer_text": "BEACHBALLS",
+      "question": "tossed around or bounced during recreational activities at the beach"
+    },
+    {
+      "id": 584,
+      "level_image": 3,
+      "answer_text": "ASTRONOMER",
+      "question": "profession involves the study of celestial bodies, such as stars, planets, and galaxies,"
+    },
+    {
+      "id": 585,
+      "level_image": 3,
+      "answer_text": "BRICKYARDS",
+      "question": "term is used to describe locations or facilities where clay or shale is molded and baked"
+    },
+    {
+      "id": 586,
+      "level_image": 3,
+      "answer_text": "BIOGRAPHER",
+      "question": "occupation involves the detailed documentation and analysis of a person's life,"
+    },
+    {
+      "id": 587,
+      "level_image": 3,
+      "answer_text": "BANDMASTER",
+      "question": "leader or conductor of a musical band,"
+    },
+    {
+      "id": 588,
+      "level_image": 0,
+      "answer_text": "DESTINATION",
+      "question": "predetermined endpoint or location to which someone or something is headed or traveling"
+    }
+  ]
+}

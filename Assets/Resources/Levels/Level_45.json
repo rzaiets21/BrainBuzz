@@ -1,0 +1,59 @@
+{
+  "LevelId": 45,
+  "Questions": [
+    {
+      "id": 459,
+      "level_image": 4,
+      "answer_text": "LANDSCAPE",
+      "question": "describe the visible features of an area of land,"
+    },
+    {
+      "id": 460,
+      "level_image": 4,
+      "answer_text": "BREAKFAST",
+      "question": "describe the first meal of the day, typically eaten in the morning,"
+    },
+    {
+      "id": 461,
+      "level_image": 4,
+      "answer_text": "BATTERIES",
+      "question": "devices that store electrical energy for later use"
+    },
+    {
+      "id": 462,
+      "level_image": 4,
+      "answer_text": "HUMANIZER",
+      "question": "describe a device or software designed to give human-like qualities"
+    },
+    {
+      "id": 463,
+      "level_image": 5,
+      "answer_text": "CHAWBACON",
+      "question": "often humorously, to refer to a rustic or unsophisticated person,"
+    },
+    {
+      "id": 464,
+      "level_image": 5,
+      "answer_text": "BARGAINER",
+      "question": "person who engages in negotiations or discussions to secure favorable terms,"
+    },
+    {
+      "id": 465,
+      "level_image": 5,
+      "answer_text": "CHOPSTICK",
+      "question": "commonly used in East Asian cuisine, consist of a pair of slender sticks,"
+    },
+    {
+      "id": 466,
+      "level_image": 5,
+      "answer_text": "BENZENOID",
+      "question": "compounds or chemical structures that resemble or are derived from benzene,"
+    },
+    {
+      "id": 467,
+      "level_image": 0,
+      "answer_text": "DATABASE",
+      "question": "a structured collection of data that is organized"
+    }
+  ]
+}

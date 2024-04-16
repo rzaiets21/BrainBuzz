@@ -1,0 +1,251 @@
+{
+  "GroupId": 5,
+  "GroupName": "SPORTS",
+  "Levels": [
+    {
+      "GroupId": 5,
+      "LevelId": 1,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "CATCH",
+          "question": "A moment's grasp, swift and sly"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "THEFT",
+          "question": "Silent shadow, possessions drift"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "TENON",
+          "question": "Wooden joint, strong and true, connecting pieces"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "TENES",
+          "question": "connecting bone, where movement belongs"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "JOINT",
+          "question": "Where bones meet, in flexible bind"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "VISIT",
+          "question": "A welcomed presence, a cherished stay"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "TENNIS",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 5,
+      "LevelId": 2,
+      "Questions": [
+        {
+          "level_image": 1,
+          "answer_text": "FLOWER",
+          "question": "Nature's artwork, in vibrant array"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "ORANGE",
+          "question": "Sun-kissed hue, citrus delight, juicy sweetness"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "OXFORD",
+          "question": "Scholar's haven, steeped in lore"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "TICKET",
+          "question": "Admission granted, to journeys near or far"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "OBJECT",
+          "question": "shape and form, silent witness"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "TARGET",
+          "question": "Hit your mark with precision"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SILENT",
+          "question": "In the absence of sound, it speaks volumes"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ONLINE",
+          "question": "Navigate the virtual realm, where clicks replace footsteps"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "FOOTBALL",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 5,
+      "LevelId": 3,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "FABRICS",
+          "question": "Threads of creativity weave together in this world of textures"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "DIAMOND",
+          "question": "A gem of unparalleled brilliance, coveted by many for its timeless allure"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "ADDIDAS",
+          "question": "Stride in style with this iconic brand"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "COMPANY",
+          "question": "In the business of innovation, this entity orchestrates success with its vision"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "PRIVATE",
+          "question": "Beyond public view, secrets are held close in this secluded realm"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "PENALTY",
+          "question": "A consequence imposed for crossing lines"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "NATURAL",
+          "question": "In the realm of Earth's raw beauty"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "SMOKING",
+          "question": "this habit ignites debate while leaving a lingering haze of health concerns in its wake"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "MONITOR",
+          "question": "Observing the digital landscape with vigilance"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "BADMINTON",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 5,
+      "LevelId": 4,
+      "Questions": [
+        {
+          "level_image": 5,
+          "answer_text": "KITCHEN",
+          "question": "Where culinary dreams simmer and flavors blend"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "SUPPORT",
+          "question": "An invisible pillar, it uplifts and strengthens"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "LOGICAL",
+          "question": "In the realm of reason and order, this path unveils itself through rational steps"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "SPEAKER",
+          "question": "Amplifying whispers into roars, this device breathes life into sound"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "PROJECT",
+          "question": "From conception to completion, it's the blueprint of dreams realized"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "SPRAYED",
+          "question": "Invisible strokes paint the air, leaving a scent of change"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "HOCKEY",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 5,
+      "LevelId": 5,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "MOBILITY",
+          "question": "Freedom's ally, it unlocks horizons and paves paths to new frontiers"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "GRAPHICS",
+          "question": "\"Visions manifest in pixels"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "HISTORIC",
+          "question": "In the footprints of time, it echoes tales of yore"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "LAKEVIEW",
+          "question": "Perched on nature's edge, it offers a panoramic vista of serene waters"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "PRESSURE",
+          "question": "Invisible weight, it pushes and molds"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "INTERNET",
+          "question": "An infinite web of connection, where bytes traverse borders and ideas flow freely"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "KEYBOARD",
+          "question": "Tap into the gateway of expression, where words dance at your fingertips"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PARALLEL",
+          "question": "In the realm of geometry, it's lines running side by side"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ISOLATED",
+          "question": "In solitude's embrace, it stands alone"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "TAILORED",
+          "question": "Custom fit for elegance, it drapes with precision"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "LevelId": 26,
+  "Questions": [
+    {
+      "id": 261,
+      "level_image": 5,
+      "answer_text": "JACKLIGHT",
+      "question": "artificial lights used by hunters to attract or illuminate animals during the night"
+    },
+    {
+      "id": 262,
+      "level_image": 5,
+      "answer_text": "WALLOPINGS",
+      "question": "forceful and powerful blows or beatings called"
+    },
+    {
+      "id": 263,
+      "level_image": 5,
+      "answer_text": "VALVULITIS",
+      "question": "medical term for the inflammation of a heart valve"
+    },
+    {
+      "id": 264,
+      "level_image": 5,
+      "answer_text": "BLOODWORMS",
+      "question": "small, reddish, aquatic larvae often used as fishing bait"
+    },
+    {
+      "id": 265,
+      "level_image": 6,
+      "answer_text": "BLACKSNAKE",
+      "question": "long, typically nonvenomous snake, often black in color"
+    },
+    {
+      "id": 266,
+      "level_image": 6,
+      "answer_text": "ATMOSPHERE",
+      "question": "the layer of gases surrounding the Earth, held in place by gravity"
+    },
+    {
+      "id": 267,
+      "level_image": 6,
+      "answer_text": "CHICKENPOX",
+      "question": "contagious viral disease characterized by an itchy rash and red spots on the skin"
+    },
+    {
+      "id": 268,
+      "level_image": 6,
+      "answer_text": "ICEBOATING",
+      "question": "activity involves sailing on ice-covered bodies of water using boats with skates or runners on the underside"
+    },
+    {
+      "id": 269,
+      "level_image": 6,
+      "answer_text": "ARTMAKING",
+      "question": "creative process involves the production of visual, auditory, or performance"
+    },
+    {
+      "id": 270,
+      "level_image": 6,
+      "answer_text": "JACQUELIES",
+      "question": "famously painted the portrait of his second wife, in a series of artworks"
+    },
+    {
+      "id": 271,
+      "level_image": 0,
+      "answer_text": "LOUDSPEAKER",
+      "question": "broadcast sound in various audio systems"
+    }
+  ]
+}

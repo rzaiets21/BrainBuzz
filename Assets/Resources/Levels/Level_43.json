@@ -1,0 +1,59 @@
+{
+  "LevelId": 43,
+  "Questions": [
+    {
+      "id": 441,
+      "level_image": 6,
+      "answer_text": "HANDICAP",
+      "question": "a person's ability to function or participate fully in various activities,"
+    },
+    {
+      "id": 442,
+      "level_image": 6,
+      "answer_text": "BAKESHOP",
+      "question": "that specializes in the production and sale of various baked goods,"
+    },
+    {
+      "id": 443,
+      "level_image": 6,
+      "answer_text": "CAMPWARD",
+      "question": "the direction or location within a campsite,"
+    },
+    {
+      "id": 444,
+      "level_image": 6,
+      "answer_text": "ECONOMIC",
+      "question": "system or process related to the production, distribution,"
+    },
+    {
+      "id": 445,
+      "level_image": 6,
+      "answer_text": "HONEYPOT",
+      "question": "container designed to attract and collect honey from bees in beekeeping"
+    },
+    {
+      "id": 446,
+      "level_image": 6,
+      "answer_text": "BAKERIES",
+      "question": "sale of various baked goods, such as bread, pastries, cakes, and cookies"
+    },
+    {
+      "id": 447,
+      "level_image": 6,
+      "answer_text": "ANTIDOTS",
+      "question": "treatments administered to counteract the effects of a poison or toxic substance in the body"
+    },
+    {
+      "id": 448,
+      "level_image": 6,
+      "answer_text": "AUDIENCE",
+      "question": "describe the group of people who gather to watch or listen to a performance,"
+    },
+    {
+      "id": 449,
+      "level_image": 0,
+      "answer_text": "CHAMPION",
+      "question": "an individual or team that has won a competition"
+    }
+  ]
+}

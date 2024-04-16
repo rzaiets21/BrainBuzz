@@ -1,0 +1,71 @@
+{
+  "LevelId": 40,
+  "Questions": [
+    {
+      "id": 408,
+      "level_image": 6,
+      "answer_text": "CABALETTA",
+      "question": "term for a vocal piece in opera characterized by a lively and rhythmically-driven style,"
+    },
+    {
+      "id": 409,
+      "level_image": 6,
+      "answer_text": "HYDROXIDE",
+      "question": "chemical term for an ion composed of one oxygen atom and one hydrogen atom,"
+    },
+    {
+      "id": 410,
+      "level_image": 6,
+      "answer_text": "KRUMMHOLZ",
+      "question": "German word is used to describe the twisted, stunted trees often found in alpine"
+    },
+    {
+      "id": 411,
+      "level_image": 6,
+      "answer_text": "QUANTIZER",
+      "question": "algorithm that converts a continuous range of input values into a discrete set of output values"
+    },
+    {
+      "id": 412,
+      "level_image": 6,
+      "answer_text": "PIGGYBACK",
+      "question": "describe the practice of carrying or transporting one thing on the back of another,"
+    },
+    {
+      "id": 413,
+      "level_image": 6,
+      "answer_text": "BABBLINGS",
+      "question": "term for incoherent or meaningless speech,"
+    },
+    {
+      "id": 414,
+      "level_image": 6,
+      "answer_text": "QUICKTIME",
+      "question": "interactive content formats, often associated with the .mov file extension"
+    },
+    {
+      "id": 415,
+      "level_image": 6,
+      "answer_text": "VOLATILES",
+      "question": "compounds that have a tendency to vaporize or evaporate at relatively low temperatures"
+    },
+    {
+      "id": 416,
+      "level_image": 6,
+      "answer_text": "BABYDOLLS",
+      "question": "term is commonly used to refer to short, sleeveless, and loose-fitting nightgowns or dresses,"
+    },
+    {
+      "id": 417,
+      "level_image": 6,
+      "answer_text": "BLINDNESS",
+      "question": "condition is characterized by the inability to see"
+    },
+    {
+      "id": 418,
+      "level_image": 0,
+      "answer_text": "EXHIBITION",
+      "question": "used to describe a public display or show, often organized to showcase art,"
+    }
+  ]
+}

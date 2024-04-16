@@ -1,0 +1,65 @@
+{
+  "LevelId": 39,
+  "Questions": [
+    {
+      "id": 398,
+      "level_image": 5,
+      "answer_text": "ADDICTION",
+      "question": "often leading to negative consequences and a loss of control"
+    },
+    {
+      "id": 399,
+      "level_image": 5,
+      "answer_text": "BARBADOS",
+      "question": "Caribbean island nation is known for its beautiful beaches,"
+    },
+    {
+      "id": 400,
+      "level_image": 5,
+      "answer_text": "THAILAND",
+      "question": "Southeast Asian country is known for its rich cultural heritage, stunning temples,"
+    },
+    {
+      "id": 401,
+      "level_image": 5,
+      "answer_text": "ANGUILLA",
+      "question": "British overseas territory in the Caribbean is renowned for its pristine beaches,"
+    },
+    {
+      "id": 402,
+      "level_image": 5,
+      "answer_text": "FLIPFLOP",
+      "question": "type of casual footwear is characterized by a thin rubber sole"
+    },
+    {
+      "id": 403,
+      "level_image": 5,
+      "answer_text": "ETHIOPIA",
+      "question": "East African country is known for its ancient history,"
+    },
+    {
+      "id": 404,
+      "level_image": 5,
+      "answer_text": "CAMEROON",
+      "question": "Central African country is characterized by a diverse landscape,"
+    },
+    {
+      "id": 405,
+      "level_image": 5,
+      "answer_text": "DAYLIGHT",
+      "question": "which part of the 24-hour cycle can you experience natural illumination from the sun"
+    },
+    {
+      "id": 406,
+      "level_image": 5,
+      "answer_text": "SLOVAKIA",
+      "question": "Central European country, known for its picturesque landscapes"
+    },
+    {
+      "id": 407,
+      "level_image": 0,
+      "answer_text": "CALIFORNIA",
+      "question": "U.S. state, located on the West Coast, is renowned for its entertainment industry,"
+    }
+  ]
+}

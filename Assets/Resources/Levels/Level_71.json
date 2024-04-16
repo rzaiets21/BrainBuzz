@@ -1,0 +1,71 @@
+{
+  "LevelId": 71,
+  "Questions": [
+    {
+      "id": 725,
+      "level_image": 4,
+      "answer_text": "BUBBLEGUM",
+      "question": "the chewy and elastic confection,"
+    },
+    {
+      "id": 726,
+      "level_image": 4,
+      "answer_text": "CIGARETTE",
+      "question": "narrow cylinder of finely cut tobacco leaves that is rolled into thin paper for smoking"
+    },
+    {
+      "id": 727,
+      "level_image": 4,
+      "answer_text": "CLASSROOM",
+      "question": "designated space within a school where students gather for educational instruction,"
+    },
+    {
+      "id": 728,
+      "level_image": 4,
+      "answer_text": "BARKEEPER",
+      "question": "person responsible for managing and serving drinks at a bar,"
+    },
+    {
+      "id": 729,
+      "level_image": 4,
+      "answer_text": "DANEWORTS",
+      "question": "plants or herbs, historically believed to have magical or protective properties,"
+    },
+    {
+      "id": 730,
+      "level_image": 4,
+      "answer_text": "EMPTINESS",
+      "question": "the state of being vacant or devoid of content,"
+    },
+    {
+      "id": 731,
+      "level_image": 5,
+      "answer_text": "CELEBRATE",
+      "question": "the action of publicly acknowledging and enjoying a significant event, achievement,"
+    },
+    {
+      "id": 732,
+      "level_image": 5,
+      "answer_text": "DOGNAPPER",
+      "question": "who engages in the unlawful act of kidnapping or stealing dogs, often for ransom or personal gain"
+    },
+    {
+      "id": 733,
+      "level_image": 5,
+      "answer_text": "GASOLINES",
+      "question": "flammable liquid derived from petroleum,"
+    },
+    {
+      "id": 734,
+      "level_image": 5,
+      "answer_text": "GRIDLOCKS",
+      "question": "the situation in traffic when vehicles are severely congested"
+    },
+    {
+      "id": 735,
+      "level_image": 0,
+      "answer_text": "BASKETBALL",
+      "question": "two teams of five players each, aiming to score points by shooting a ball through the opponent's basket"
+    }
+  ]
+}

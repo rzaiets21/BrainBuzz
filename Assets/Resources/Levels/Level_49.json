@@ -1,0 +1,53 @@
+{
+  "LevelId": 49,
+  "Questions": [
+    {
+      "id": 497,
+      "level_image": 5,
+      "answer_text": "BROWSE",
+      "question": "the action of casually looking through or scanning information,"
+    },
+    {
+      "id": 498,
+      "level_image": 5,
+      "answer_text": "CHOOPY",
+      "question": "a texture or consistency that is uneven, rough, or marked by irregular and coarse elements"
+    },
+    {
+      "id": 499,
+      "level_image": 5,
+      "answer_text": "ANIMAL",
+      "question": "living organisms that are multicellular, eukaryotic,"
+    },
+    {
+      "id": 500,
+      "level_image": 5,
+      "answer_text": "BLURRY",
+      "question": "an image or vision that lacks sharpness and clear focus,"
+    },
+    {
+      "id": 501,
+      "level_image": 5,
+      "answer_text": "CAMERA",
+      "question": "capture still or moving images by focusing"
+    },
+    {
+      "id": 502,
+      "level_image": 5,
+      "answer_text": "AUTHOR",
+      "question": "individual responsible for creating or writing a book, article,"
+    },
+    {
+      "id": 503,
+      "level_image": 5,
+      "answer_text": "ELBOWS",
+      "question": "body parts are commonly known as the joints that connect the forearms"
+    },
+    {
+      "id": 504,
+      "level_image": 0,
+      "answer_text": "SPARROW",
+      "question": "small, often brown or gray, bird is commonly found in urban"
+    }
+  ]
+}

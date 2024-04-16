@@ -1,0 +1,71 @@
+{
+  "LevelId": 59,
+  "Questions": [
+    {
+      "id": 598,
+      "level_image": 5,
+      "answer_text": "GIMMICKRY",
+      "question": "clever and often flashy tricks or techniques, especially in marketing or entertainment,"
+    },
+    {
+      "id": 599,
+      "level_image": 5,
+      "answer_text": "BYZANTINE",
+      "question": "intricate artistic or architectural style associated with the Byzantine Empire,"
+    },
+    {
+      "id": 600,
+      "level_image": 5,
+      "answer_text": "BLEEDINGS",
+      "question": "release or flow of blood from a damaged blood vessel,"
+    },
+    {
+      "id": 601,
+      "level_image": 5,
+      "answer_text": "CAPOUCHES",
+      "question": "hood-like coverings on certain garments,"
+    },
+    {
+      "id": 602,
+      "level_image": 5,
+      "answer_text": "BEEFSTEAK",
+      "question": "refer to a thick slice of beef, often cooked by grilling, pan-frying,"
+    },
+    {
+      "id": 603,
+      "level_image": 5,
+      "answer_text": "APPETIZER",
+      "question": "small dish or snack served before the main course of a meal,"
+    },
+    {
+      "id": 604,
+      "level_image": 5,
+      "answer_text": "ALBURNOUS",
+      "question": "white or light-colored garment, often worn by certain religious officials"
+    },
+    {
+      "id": 605,
+      "level_image": 5,
+      "answer_text": "BANDICOOT",
+      "question": "nocturnal marsupial with a long snout and a prehensile tail, native to Australia"
+    },
+    {
+      "id": 606,
+      "level_image": 5,
+      "answer_text": "ANIMALIAN",
+      "question": "write short question whose answer should be"
+    },
+    {
+      "id": 607,
+      "level_image": 5,
+      "answer_text": "BACKLIGHT",
+      "question": "describe the illumination of a subject from behind, creating a highlighting effect"
+    },
+    {
+      "id": 608,
+      "level_image": 0,
+      "answer_text": "INDUSTRIAL",
+      "question": "products  manufacturing, production, or the use of machinery and technology in a systematic way"
+    }
+  ]
+}

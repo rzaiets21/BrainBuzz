@@ -1,0 +1,65 @@
+{
+  "LevelId": 46,
+  "Questions": [
+    {
+      "id": 468,
+      "level_image": 6,
+      "answer_text": "CRIMINAL",
+      "question": "describe an individual who has committed a punishable offense against the law"
+    },
+    {
+      "id": 469,
+      "level_image": 6,
+      "answer_text": "DARKNESS",
+      "question": "absence or complete lack of light called"
+    },
+    {
+      "id": 470,
+      "level_image": 6,
+      "answer_text": "CYBERWAR",
+      "question": "involves the use of technology, including hacking and digital attacks,"
+    },
+    {
+      "id": 471,
+      "level_image": 6,
+      "answer_text": "BALLASTS",
+      "question": "heavy materials placed in a ship's hull or a hot air balloon to help control buoyancy"
+    },
+    {
+      "id": 472,
+      "level_image": 6,
+      "answer_text": "CHICKPEA",
+      "question": "small, round, edible legume is commonly used in various cuisines"
+    },
+    {
+      "id": 473,
+      "level_image": 6,
+      "answer_text": "ADVOCATE",
+      "question": "who publicly supports or promotes a particular cause, idea, or policy"
+    },
+    {
+      "id": 474,
+      "level_image": 6,
+      "answer_text": "GRANDPAS",
+      "question": "commonly used to refer to one's paternal or maternal father's father"
+    },
+    {
+      "id": 475,
+      "level_image": 6,
+      "answer_text": "OVERSEAS",
+      "question": "foreign country, typically across the sea or beyond national borders"
+    },
+    {
+      "id": 476,
+      "level_image": 6,
+      "answer_text": "PROPERTY",
+      "question": "belongings, or assets that one owns, such as land, buildings, or possessions"
+    },
+    {
+      "id": 477,
+      "level_image": 0,
+      "answer_text": "NEWSPAPER",
+      "question": "that provides news, articles, and information about current events,"
+    }
+  ]
+}

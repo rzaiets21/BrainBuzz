@@ -1,0 +1,71 @@
+{
+  "LevelId": 56,
+  "Questions": [
+    {
+      "id": 566,
+      "level_image": 5,
+      "answer_text": "BATCHERS",
+      "question": "individuals involved in the process of combining or grouping items together in a set or quantity,"
+    },
+    {
+      "id": 567,
+      "level_image": 5,
+      "answer_text": "DAIRYMEN",
+      "question": "responsible for the production and processing of milk and dairy products"
+    },
+    {
+      "id": 568,
+      "level_image": 5,
+      "answer_text": "BIRADIAL",
+      "question": "design or structure that is not strictly radial or bilateral"
+    },
+    {
+      "id": 569,
+      "level_image": 5,
+      "answer_text": "AIRCREWS",
+      "question": "collective group of individuals, including pilots and flight attendants,"
+    },
+    {
+      "id": 570,
+      "level_image": 5,
+      "answer_text": "AIRBOATS",
+      "question": "watercraft is equipped with a large propeller and typically used in shallow waters or marshy areas,"
+    },
+    {
+      "id": 571,
+      "level_image": 5,
+      "answer_text": "CESSPOOL",
+      "question": "underground pit or container used for the disposal and treatment of sewage,"
+    },
+    {
+      "id": 572,
+      "level_image": 5,
+      "answer_text": "AIRSHIPS",
+      "question": "lighter-than-air aircraft, typically with a rigid frame,"
+    },
+    {
+      "id": 573,
+      "level_image": 5,
+      "answer_text": "BLUBBERY",
+      "question": "often used to describe a soft, pliable texture or appearance,"
+    },
+    {
+      "id": 574,
+      "level_image": 5,
+      "answer_text": "CAMPIEST",
+      "question": "intentionally flamboyant elements found in a performance, film, or artistic work,"
+    },
+    {
+      "id": 575,
+      "level_image": 5,
+      "answer_text": "APPLAUSE",
+      "question": "audible expression of approval is commonly heard in response to a performance,"
+    },
+    {
+      "id": 576,
+      "level_image": 0,
+      "answer_text": "HYDROPHOBIA",
+      "question": "associated with anxiety or panic in situations involving contact with or immersion in water"
+    }
+  ]
+}

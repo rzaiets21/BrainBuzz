@@ -1,0 +1,59 @@
+{
+  "LevelId": 38,
+  "Questions": [
+    {
+      "id": 389,
+      "level_image": 3,
+      "answer_text": "BATHROOM",
+      "question": "What's the first place you typically visit after waking up in the morning"
+    },
+    {
+      "id": 390,
+      "level_image": 3,
+      "answer_text": "CHEMICAL",
+      "question": "study when you're exploring the properties and reactions of matter"
+    },
+    {
+      "id": 391,
+      "level_image": 3,
+      "answer_text": "VEXINGLY",
+      "question": "In a puzzling and frustrating manner, what adverb describes the situation"
+    },
+    {
+      "id": 392,
+      "level_image": 3,
+      "answer_text": "WATCHMAN",
+      "question": "responsible for keeping a vigilant eye on a building or property, especially during the night"
+    },
+    {
+      "id": 393,
+      "level_image": 4,
+      "answer_text": "ZIMBABWE",
+      "question": "African country is known for Victoria Falls,"
+    },
+    {
+      "id": 394,
+      "level_image": 4,
+      "answer_text": "ALCOHOLS",
+      "question": "category of organic compounds includes substances like ethanol and methanol,"
+    },
+    {
+      "id": 395,
+      "level_image": 4,
+      "answer_text": "AUTODIAL",
+      "question": "term is used to describe a system or device that automatically dials"
+    },
+    {
+      "id": 396,
+      "level_image": 4,
+      "answer_text": "BACKBONE",
+      "question": "central support structure running along the spine,"
+    },
+    {
+      "id": 397,
+      "level_image": 0,
+      "answer_text": "TEXTBOOK",
+      "question": "educational resource that provides structured information"
+    }
+  ]
+}

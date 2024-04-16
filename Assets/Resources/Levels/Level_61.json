@@ -1,0 +1,71 @@
+{
+  "LevelId": 61,
+  "Questions": [
+    {
+      "id": 618,
+      "level_image": 3,
+      "answer_text": "DISPOSAL",
+      "question": "the process of getting rid of unwanted or no longer needed items or substances"
+    },
+    {
+      "id": 619,
+      "level_image": 3,
+      "answer_text": "DAUGHTER",
+      "question": "the female child of a parent called"
+    },
+    {
+      "id": 620,
+      "level_image": 3,
+      "answer_text": "FABURDEN",
+      "question": "harmonic accompaniment in music, typically consisting of a drone or repetitive bass note"
+    },
+    {
+      "id": 621,
+      "level_image": 3,
+      "answer_text": "COMPUTER",
+      "question": "electronic device processes information, performs tasks according to a set of instructions,"
+    },
+    {
+      "id": 622,
+      "level_image": 3,
+      "answer_text": "CRIMINAL",
+      "question": "a person who has committed a crime and is subject to legal punishment"
+    },
+    {
+      "id": 623,
+      "level_image": 3,
+      "answer_text": "FUSILEER",
+      "question": "a soldier armed with a fusil or musket, historically associated with infantry using firearms"
+    },
+    {
+      "id": 624,
+      "level_image": 3,
+      "answer_text": "HOSPITAL",
+      "question": "receive medical treatment, diagnosis, and care for illnesses or injuries"
+    },
+    {
+      "id": 625,
+      "level_image": 3,
+      "answer_text": "CLINICAL",
+      "question": "activities or practices related to the direct medical care of patients,"
+    },
+    {
+      "id": 626,
+      "level_image": 3,
+      "answer_text": "WOODLAND",
+      "question": "area covered with trees, typically characterized by a variety of plant and animal life,"
+    },
+    {
+      "id": 627,
+      "level_image": 3,
+      "answer_text": "MINISTER",
+      "question": "leading religious worship and providing spiritual guidance within a particular faith or denomination"
+    },
+    {
+      "id": 628,
+      "level_image": 0,
+      "answer_text": "SUBMISSION",
+      "question": "the act of yielding to a higher authority, complying with a request,"
+    }
+  ]
+}

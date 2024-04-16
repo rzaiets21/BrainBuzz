@@ -1,0 +1,65 @@
+{
+  "LevelId": 48,
+  "Questions": [
+    {
+      "id": 487,
+      "level_image": 4,
+      "answer_text": "PUMPKIN",
+      "question": "orange-colored, round vegetable is often associated with fall,"
+    },
+    {
+      "id": 488,
+      "level_image": 4,
+      "answer_text": "SUNRISE",
+      "question": "the daily phenomenon when the sun appears above the horizon,"
+    },
+    {
+      "id": 489,
+      "level_image": 4,
+      "answer_text": "CAPITAL",
+      "question": "term is commonly used to refer to the city or town that serves as the seat of government"
+    },
+    {
+      "id": 490,
+      "level_image": 4,
+      "answer_text": "BOONLESS",
+      "question": "a situation or condition characterized by the absence of blessings or positive outcomes"
+    },
+    {
+      "id": 491,
+      "level_image": 4,
+      "answer_text": "BEACONED",
+      "question": "object marked or guided by the presence of a signaling light or beacon"
+    },
+    {
+      "id": 492,
+      "level_image": 4,
+      "answer_text": "ACTIVITY",
+      "question": "movement that involves physical or mental effort and produces a result"
+    },
+    {
+      "id": 493,
+      "level_image": 4,
+      "answer_text": "CARPETED",
+      "question": "a floor or surface that is covered with a soft, woven fabric"
+    },
+    {
+      "id": 494,
+      "level_image": 4,
+      "answer_text": "BALLOONS",
+      "question": "objects, often filled with gas, are commonly used for decorations,"
+    },
+    {
+      "id": 495,
+      "level_image": 4,
+      "answer_text": "BAREHAND",
+      "question": "a task or handling objects without the use of gloves or any form of hand protection"
+    },
+    {
+      "id": 496,
+      "level_image": 0,
+      "answer_text": "PRINCIPLE",
+      "question": "fundamental truth, law, or guiding concept that serves as the foundation for a system of beliefs"
+    }
+  ]
+}

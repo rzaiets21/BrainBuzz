@@ -1,0 +1,71 @@
+{
+  "LevelId": 66,
+  "Questions": [
+    {
+      "id": 672,
+      "level_image": 4,
+      "answer_text": "ARCHENEMY",
+      "question": "entity that is considered the ultimate and most formidable opponent,"
+    },
+    {
+      "id": 673,
+      "level_image": 4,
+      "answer_text": "ABBOTSHIP",
+      "question": "position or role of an abbey's superior, typically in charge of a monastery or a group of monks"
+    },
+    {
+      "id": 674,
+      "level_image": 4,
+      "answer_text": "ANAMNESIS",
+      "question": "medicine to describe the recollection or memory of past events,"
+    },
+    {
+      "id": 675,
+      "level_image": 4,
+      "answer_text": "AUTOCLAVE",
+      "question": "laboratories and medical facilities to sterilize equipment"
+    },
+    {
+      "id": 676,
+      "level_image": 5,
+      "answer_text": "ALLIGATOR",
+      "question": "a partially armored body is native to areas in the Americas and belongs to the Crocodylia order"
+    },
+    {
+      "id": 677,
+      "level_image": 5,
+      "answer_text": "AGGREGATE",
+      "question": "elements or particles gathered together into a unified whole"
+    },
+    {
+      "id": 678,
+      "level_image": 5,
+      "answer_text": "AKINESIAS",
+      "question": "characterized by the loss or impairment of voluntary muscle movements,"
+    },
+    {
+      "id": 679,
+      "level_image": 5,
+      "answer_text": "BULLNECKS",
+      "question": "describe individuals with a muscular and thick neck,"
+    },
+    {
+      "id": 680,
+      "level_image": 5,
+      "answer_text": "BAPTIZERS",
+      "question": "individuals or groups who perform the act of baptizing"
+    },
+    {
+      "id": 681,
+      "level_image": 5,
+      "answer_text": "BEDIZENED",
+      "question": "decorating something, often with excessive or gaudy ornamentation,"
+    },
+    {
+      "id": 682,
+      "level_image": 0,
+      "answer_text": "HOMOGENIZE",
+      "question": "mixture uniform in composition by blending or mixing its components thoroughly"
+    }
+  ]
+}

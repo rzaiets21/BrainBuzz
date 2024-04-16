@@ -1,0 +1,59 @@
+{
+  "LevelId": 44,
+  "Questions": [
+    {
+      "id": 450,
+      "level_image": 5,
+      "answer_text": "BULLDOZER",
+      "question": "construction equipment is commonly used for clearing and leveling land,"
+    },
+    {
+      "id": 451,
+      "level_image": 5,
+      "answer_text": "BUCKETFUL",
+      "question": "describe the quantity or amount that can be held in a bucket,"
+    },
+    {
+      "id": 452,
+      "level_image": 5,
+      "answer_text": "BACKSTAMP",
+      "question": "ceramics to refer to a mark or inscription placed on the back or underside of an item"
+    },
+    {
+      "id": 453,
+      "level_image": 5,
+      "answer_text": "FURNITURE",
+      "question": "movable objects intended to support various human activities, such as seating, sleeping,"
+    },
+    {
+      "id": 454,
+      "level_image": 5,
+      "answer_text": "BODYGUARD",
+      "question": "describe a person or security professional hired to provide protection"
+    },
+    {
+      "id": 455,
+      "level_image": 5,
+      "answer_text": "VACANCIES",
+      "question": "describe available positions or openings, particularly in the context of job"
+    },
+    {
+      "id": 456,
+      "level_image": 5,
+      "answer_text": "PAPPERBOX",
+      "question": "container made of paper, often used for packaging or storing various items"
+    },
+    {
+      "id": 457,
+      "level_image": 5,
+      "answer_text": "BABIRUSAS",
+      "question": "describe the unique-looking wild pigs found in Southeast Asia,"
+    },
+    {
+      "id": 458,
+      "level_image": 0,
+      "answer_text": "DESIGNER",
+      "question": "a person who creates and plans the aesthetic or functional aspects of a product, building,"
+    }
+  ]
+}

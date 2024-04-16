@@ -120,6 +120,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.editorcoroutines": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -167,6 +174,53 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.memoryprofiler": {
+      "version": "1.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.editorcoroutines": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.mobile.android-logcat": {
+      "version": "1.4.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.purchasing": {
+      "version": "4.10.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.androidjni": "1.0.0",
+        "com.unity.services.core": "1.8.2"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.services.core": {
+      "version": "1.12.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.test-framework": {
       "version": "1.1.33",
       "depth": 0,
@@ -184,18 +238,6 @@
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.timeline": {
-      "version": "1.7.6",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.director": "1.0.0",
-        "com.unity.modules.animation": "1.0.0",
-        "com.unity.modules.audio": "1.0.0",
-        "com.unity.modules.particlesystem": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -217,6 +259,15 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "xyz.candycoded.hapticfeedback": {
+      "version": "https://github.com/CandyCoded/HapticFeedback.git#v1.0.3",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "hash": "4597a0376eafedee647bc3a02c6b574c309f3fa7"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

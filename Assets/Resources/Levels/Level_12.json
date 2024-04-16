@@ -1,0 +1,71 @@
+{
+  "LevelId": 12,
+  "Questions": [
+    {
+      "id": 110,
+      "level_image": 5,
+      "answer_text": "ANGLES",
+      "question": "geometric figures formed by two rays sharing a common endpoint"
+    },
+    {
+      "id": 111,
+      "level_image": 5,
+      "answer_text": "DELUXE",
+      "question": "high-quality, luxurious, or superior version of something"
+    },
+    {
+      "id": 112,
+      "level_image": 5,
+      "answer_text": "SCALPS",
+      "question": "skin, close connective tissue,layers are the type of"
+    },
+    {
+      "id": 113,
+      "level_image": 5,
+      "answer_text": "ANKLES",
+      "question": "joints connect the lower leg to the foot"
+    },
+    {
+      "id": 114,
+      "level_image": 5,
+      "answer_text": "ACTORS",
+      "question": "Performers on stage or screen"
+    },
+    {
+      "id": 115,
+      "level_image": 5,
+      "answer_text": "BIOPIC",
+      "question": "Film about someone's life"
+    },
+    {
+      "id": 116,
+      "level_image": 5,
+      "answer_text": "INCOME",
+      "question": "money earned by an individual or business"
+    },
+    {
+      "id": 117,
+      "level_image": 5,
+      "answer_text": "BASKET",
+      "question": "Container for carrying or holding items"
+    },
+    {
+      "id": 118,
+      "level_image": 5,
+      "answer_text": "ALMOND",
+      "question": "Nut with a hard shell"
+    },
+    {
+      "id": 119,
+      "level_image": 5,
+      "answer_text": "BEAUTY",
+      "question": "Quality pleasing to the senses"
+    },
+    {
+      "id": 120,
+      "level_image": 0,
+      "answer_text": "EXPERIMENT",
+      "question": "Scientific trial or investigation"
+    }
+  ]
+}

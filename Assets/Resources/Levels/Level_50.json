@@ -1,0 +1,53 @@
+{
+  "LevelId": 50,
+  "Questions": [
+    {
+      "id": 505,
+      "level_image": 4,
+      "answer_text": "CHOKER",
+      "question": "close-fitting necklace or collar that is worn tightly around the neck"
+    },
+    {
+      "id": 506,
+      "level_image": 4,
+      "answer_text": "BAKING",
+      "question": "activity involves using an oven to cook food items like cakes,"
+    },
+    {
+      "id": 507,
+      "level_image": 4,
+      "answer_text": "BOUNCY",
+      "question": "elasticity or the ability of an object to quickly return to its original shape"
+    },
+    {
+      "id": 508,
+      "level_image": 4,
+      "answer_text": "LUNGES",
+      "question": "type of exercise where a person takes a step forward, lowering the hips until both knees"
+    },
+    {
+      "id": 509,
+      "level_image": 4,
+      "answer_text": "BRIDGE",
+      "question": "architectural structure spans a physical obstacle, such as a river,"
+    },
+    {
+      "id": 510,
+      "level_image": 4,
+      "answer_text": "ARROWS",
+      "question": "commonly used with a bow for various purposes, including hunting and target shooting"
+    },
+    {
+      "id": 511,
+      "level_image": 4,
+      "answer_text": "CRAMPS",
+      "question": "describe involuntary, painful muscle contractions or spasms,"
+    },
+    {
+      "id": 512,
+      "level_image": 0,
+      "answer_text": "KINGDOM",
+      "question": "living organisms into the broadest and highest level of classification, just below domain"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "LevelId": 69,
+  "Questions": [
+    {
+      "id": 705,
+      "level_image": 7,
+      "answer_text": "ABLATING",
+      "question": "term for the process of removing or eroding material,"
+    },
+    {
+      "id": 706,
+      "level_image": 7,
+      "answer_text": "BACILLUS",
+      "question": "a rod-shaped bacterium that is often used in biological research"
+    },
+    {
+      "id": 707,
+      "level_image": 7,
+      "answer_text": "BUCKRAMS",
+      "question": "describe coarse, stiff fabric often treated with glue,"
+    },
+    {
+      "id": 708,
+      "level_image": 7,
+      "answer_text": "ARTICLES",
+      "question": "individual items or objects, often specified or categorized,"
+    },
+    {
+      "id": 709,
+      "level_image": 7,
+      "answer_text": "BLATTERS",
+      "question": "describe the rapid, repeated sounds or noises,"
+    },
+    {
+      "id": 710,
+      "level_image": 7,
+      "answer_text": "ALOPECIA",
+      "question": "condition characterized by hair loss, either in patches or across the entire body,"
+    },
+    {
+      "id": 711,
+      "level_image": 7,
+      "answer_text": "COATRACK",
+      "question": "found near an entrance is designed for hanging coats, hats, or other garments"
+    },
+    {
+      "id": 712,
+      "level_image": 7,
+      "answer_text": "CANDIDAL",
+      "question": "describe conditions or situations related to the presence or effects of Candida"
+    },
+    {
+      "id": 713,
+      "level_image": 7,
+      "answer_text": "ANTIPOLE",
+      "question": "a point or region on the opposite side or end of the Earth,"
+    },
+    {
+      "id": 714,
+      "level_image": 0,
+      "answer_text": "NUMERICAL",
+      "question": "information or data expressed in the form of numbers, digits, or numerical values"
+    }
+  ]
+}

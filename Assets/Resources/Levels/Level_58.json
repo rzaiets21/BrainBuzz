@@ -1,0 +1,59 @@
+{
+  "LevelId": 58,
+  "Questions": [
+    {
+      "id": 589,
+      "level_image": 5,
+      "answer_text": "BLASTOFF",
+      "question": "when a rocket or spacecraft is launched into space,"
+    },
+    {
+      "id": 590,
+      "level_image": 5,
+      "answer_text": "ACYLOINS",
+      "question": "organic compounds containing both an acyl group and a hydroxyl group,"
+    },
+    {
+      "id": 591,
+      "level_image": 5,
+      "answer_text": "BESTRIDE",
+      "question": "the action of sitting or standing with a leg on each side of something,"
+    },
+    {
+      "id": 592,
+      "level_image": 5,
+      "answer_text": "BUCKTAIR",
+      "question": "hairdo that is characterized by being tied or secured at the back of the head,"
+    },
+    {
+      "id": 593,
+      "level_image": 5,
+      "answer_text": "ARTWORK",
+      "question": "visual creations, often created for aesthetic or expressive purposes,"
+    },
+    {
+      "id": 594,
+      "level_image": 5,
+      "answer_text": "AIRTIGHT",
+      "question": "closed space that does not allow the passage of air or gas,"
+    },
+    {
+      "id": 595,
+      "level_image": 5,
+      "answer_text": "AEROSTAT",
+      "question": "an aircraft that remains aloft through the use of buoyant gases,"
+    },
+    {
+      "id": 596,
+      "level_image": 5,
+      "answer_text": "BANNERED",
+      "question": "an object or place adorned with flags or decorative strips of cloth often used for signaling,"
+    },
+    {
+      "id": 597,
+      "level_image": 0,
+      "answer_text": "TORTOISE",
+      "question": "slow-moving, land-dwelling reptile characterized by a protective shell"
+    }
+  ]
+}

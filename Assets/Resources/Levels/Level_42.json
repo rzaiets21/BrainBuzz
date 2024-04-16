@@ -1,0 +1,59 @@
+{
+  "LevelId": 42,
+  "Questions": [
+    {
+      "id": 432,
+      "level_image": 3,
+      "answer_text": "VICTORIA",
+      "question": "Australian state capital known for its vibrant arts scene,"
+    },
+    {
+      "id": 433,
+      "level_image": 3,
+      "answer_text": "WOODLAND",
+      "question": "describe an area covered with trees,"
+    },
+    {
+      "id": 434,
+      "level_image": 3,
+      "answer_text": "UNLAWFUL",
+      "question": "actions or behaviors that are prohibited or against the law,"
+    },
+    {
+      "id": 435,
+      "level_image": 3,
+      "answer_text": "PROPOSAL",
+      "question": "formal suggestion or plan often in business, projects, or romantic relationships"
+    },
+    {
+      "id": 436,
+      "level_image": 3,
+      "answer_text": "WORKSHOP",
+      "question": "individuals participate in hands-on learning, skill-building activities,"
+    },
+    {
+      "id": 437,
+      "level_image": 3,
+      "answer_text": "BUFFALOS",
+      "question": "herbivorous mammals with a distinct hump on their shoulders,"
+    },
+    {
+      "id": 438,
+      "level_image": 3,
+      "answer_text": "LAUGHTER",
+      "question": "spontaneous vocal expression of amusement or joy,"
+    },
+    {
+      "id": 439,
+      "level_image": 3,
+      "answer_text": "BALDHEAD",
+      "question": "describe a person with little to no hair on their scalp,"
+    },
+    {
+      "id": 440,
+      "level_image": 0,
+      "answer_text": "COLORFUL",
+      "question": "something that is rich in various hues, tones, or vibrant shades,"
+    }
+  ]
+}

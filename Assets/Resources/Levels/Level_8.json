@@ -1,0 +1,59 @@
+{
+  "LevelId": 8,
+  "Questions": [
+    {
+      "id": 69,
+      "level_image": 2,
+      "answer_text": "EBOOK",
+      "question": "Digital reading material"
+    },
+    {
+      "id": 70,
+      "level_image": 2,
+      "answer_text": "BIBLE",
+      "question": "Sacred text for Christians"
+    },
+    {
+      "id": 71,
+      "level_image": 2,
+      "answer_text": "BRUSH",
+      "question": "Tool for painting or grooming"
+    },
+    {
+      "id": 72,
+      "level_image": 2,
+      "answer_text": "STARS",
+      "question": "Bright celestial objects in the night sky"
+    },
+    {
+      "id": 73,
+      "level_image": 2,
+      "answer_text": "CHAIR",
+      "question": "furniture designed for sitting, typically with a back and four legs"
+    },
+    {
+      "id": 74,
+      "level_image": 2,
+      "answer_text": "IDEAS",
+      "question": "creative thoughts or concepts called"
+    },
+    {
+      "id": 75,
+      "level_image": 2,
+      "answer_text": "BADGE",
+      "question": "small piece of metal or cloth with a design or symbol"
+    },
+    {
+      "id": 76,
+      "level_image": 2,
+      "answer_text": "CYCLE",
+      "question": "a two-wheeled vehicle, typically powered by pedals"
+    },
+    {
+      "id": 77,
+      "level_image": 0,
+      "answer_text": "BIRTHDAY",
+      "question": "celebration marks the anniversary of a person's birth"
+    }
+  ]
+}

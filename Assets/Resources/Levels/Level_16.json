@@ -1,0 +1,77 @@
+{
+  "LevelId": 16,
+  "Questions": [
+    {
+      "id": 154,
+      "level_image": 7,
+      "answer_text": "CLICKABLE",
+      "question": "Capable of being selected or activated with a mouse"
+    },
+    {
+      "id": 155,
+      "level_image": 7,
+      "answer_text": "WEAPONIZE",
+      "question": "To adapt something for use as a weapon"
+    },
+    {
+      "id": 156,
+      "level_image": 7,
+      "answer_text": "BASHFULLY",
+      "question": "In a shy or timid manner"
+    },
+    {
+      "id": 157,
+      "level_image": 7,
+      "answer_text": "BARRELLED",
+      "question": "Stored in cylindrical containers"
+    },
+    {
+      "id": 158,
+      "level_image": 7,
+      "answer_text": "BALLPOINT",
+      "question": "type of pen has a small rotating ball at its tip for ink application"
+    },
+    {
+      "id": 159,
+      "level_image": 7,
+      "answer_text": "BLACKWOOD",
+      "question": "type of wood is known for its dark color and is often used in furniture and crafting"
+    },
+    {
+      "id": 160,
+      "level_image": 7,
+      "answer_text": "BASELINER",
+      "question": "In tennis, what term refers to a player who typically stays near the baseline during play"
+    },
+    {
+      "id": 161,
+      "level_image": 7,
+      "answer_text": "BLACKMAIL",
+      "question": "Coercive threat to reveal damaging information"
+    },
+    {
+      "id": 162,
+      "level_image": 7,
+      "answer_text": "BLUEPRINT",
+      "question": "Detailed plan or design for construction"
+    },
+    {
+      "id": 163,
+      "level_image": 7,
+      "answer_text": "JACKSTRAW",
+      "question": "game involves removing pieces without disturbing the arrangement"
+    },
+    {
+      "id": 164,
+      "level_image": 7,
+      "answer_text": "JAILBREAK",
+      "question": "Unauthorized escape from confinement"
+    },
+    {
+      "id": 165,
+      "level_image": 0,
+      "answer_text": "BILLIONAIRE",
+      "question": "Person with a net worth exceeding one billion dollars"
+    }
+  ]
+}

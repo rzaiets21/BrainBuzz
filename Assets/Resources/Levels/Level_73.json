@@ -1,0 +1,71 @@
+{
+  "LevelId": 73,
+  "Questions": [
+    {
+      "id": 745,
+      "level_image": 5,
+      "answer_text": "GRILLWORKS",
+      "question": "precision-engineered grilling equipment known for its exceptional performance and durability"
+    },
+    {
+      "id": 746,
+      "level_image": 5,
+      "answer_text": "CALCULATOR",
+      "question": "mathematical computations and solving numerical problems,"
+    },
+    {
+      "id": 747,
+      "level_image": 5,
+      "answer_text": "DETOXICATE",
+      "question": "process of removing harmful substances or toxins from the body"
+    },
+    {
+      "id": 748,
+      "level_image": 5,
+      "answer_text": "BACTEREMIC",
+      "question": "a condition characterized by the presence of bacteria in the bloodstream"
+    },
+    {
+      "id": 749,
+      "level_image": 5,
+      "answer_text": "TELEMARKED",
+      "question": "phone calls from sales representatives trying to promote products or services"
+    },
+    {
+      "id": 750,
+      "level_image": 5,
+      "answer_text": "CORNBREADS",
+      "question": "savory bread, often associated with Southern cuisine, is made using cornmeal as a primary ingredient"
+    },
+    {
+      "id": 751,
+      "level_image": 5,
+      "answer_text": "ALVEOLARLY",
+      "question": "breathing occur, specifically referring to the proper expansion"
+    },
+    {
+      "id": 752,
+      "level_image": 5,
+      "answer_text": "ENTERTAINS",
+      "question": "talented host or performer do to engage, amuse, and captivate an audience"
+    },
+    {
+      "id": 753,
+      "level_image": 5,
+      "answer_text": "FIBERBOARD",
+      "question": "construction and furniture, is made by compressing and molding wood fibers"
+    },
+    {
+      "id": 754,
+      "level_image": 5,
+      "answer_text": "CAMPGROUND",
+      "question": "outdoor enthusiasts typically set up tents or park RVs to enjoy the natural surroundings,"
+    },
+    {
+      "id": 755,
+      "level_image": 0,
+      "answer_text": "LUXEMBOURG",
+      "question": "European country, known for its picturesque landscapes, medieval castles, and a blend of French,"
+    }
+  ]
+}

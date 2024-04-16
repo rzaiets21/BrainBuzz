@@ -1,0 +1,59 @@
+{
+  "LevelId": 29,
+  "Questions": [
+    {
+      "id": 294,
+      "level_image": 4,
+      "answer_text": "FINGER",
+      "question": "body part is commonly used for pointing, touching,"
+    },
+    {
+      "id": 295,
+      "level_image": 4,
+      "answer_text": "FOREST",
+      "question": "typically covered with trees and undergrowth"
+    },
+    {
+      "id": 296,
+      "level_image": 4,
+      "answer_text": "EXPERT",
+      "question": "advanced knowledge and skills in a particular field or subject"
+    },
+    {
+      "id": 297,
+      "level_image": 4,
+      "answer_text": "FRENCH",
+      "question": "language is widely spoken in France"
+    },
+    {
+      "id": 298,
+      "level_image": 4,
+      "answer_text": "DOLLAR",
+      "question": "official currency of the United States"
+    },
+    {
+      "id": 299,
+      "level_image": 4,
+      "answer_text": "DONATE",
+      "question": "take to contribute money or goods to a charitable cause"
+    },
+    {
+      "id": 300,
+      "level_image": 4,
+      "answer_text": "BANNER",
+      "question": "display used for advertising or conveying a message"
+    },
+    {
+      "id": 301,
+      "level_image": 4,
+      "answer_text": "BORDER",
+      "question": "marks the outermost part of a region or surface"
+    },
+    {
+      "id": 302,
+      "level_image": 0,
+      "answer_text": "GREENLAND",
+      "question": "is known for its vast ice sheet and stunning landscapes"
+    }
+  ]
+}

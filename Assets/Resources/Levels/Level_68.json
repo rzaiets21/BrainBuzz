@@ -1,0 +1,71 @@
+{
+  "LevelId": 68,
+  "Questions": [
+    {
+      "id": 694,
+      "level_image": 5,
+      "answer_text": "BLACKBUCKS",
+      "question": "Indian antelope species known for its distinctive black and white coloration,"
+    },
+    {
+      "id": 695,
+      "level_image": 5,
+      "answer_text": "ALPENGLOWS",
+      "question": "the rosy or reddish glow often observed on the mountainside,"
+    },
+    {
+      "id": 696,
+      "level_image": 5,
+      "answer_text": "ACQUITTERS",
+      "question": "individuals who have been declared not guilty or acquitted in a legal proceeding,"
+    },
+    {
+      "id": 697,
+      "level_image": 5,
+      "answer_text": "BAROGRAPHS",
+      "question": "instruments are designed to continuously record changes in atmospheric pressure,"
+    },
+    {
+      "id": 698,
+      "level_image": 5,
+      "answer_text": "ALCOHOLICS",
+      "question": "individuals who struggle with alcohol dependence or addiction,"
+    },
+    {
+      "id": 699,
+      "level_image": 5,
+      "answer_text": "ADULTERESS",
+      "question": "a woman who engages in extramarital affairs or relationships"
+    },
+    {
+      "id": 700,
+      "level_image": 5,
+      "answer_text": "BACKHAULED",
+      "question": "transportation industry practice of carrying a return load on a truck"
+    },
+    {
+      "id": 701,
+      "level_image": 5,
+      "answer_text": "AMAZONITES",
+      "question": "group of ancient female warriors in Greek mythology,"
+    },
+    {
+      "id": 702,
+      "level_image": 5,
+      "answer_text": "BARHOPPING",
+      "question": "social activity of moving from one bar to another, often in a single night,"
+    },
+    {
+      "id": 703,
+      "level_image": 5,
+      "answer_text": "BECUDGELED",
+      "question": "past tense of the action involving the beating or striking of someone"
+    },
+    {
+      "id": 704,
+      "level_image": 0,
+      "answer_text": "KNIGHTHOOD",
+      "question": "honorary title and social status granted to individuals for their exemplary service,"
+    }
+  ]
+}

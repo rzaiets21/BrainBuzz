@@ -1,0 +1,65 @@
+{
+  "LevelId": 62,
+  "Questions": [
+    {
+      "id": 629,
+      "level_image": 6,
+      "answer_text": "FESTIVALS",
+      "question": "events or celebrations marked by a series of coordinated activities, performances,"
+    },
+    {
+      "id": 630,
+      "level_image": 6,
+      "answer_text": "BACKBENCH",
+      "question": "who do not hold ministerial positions and sit behind the front rows in the parliamentary chamber"
+    },
+    {
+      "id": 631,
+      "level_image": 6,
+      "answer_text": "BLACKGUMS",
+      "question": "trees, often known for their distinctive dark bark and colorful foliage in the autumn,"
+    },
+    {
+      "id": 632,
+      "level_image": 6,
+      "answer_text": "BLUEBERRY",
+      "question": "small, round, and often sweet fruit is known for its blue color"
+    },
+    {
+      "id": 633,
+      "level_image": 6,
+      "answer_text": "ADDICTIVE",
+      "question": "activity that creates a strong dependency and compels individuals"
+    },
+    {
+      "id": 634,
+      "level_image": 6,
+      "answer_text": "AMBULANCE",
+      "question": "n emergencies, what vehicle equipped with medical facilities is dispatched to transport individuals,"
+    },
+    {
+      "id": 635,
+      "level_image": 6,
+      "answer_text": "BELLYBAND",
+      "question": "wide band of fabric worn around the midsection, often providing support for the abdomen,"
+    },
+    {
+      "id": 636,
+      "level_image": 6,
+      "answer_text": "ASTROLOGY",
+      "question": "celestial bodies' positions and their potential influence on human affairs and natural events,"
+    },
+    {
+      "id": 637,
+      "level_image": 6,
+      "answer_text": "BACKSEATS",
+      "question": "typical car, where are the seats located that are behind the front seats"
+    },
+    {
+      "id": 638,
+      "level_image": 0,
+      "answer_text": "VEGETABLE",
+      "question": "edible plant or part of a plant that is used for cooking"
+    }
+  ]
+}

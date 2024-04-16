@@ -1,0 +1,65 @@
+{
+  "LevelId": 5,
+  "Questions": [
+    {
+      "id": 40,
+      "level_image": 3,
+      "answer_text": "PUBLIC",
+      "question": "Open to everyone"
+    },
+    {
+      "id": 41,
+      "level_image": 3,
+      "answer_text": "LAUNCH",
+      "question": "Beginning of a mission"
+    },
+    {
+      "id": 42,
+      "level_image": 3,
+      "answer_text": "ACTION",
+      "question": "Doing something or taking part in an event"
+    },
+    {
+      "id": 43,
+      "level_image": 3,
+      "answer_text": "TATTOO",
+      "question": "Permanent body art"
+    },
+    {
+      "id": 44,
+      "level_image": 3,
+      "answer_text": "CHEESE",
+      "question": "Dairy product often used in sandwiches"
+    },
+    {
+      "id": 45,
+      "level_image": 3,
+      "answer_text": "BARBER",
+      "question": "Who specializes in cutting and styling hair"
+    },
+    {
+      "id": 46,
+      "level_image": 4,
+      "answer_text": "COFFEE",
+      "question": "popular beverage made from roasted beans"
+    },
+    {
+      "id": 47,
+      "level_image": 4,
+      "answer_text": "PARLOR",
+      "question": "Where might you go for beauty treatments"
+    },
+    {
+      "id": 48,
+      "level_image": 4,
+      "answer_text": "CANYON",
+      "question": "Deep gorge or ravine"
+    },
+    {
+      "id": 49,
+      "level_image": 0,
+      "answer_text": "BUTTERFLY",
+      "question": "Colorful winged insect"
+    }
+  ]
+}

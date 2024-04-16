@@ -1,0 +1,65 @@
+{
+  "LevelId": 35,
+  "Questions": [
+    {
+      "id": 356,
+      "level_image": 5,
+      "answer_text": "BASKETS",
+      "question": "items, often woven from materials like wood, straw, or plastic,"
+    },
+    {
+      "id": 357,
+      "level_image": 5,
+      "answer_text": "FREEDOM",
+      "question": "human right is often associated with the absence of coercion or constraint,"
+    },
+    {
+      "id": 358,
+      "level_image": 5,
+      "answer_text": "FORMULA",
+      "question": "describe a set of symbols or expressions representing a mathematical relationship,"
+    },
+    {
+      "id": 359,
+      "level_image": 5,
+      "answer_text": "PRINCES",
+      "question": "term used to refer to the sons of a reigning king or queen"
+    },
+    {
+      "id": 360,
+      "level_image": 5,
+      "answer_text": "PACKAGE",
+      "question": "call a wrapped or sealed container holding goods or items,"
+    },
+    {
+      "id": 361,
+      "level_image": 5,
+      "answer_text": "DESKTOP",
+      "question": "type of computer setup typically consists of a monitor, keyboard, and mouse,"
+    },
+    {
+      "id": 362,
+      "level_image": 5,
+      "answer_text": "DRAWING",
+      "question": "activity involves creating images or designs by marking a surface with pencils, pens, charcoal,"
+    },
+    {
+      "id": 363,
+      "level_image": 5,
+      "answer_text": "BEDROOM",
+      "question": "typical home, what is the designated space for sleeping and personal activities,"
+    },
+    {
+      "id": 364,
+      "level_image": 5,
+      "answer_text": "FINANCE",
+      "question": "field of study or practice involves managing money, investments,"
+    },
+    {
+      "id": 365,
+      "level_image": 0,
+      "answer_text": "EDUCATION",
+      "question": "the process of acquiring knowledge, skills, values, and attitudes,"
+    }
+  ]
+}

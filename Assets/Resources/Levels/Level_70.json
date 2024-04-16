@@ -1,0 +1,65 @@
+{
+  "LevelId": 70,
+  "Questions": [
+    {
+      "id": 715,
+      "level_image": 5,
+      "answer_text": "ADULTHOOD",
+      "question": "stage of life characterized by maturity, independence,"
+    },
+    {
+      "id": 716,
+      "level_image": 5,
+      "answer_text": "BOATHOUSE",
+      "question": "a building or structure specifically designed to store and protect boats,"
+    },
+    {
+      "id": 717,
+      "level_image": 5,
+      "answer_text": "ALLERGINS",
+      "question": "substances that trigger allergic reactions in individuals,"
+    },
+    {
+      "id": 718,
+      "level_image": 5,
+      "answer_text": "BASSINETS",
+      "question": "small, portable beds designed for infants,"
+    },
+    {
+      "id": 719,
+      "level_image": 5,
+      "answer_text": "ARTILLERY",
+      "question": "large-caliber firearms, such as cannons and heavy guns,"
+    },
+    {
+      "id": 720,
+      "level_image": 5,
+      "answer_text": "BOATLANDS",
+      "question": "areas or regions known for their concentration of boat-related activities,"
+    },
+    {
+      "id": 721,
+      "level_image": 5,
+      "answer_text": "CANNIBALS",
+      "question": "individuals or communities that historically practiced the act of consuming the flesh of their own species,"
+    },
+    {
+      "id": 722,
+      "level_image": 5,
+      "answer_text": "ARRANGING",
+      "question": "activity of organizing or placing items, elements, or objects in a deliberate and systematic order"
+    },
+    {
+      "id": 723,
+      "level_image": 5,
+      "answer_text": "FILAGREED",
+      "question": "ornamental work, often intricate and delicate, made of threads or thin strips of metal"
+    },
+    {
+      "id": 724,
+      "level_image": 0,
+      "answer_text": "THRILLING",
+      "question": "describe the intense and exciting feeling,"
+    }
+  ]
+}

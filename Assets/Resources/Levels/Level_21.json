@@ -1,0 +1,77 @@
+{
+  "LevelId": 21,
+  "Questions": [
+    {
+      "id": 208,
+      "level_image": 7,
+      "answer_text": "IDEOLOGY",
+      "question": "System of ideas and beliefs, especially political or economic ones"
+    },
+    {
+      "id": 209,
+      "level_image": 7,
+      "answer_text": "NORTHERN",
+      "question": "Directional term indicating the point on the compass opposite to south"
+    },
+    {
+      "id": 210,
+      "level_image": 7,
+      "answer_text": "INTERNAL",
+      "question": "Located or situated on the inside"
+    },
+    {
+      "id": 211,
+      "level_image": 7,
+      "answer_text": "STUNNING",
+      "question": "Extremely impressive or attractive"
+    },
+    {
+      "id": 212,
+      "level_image": 7,
+      "answer_text": "HANDMADE",
+      "question": "Created or crafted by hand rather than by machine"
+    },
+    {
+      "id": 213,
+      "level_image": 7,
+      "answer_text": "BLOSSOMS",
+      "question": "Flowers on a plant, especially when forming a cluster or covering a tree"
+    },
+    {
+      "id": 214,
+      "level_image": 7,
+      "answer_text": "TEASPOON",
+      "question": "Small spoons used for stirring and serving tea or coffee"
+    },
+    {
+      "id": 215,
+      "level_image": 7,
+      "answer_text": "ACCOUNTS",
+      "question": "Financial records of money transactions in a business"
+    },
+    {
+      "id": 216,
+      "level_image": 7,
+      "answer_text": "PENLIGHT",
+      "question": "Small portable flashlight typically shaped like a pen"
+    },
+    {
+      "id": 217,
+      "level_image": 7,
+      "answer_text": "NINTEEN",
+      "question": "The numerical representation of the year after eighteen"
+    },
+    {
+      "id": 218,
+      "level_image": 7,
+      "answer_text": "INDYSTRY",
+      "question": "Economic activity concerned with the processing of raw materials and manufacturing of goods"
+    },
+    {
+      "id": 219,
+      "level_image": 0,
+      "answer_text": "GRANDMOTHER",
+      "question": "Mother's mother"
+    }
+  ]
+}

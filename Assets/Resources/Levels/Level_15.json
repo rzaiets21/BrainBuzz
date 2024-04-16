@@ -1,0 +1,83 @@
+{
+  "LevelId": 15,
+  "Questions": [
+    {
+      "id": 141,
+      "level_image": 4,
+      "answer_text": "BACKBONE",
+      "question": "central supporting structure of the vertebrate skeleton, protecting the spinal cord"
+    },
+    {
+      "id": 142,
+      "level_image": 4,
+      "answer_text": "ACCIDENT",
+      "question": "an unexpected and undesirable event, often resulting in harm or damage"
+    },
+    {
+      "id": 143,
+      "level_image": 4,
+      "answer_text": "BRANDING",
+      "question": "process of creating a distinctive image or identity for a product or company"
+    },
+    {
+      "id": 144,
+      "level_image": 4,
+      "answer_text": "CUDDLING",
+      "question": "Intimate embrace for warmth and affection"
+    },
+    {
+      "id": 145,
+      "level_image": 4,
+      "answer_text": "BLUESEAS",
+      "question": "Vast, serene ocean expanses"
+    },
+    {
+      "id": 146,
+      "level_image": 4,
+      "answer_text": "HORRIBLE",
+      "question": "Extremely unpleasant or dreadful"
+    },
+    {
+      "id": 147,
+      "level_image": 5,
+      "answer_text": "BLOGGERS",
+      "question": "Online content creators"
+    },
+    {
+      "id": 148,
+      "level_image": 5,
+      "answer_text": "TEENAGER",
+      "question": "Youth between 13 and 19 years old"
+    },
+    {
+      "id": 149,
+      "level_image": 5,
+      "answer_text": "ABNORMAL",
+      "question": "Deviating from the usual or expected"
+    },
+    {
+      "id": 150,
+      "level_image": 5,
+      "answer_text": "ADAPTERS",
+      "question": "Devices for connecting different types of plugs or components"
+    },
+    {
+      "id": 151,
+      "level_image": 5,
+      "answer_text": "VIOLENCE",
+      "question": "describes the use of force to cause harm or damage, often involving physical aggression"
+    },
+    {
+      "id": 152,
+      "level_image": 5,
+      "answer_text": "CALENDAR",
+      "question": "system for organizing and measuring time, typically divided into days, weeks, months, and years"
+    },
+    {
+      "id": 153,
+      "level_image": 0,
+      "answer_text": "KINDERGARTEN",
+      "question": "Early childhood educational program"
+    }
+  ]
+}

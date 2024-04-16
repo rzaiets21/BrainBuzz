@@ -1,0 +1,59 @@
+{
+  "LevelId": 75,
+  "Questions": [
+    {
+      "id": 766,
+      "level_image": 4,
+      "answer_text": "CLAMMIER",
+      "question": "describes an increased level of moisture or stickiness"
+    },
+    {
+      "id": 767,
+      "level_image": 4,
+      "answer_text": "FRUITERS",
+      "question": "commonly used to refer to individuals or businesses involved in the cultivation,"
+    },
+    {
+      "id": 768,
+      "level_image": 4,
+      "answer_text": "BOWLFULS",
+      "question": "measurement is used to describe the amount of food or liquid that can fit into a bowl"
+    },
+    {
+      "id": 769,
+      "level_image": 4,
+      "answer_text": "HABITATS",
+      "question": "environments do various species reside, showcasing a diverse range of ecosystems"
+    },
+    {
+      "id": 770,
+      "level_image": 4,
+      "answer_text": "FUTTOCKS",
+      "question": "curved timbers or ribs that form the frame of a ship's hull,"
+    },
+    {
+      "id": 771,
+      "level_image": 4,
+      "answer_text": "GETAWAYS",
+      "question": "escribe short trips or vacations taken to escape daily routines"
+    },
+    {
+      "id": 772,
+      "level_image": 4,
+      "answer_text": "BOTRYOID",
+      "question": "clustered, grape-like structure, often used to characterize certain mineral formations"
+    },
+    {
+      "id": 773,
+      "level_image": 4,
+      "answer_text": "PLAYROOM",
+      "question": "space in a house is designed for children to engage in recreational and creative activities,"
+    },
+    {
+      "id": 774,
+      "level_image": 0,
+      "answer_text": "MILITARY",
+      "question": "disciplined force is responsible for the defense and protection of a nation,"
+    }
+  ]
+}

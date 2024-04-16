@@ -1,0 +1,71 @@
+{
+  "LevelId": 30,
+  "Questions": [
+    {
+      "id": 303,
+      "level_image": 6,
+      "answer_text": "COMPUTER",
+      "question": "electronic device do you use for processing and storing information,"
+    },
+    {
+      "id": 304,
+      "level_image": 6,
+      "answer_text": "JOCOSELY",
+      "question": "playfully or humorously approach a situation or conversation"
+    },
+    {
+      "id": 305,
+      "level_image": 6,
+      "answer_text": "CLINICAL",
+      "question": "related to medical or scientific examinations"
+    },
+    {
+      "id": 306,
+      "level_image": 6,
+      "answer_text": "BOOKSHOP",
+      "question": "find a variety of books for purchase or browsing"
+    },
+    {
+      "id": 307,
+      "level_image": 7,
+      "answer_text": "HIRAGANG",
+      "question": "syllabic script used for writing the Japanese language"
+    },
+    {
+      "id": 308,
+      "level_image": 7,
+      "answer_text": "HIGHSPOT",
+      "question": "place or thing of exceptional interest or importance"
+    },
+    {
+      "id": 309,
+      "level_image": 7,
+      "answer_text": "HAWKBILL",
+      "question": "pointed blade, resembling the beak of a bird of prey"
+    },
+    {
+      "id": 310,
+      "level_image": 7,
+      "answer_text": "HAFTOROS",
+      "question": "typically penned by renowned scholars in Jewish tradition, called"
+    },
+    {
+      "id": 311,
+      "level_image": 7,
+      "answer_text": "MORTGAGE",
+      "question": "where the borrower pledges the property as collateral for the loan"
+    },
+    {
+      "id": 312,
+      "level_image": 7,
+      "answer_text": "BOOKBAGS",
+      "question": "carry their books, notebooks, and other school"
+    },
+    {
+      "id": 313,
+      "level_image": 0,
+      "answer_text": "TECHNOLOGY",
+      "question": "often involving the use of electronic devices and systems"
+    }
+  ]
+}

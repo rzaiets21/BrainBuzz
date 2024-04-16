@@ -1,0 +1,71 @@
+{
+  "LevelId": 63,
+  "Questions": [
+    {
+      "id": 639,
+      "level_image": 5,
+      "answer_text": "CHARCOAL",
+      "question": "black, porous substance primarily composed of carbon, obtained by heating wood,"
+    },
+    {
+      "id": 640,
+      "level_image": 5,
+      "answer_text": "CARBOLIC",
+      "question": "describe a compound derived from coal tar or phenol,"
+    },
+    {
+      "id": 641,
+      "level_image": 5,
+      "answer_text": "CACKLING",
+      "question": "associated with the loud, raucous laughter typically heard from certain birds,"
+    },
+    {
+      "id": 642,
+      "level_image": 5,
+      "answer_text": "COPYLEFT",
+      "question": "creative works allows for the free use, modification, and distribution of the work,"
+    },
+    {
+      "id": 643,
+      "level_image": 5,
+      "answer_text": "COUTEAUX",
+      "question": "French term for \"knives\""
+    },
+    {
+      "id": 644,
+      "level_image": 5,
+      "answer_text": "CUBICITY",
+      "question": "associated with three-dimensional geometric shapes and structures"
+    },
+    {
+      "id": 645,
+      "level_image": 5,
+      "answer_text": "CAROTIDS",
+      "question": "located in the neck that supply blood to the brain and head,"
+    },
+    {
+      "id": 646,
+      "level_image": 5,
+      "answer_text": "CARBINOL",
+      "question": "compound that contains a hydroxyl (-OH) group attached to a carbon atom,"
+    },
+    {
+      "id": 647,
+      "level_image": 5,
+      "answer_text": "AARDVARK",
+      "question": "nocturnal mammal native to Africa that is known for its long snout, large ears,"
+    },
+    {
+      "id": 648,
+      "level_image": 5,
+      "answer_text": "CASSENAS",
+      "question": "traditional folk music and dance genre originating from the Dominican Republic,"
+    },
+    {
+      "id": 649,
+      "level_image": 0,
+      "answer_text": "COLLECTIVE",
+      "question": "assembly of individuals united by a shared purpose, goal, or interest,"
+    }
+  ]
+}

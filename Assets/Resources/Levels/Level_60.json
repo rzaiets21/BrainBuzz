@@ -1,0 +1,59 @@
+{
+  "LevelId": 60,
+  "Questions": [
+    {
+      "id": 609,
+      "level_image": 6,
+      "answer_text": "ADVOCATING",
+      "question": "the action of publicly supporting or promoting a particular cause, idea, or policy,"
+    },
+    {
+      "id": 610,
+      "level_image": 6,
+      "answer_text": "ANIMALCULE",
+      "question": "microscopic or tiny animal, often not visible to the naked eye,"
+    },
+    {
+      "id": 611,
+      "level_image": 6,
+      "answer_text": "APOCOPATES",
+      "question": "words or phrases that have undergone the linguistic process of apocope,"
+    },
+    {
+      "id": 612,
+      "level_image": 6,
+      "answer_text": "ANTIPHONAL",
+      "question": "individuals alternate singing or playing in a responsive manner,"
+    },
+    {
+      "id": 613,
+      "level_image": 6,
+      "answer_text": "BACKLASHES",
+      "question": "reactions or negative consequences resulting from a particular action, policy, or statement,"
+    },
+    {
+      "id": 614,
+      "level_image": 6,
+      "answer_text": "CHECKBOOKS",
+      "question": "manage financial transactions, typically consisting of a booklet containing detachable checks"
+    },
+    {
+      "id": 615,
+      "level_image": 6,
+      "answer_text": "BITCHERIES",
+      "question": "instances of harsh or cruel behavior,"
+    },
+    {
+      "id": 616,
+      "level_image": 6,
+      "answer_text": "ANIMATIONS",
+      "question": "process of creating moving images or cartoons by displaying"
+    },
+    {
+      "id": 617,
+      "level_image": 0,
+      "answer_text": "ALPHABET",
+      "question": "set of letters or symbols representing the basic elements of a writing system,"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "LevelId": 41,
+  "Questions": [
+    {
+      "id": 419,
+      "level_image": 7,
+      "answer_text": "CABBAGED",
+      "question": "describe someone who is in a state of confusion, disarray,"
+    },
+    {
+      "id": 420,
+      "level_image": 7,
+      "answer_text": "ADOPTING",
+      "question": "action involves legally taking on the responsibility for and care of a child or a pet,"
+    },
+    {
+      "id": 421,
+      "level_image": 7,
+      "answer_text": "BABYSITS",
+      "question": "the temporary care and supervision provided by an individual for someone else's child,"
+    },
+    {
+      "id": 422,
+      "level_image": 7,
+      "answer_text": "BANKCARD",
+      "question": "term is commonly used to refer to a plastic card issued by a financial institution,"
+    },
+    {
+      "id": 423,
+      "level_image": 7,
+      "answer_text": "ARRESTED",
+      "question": "the legal situation when someone is taken into custody by law"
+    },
+    {
+      "id": 424,
+      "level_image": 7,
+      "answer_text": "AUTOTYPE",
+      "question": "devices that automatically completes or suggests words, phrases,"
+    },
+    {
+      "id": 425,
+      "level_image": 7,
+      "answer_text": "BACKYARD",
+      "question": "the private outdoor area at the rear of a house,"
+    },
+    {
+      "id": 426,
+      "level_image": 7,
+      "answer_text": "BICYCLER",
+      "question": "individual who rides a two-wheeled vehicle"
+    },
+    {
+      "id": 427,
+      "level_image": 7,
+      "answer_text": "AUTOPENS",
+      "question": "devices are often used to automatically replicate a person's signature,"
+    },
+    {
+      "id": 428,
+      "level_image": 7,
+      "answer_text": "BAKERIES",
+      "question": "sale of various baked goods, such as bread, pastries, cakes, and cookies"
+    },
+    {
+      "id": 429,
+      "level_image": 7,
+      "answer_text": "BOUTIQUE",
+      "question": "describe a small, stylish shop that offers unique and often high-end clothing,"
+    },
+    {
+      "id": 430,
+      "level_image": 7,
+      "answer_text": "BODYWORK",
+      "question": "individuals to engage in physical workouts and activities"
+    },
+    {
+      "id": 431,
+      "level_image": 0,
+      "answer_text": "ENTREPRENEUR",
+      "question": "individual who starts and operates a business, taking financial risks"
+    }
+  ]
+}

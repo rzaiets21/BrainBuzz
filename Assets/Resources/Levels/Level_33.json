@@ -1,0 +1,65 @@
+{
+  "LevelId": 33,
+  "Questions": [
+    {
+      "id": 336,
+      "level_image": 6,
+      "answer_text": "BACKBITER",
+      "question": "often spreading harmful gossip or criticism"
+    },
+    {
+      "id": 337,
+      "level_image": 6,
+      "answer_text": "JACKKNIFE",
+      "question": "refer to a folding knife with blades that pivot at the end,"
+    },
+    {
+      "id": 338,
+      "level_image": 6,
+      "answer_text": "LEGENDARY",
+      "question": "describe something or someone with extraordinary fame, excellence,"
+    },
+    {
+      "id": 339,
+      "level_image": 6,
+      "answer_text": "KICKBOXER",
+      "question": "athlete trained in a hybrid martial art"
+    },
+    {
+      "id": 340,
+      "level_image": 6,
+      "answer_text": "AIRLINERS",
+      "question": "long-range aircraft is designed for transporting passengers"
+    },
+    {
+      "id": 341,
+      "level_image": 6,
+      "answer_text": "GRANDEZZA",
+      "question": "Italian word, meaning \"grandeur\" or \"greatness,\" is often used to describe"
+    },
+    {
+      "id": 342,
+      "level_image": 6,
+      "answer_text": "BABYISHLY",
+      "question": "manner might someone behave if they are acting in an overly childish or infantile way"
+    },
+    {
+      "id": 343,
+      "level_image": 6,
+      "answer_text": "APPETIZER",
+      "question": "flavorful dish served before the main course to stimulate one's appetite"
+    },
+    {
+      "id": 344,
+      "level_image": 6,
+      "answer_text": "FLIMMAKER",
+      "question": "professional involved in the creation and production of films,"
+    },
+    {
+      "id": 345,
+      "level_image": 0,
+      "answer_text": "INDONESIA",
+      "question": "Southeast Asian country is the world's largest archipelago,"
+    }
+  ]
+}

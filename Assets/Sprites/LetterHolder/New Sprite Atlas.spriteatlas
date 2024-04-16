@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 99495fedae61ec64b9719dc1618e8cab, type: 3}
+    - {fileID: 2800000, guid: ec37d5f2420182441ae3b2572996dbd3, type: 3}
+    - {fileID: 2800000, guid: abe74bc50ae195a4ca62b12a9d4aa060, type: 3}
+    - {fileID: 2800000, guid: 7bfcb5dd07d738f4eab196c476a5bf7c, type: 3}
+    - {fileID: 2800000, guid: 4dd931bedcc6f644f82615bd4d85224b, type: 3}
+    - {fileID: 2800000, guid: 11db6ab87af6ffc4f8c5b449e7c9c7e5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - ec37d5f2420182441ae3b2572996dbd3: 21300000
+    - abe74bc50ae195a4ca62b12a9d4aa060: 21300000
+    - 11db6ab87af6ffc4f8c5b449e7c9c7e5: 21300000
+    - 7bfcb5dd07d738f4eab196c476a5bf7c: 21300000
+    - 99495fedae61ec64b9719dc1618e8cab: 21300000
+    - 4dd931bedcc6f644f82615bd4d85224b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ec37d5f2420182441ae3b2572996dbd3, type: 3}
+  - {fileID: 21300000, guid: abe74bc50ae195a4ca62b12a9d4aa060, type: 3}
+  - {fileID: 21300000, guid: 11db6ab87af6ffc4f8c5b449e7c9c7e5, type: 3}
+  - {fileID: 21300000, guid: 7bfcb5dd07d738f4eab196c476a5bf7c, type: 3}
+  - {fileID: 21300000, guid: 99495fedae61ec64b9719dc1618e8cab, type: 3}
+  - {fileID: 21300000, guid: 4dd931bedcc6f644f82615bd4d85224b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DropShadow
+  - Holder
+  - MaskInnerShadow
+  - InnerShadow
+  - Base
+  - Mask
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

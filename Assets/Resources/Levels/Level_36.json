@@ -1,0 +1,71 @@
+{
+  "LevelId": 36,
+  "Questions": [
+    {
+      "id": 366,
+      "level_image": 7,
+      "answer_text": "HEALTHCARE",
+      "question": "improvement of people's physical and mental well-being, providing medical services, treatment"
+    },
+    {
+      "id": 367,
+      "level_image": 7,
+      "answer_text": "BACKGROUND",
+      "question": "commonly used to describe the personal, professional, or historical information"
+    },
+    {
+      "id": 368,
+      "level_image": 7,
+      "answer_text": "DAZZLEMENT",
+      "question": "word is used to describe the state of being intensely impressed, captivated,"
+    },
+    {
+      "id": 369,
+      "level_image": 7,
+      "answer_text": "BUCKJUMPER",
+      "question": "term is used for a horse that has a tendency to jump high"
+    },
+    {
+      "id": 370,
+      "level_image": 7,
+      "answer_text": "AIRSTRIKES",
+      "question": "In military operations, term is used to describe the delivery of bombs or missiles from aircraft,"
+    },
+    {
+      "id": 371,
+      "level_image": 7,
+      "answer_text": "ACTIVITIES",
+      "question": "term encompasses various actions, tasks, or pursuits"
+    },
+    {
+      "id": 372,
+      "level_image": 8,
+      "answer_text": "ASTRONOMER",
+      "question": "profession involves the study of celestial objects, such as stars, planets,"
+    },
+    {
+      "id": 373,
+      "level_image": 8,
+      "answer_text": "BILLBOARDS",
+      "question": "large outdoor advertising structures,"
+    },
+    {
+      "id": 374,
+      "level_image": 8,
+      "answer_text": "ATTANDANCE",
+      "question": "term is commonly used to refer to the presence of individuals"
+    },
+    {
+      "id": 375,
+      "level_image": 8,
+      "answer_text": "ALLEVIATOR",
+      "question": "In aviation, what specific control device is used to reduce the angle of attack"
+    },
+    {
+      "id": 376,
+      "level_image": 0,
+      "answer_text": "COMMITMENT",
+      "question": "term describes a dedicated and firm pledge or promise to a cause,"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "LevelId": 2,
+  "Questions": [
+    {
+      "id": 12,
+      "level_image": 4,
+      "answer_text": "BEACH",
+      "question": "What is the sandy shore along the edge of the ocean or a lake"
+    },
+    {
+      "id": 13,
+      "level_image": 4,
+      "answer_text": "ACTOR",
+      "question": "Who performs on stage or in front of a camera to portray characters in movies, plays, or TV shows"
+    },
+    {
+      "id": 14,
+      "level_image": 4,
+      "answer_text": "ENEMY",
+      "question": "What is a person or force that opposes or seeks to harm someone or something"
+    },
+    {
+      "id": 15,
+      "level_image": 4,
+      "answer_text": "ADOPT",
+      "question": "What is the term for legally taking someone else's child into one's own family"
+    },
+    {
+      "id": 16,
+      "level_image": 4,
+      "answer_text": "ALBUM",
+      "question": "What is a collection of songs or musical compositions released as a single entity"
+    },
+    {
+      "id": 17,
+      "level_image": 4,
+      "answer_text": "YOUTH",
+      "question": "What is the stage of life characterized by a young age, vigor, and inexperience"
+    },
+    {
+      "id": 18,
+      "level_image": 4,
+      "answer_text": "CAMEL",
+      "question": "What is a large, humped mammal often used for transportation in arid regions"
+    },
+    {
+      "id": 19,
+      "level_image": 4,
+      "answer_text": "HEART",
+      "question": "What organ pumps blood throughout the circulatory system in the human body"
+    },
+    {
+      "id": 20,
+      "level_image": 0,
+      "answer_text": "COMPUTER",
+      "question": "What electronic device processes data and performs calculations according to a set of instructions"
+    }
+  ]
+}

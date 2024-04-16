@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "343317039254",
+    "firebase_url": "https://brainbuzz-661f3-default-rtdb.firebaseio.com",
+    "project_id": "brainbuzz-661f3",
+    "storage_bucket": "brainbuzz-661f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343317039254:android:92399bc12c6883ecbadab7",
+        "android_client_info": {
+          "package_name": "com.brainbuzz.words"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTH_KY03JW3ATr2lSb8eE-XnoayVuocI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

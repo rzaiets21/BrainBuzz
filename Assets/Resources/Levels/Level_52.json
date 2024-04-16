@@ -1,0 +1,65 @@
+{
+  "LevelId": 52,
+  "Questions": [
+    {
+      "id": 523,
+      "level_image": 6,
+      "answer_text": "MARKETING",
+      "question": "strategic function responsible for promoting and selling products or services,"
+    },
+    {
+      "id": 524,
+      "level_image": 6,
+      "answer_text": "CHIPPERED",
+      "question": "he process of encoding or encrypting data to make it more secure"
+    },
+    {
+      "id": 525,
+      "level_image": 6,
+      "answer_text": "ISOPLETHS",
+      "question": "term refers to lines on a map that connect points of equal or constant value, often used in geography"
+    },
+    {
+      "id": 526,
+      "level_image": 6,
+      "answer_text": "CARBONALA",
+      "question": "classic Italian pasta dish features a creamy sauce made with eggs, and black pepper"
+    },
+    {
+      "id": 527,
+      "level_image": 6,
+      "answer_text": "CAVITATES",
+      "question": "In which process do bubbles or empty spaces form in a liquid,"
+    },
+    {
+      "id": 528,
+      "level_image": 6,
+      "answer_text": "CABBAGING",
+      "question": "the context of slang to describe the act of stealing or pilfering small items,"
+    },
+    {
+      "id": 529,
+      "level_image": 6,
+      "answer_text": "CHUNTERED",
+      "question": "describes the act of muttering or grumbling in a low,"
+    },
+    {
+      "id": 530,
+      "level_image": 6,
+      "answer_text": "CATARRHAL",
+      "question": "describe a medical condition characterized by inflammation of the mucous membranes,"
+    },
+    {
+      "id": 531,
+      "level_image": 6,
+      "answer_text": "INCLASPED",
+      "question": "the state of being firmly clasped or held together, often referring to hands, fingers, or objects tightly joined"
+    },
+    {
+      "id": 532,
+      "level_image": 0,
+      "answer_text": "TEENAGERS",
+      "question": "individuals typically in the age range of 13 to 19 years old, navigating the transition from childhood to adulthood"
+    }
+  ]
+}

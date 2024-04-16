@@ -1,0 +1,59 @@
+{
+  "LevelId": 72,
+  "Questions": [
+    {
+      "id": 736,
+      "level_image": 7,
+      "answer_text": "BARHOPPING",
+      "question": "the social activity of moving from one bar to another, often in a single night,"
+    },
+    {
+      "id": 737,
+      "level_image": 7,
+      "answer_text": "DEADHEADED",
+      "question": "describe the practice of removing spent or withered flowers from a plant,"
+    },
+    {
+      "id": 738,
+      "level_image": 7,
+      "answer_text": "BULLRUSHES",
+      "question": "refer to tall, aquatic plants with slender, cylindrical stems"
+    },
+    {
+      "id": 739,
+      "level_image": 7,
+      "answer_text": "HANDBASKET",
+      "question": "a small, portable basket that can be carried by hand,"
+    },
+    {
+      "id": 740,
+      "level_image": 7,
+      "answer_text": "BUTTONWOOD",
+      "question": "tree commonly found in coastal regions,"
+    },
+    {
+      "id": 741,
+      "level_image": 7,
+      "answer_text": "FOOTCOLTHS",
+      "question": "protective coverings for the feet, often made of fabric or leather"
+    },
+    {
+      "id": 742,
+      "level_image": 7,
+      "answer_text": "BODYWORKER",
+      "question": "professional specializing in therapeutic practices such as massage,"
+    },
+    {
+      "id": 743,
+      "level_image": 7,
+      "answer_text": "EYESHADOWS",
+      "question": "used to add color and definition to the eyelids, enhancing the eyes,"
+    },
+    {
+      "id": 744,
+      "level_image": 0,
+      "answer_text": "PASSWORD",
+      "question": "secret combination of characters, often a mix of letters, numbers, and symbols,"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "LevelId": 1,
+  "Questions": [
+    {
+      "id": 1,
+      "level_image": 3,
+      "answer_text": "BUDGET",
+      "question": "What is a financial plan that estimates income and expenditures over a certain period?"
+    },
+    {
+      "id": 2,
+      "level_image": 3,
+      "answer_text": "FRIEND",
+      "question": "Who is a person you have a close and trusting relationship with?"
+    },
+    {
+      "id": 3,
+      "level_image": 3,
+      "answer_text": "DOCTOR",
+      "question": "Who is trained to diagnose and treat illnesses and injuries?"
+    },
+    {
+      "id": 4,
+      "level_image": 3,
+      "answer_text": "BATTLE",
+      "question": "A conflict between opposing forces is known as"
+    },
+    {
+      "id": 5,
+      "level_image": 3,
+      "answer_text": "CLIENT",
+      "question": "Who seeks the services or advice of a professional or business"
+    },
+    {
+      "id": 6,
+      "level_image": 3,
+      "answer_text": "FLOWER",
+      "question": "What colorful and fragrant symbol of nature is often given on special occasions"
+    },
+    {
+      "id": 7,
+      "level_image": 3,
+      "answer_text": "IGNORE",
+      "question": "What is the opposite of paying attention to"
+    },
+    {
+      "id": 8,
+      "level_image": 3,
+      "answer_text": "BEAKER",
+      "question": "What is a cylindrical container with a flat bottom, used in laboratories for holding liquids"
+    },
+    {
+      "id": 9,
+      "level_image": 3,
+      "answer_text": "AIRBAG",
+      "question": "In a car, what safety device inflates upon impact to protect the occupants"
+    },
+    {
+      "id": 10,
+      "level_image": 3,
+      "answer_text": "FLYING",
+      "question": "What is the action of moving through the air, typically with wings or in an aircraft"
+    },
+    {
+      "id": 11,
+      "level_image": 0,
+      "answer_text": "DICTIONARY",
+      "question": "What is a reference book that provides definitions and explanations of words"
+    }
+  ]
+}

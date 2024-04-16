@@ -1,0 +1,65 @@
+{
+  "LevelId": 74,
+  "Questions": [
+    {
+      "id": 756,
+      "level_image": 6,
+      "answer_text": "CARMAKERS",
+      "question": "industry is responsible for manufacturing automobiles, and is comprised of companies that design"
+    },
+    {
+      "id": 757,
+      "level_image": 6,
+      "answer_text": "BREAKNECK",
+      "question": "speed or pace does an activity or movement occur when it is extremely fast and potentially reckless"
+    },
+    {
+      "id": 758,
+      "level_image": 6,
+      "answer_text": "BEATBOXED",
+      "question": "the rhythmic vocal percussion often used to mimic drum sounds"
+    },
+    {
+      "id": 759,
+      "level_image": 6,
+      "answer_text": "GRAVEWARD",
+      "question": "place or area is the final resting site for the deceased, often marked by tombstones"
+    },
+    {
+      "id": 760,
+      "level_image": 6,
+      "answer_text": "FRANKLINS",
+      "question": "the common term used to refer to one hundred-dollar bills in the United States"
+    },
+    {
+      "id": 761,
+      "level_image": 6,
+      "answer_text": "FLAMBEAUS",
+      "question": "torches, especially those used in festive processions or celebrations,"
+    },
+    {
+      "id": 762,
+      "level_image": 6,
+      "answer_text": "OLEANDERS",
+      "question": "toxic flowering shrubs, known for their vibrant and colorful blooms,"
+    },
+    {
+      "id": 763,
+      "level_image": 6,
+      "answer_text": "FLASHGUNS",
+      "question": "photographic equipment produces a brief burst of intense light,"
+    },
+    {
+      "id": 764,
+      "level_image": 6,
+      "answer_text": "HOOFBEATS",
+      "question": "rhythmic sounds do you hear when horses are in motion,"
+    },
+    {
+      "id": 765,
+      "level_image": 0,
+      "answer_text": "KNOWLEDGE",
+      "question": "gain through learning, experience, and understanding"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "LevelId": 34,
+  "Questions": [
+    {
+      "id": 346,
+      "level_image": 4,
+      "answer_text": "HASSLE",
+      "question": "another word for \"a bothersome or annoying situation\""
+    },
+    {
+      "id": 347,
+      "level_image": 4,
+      "answer_text": "INSECT",
+      "question": "tiny creature with six legs is often associated with buzzing sounds"
+    },
+    {
+      "id": 348,
+      "level_image": 4,
+      "answer_text": "CANCER",
+      "question": "disease characterized by the uncontrolled growth and spread of abnormal cells in the body"
+    },
+    {
+      "id": 349,
+      "level_image": 4,
+      "answer_text": "HORROR",
+      "question": "literature, film, or entertainment aims to evoke fear, dread, and a sense of terror in its audience"
+    },
+    {
+      "id": 350,
+      "level_image": 4,
+      "answer_text": "SCREEN",
+      "question": "electronic device component serves as a visual display,"
+    },
+    {
+      "id": 351,
+      "level_image": 4,
+      "answer_text": "CATTLE",
+      "question": "domesticated animals are commonly raised for meat, milk,"
+    },
+    {
+      "id": 352,
+      "level_image": 4,
+      "answer_text": "SAFARI",
+      "question": "type of adventurous journey, often associated with wildlife viewing and exploration,"
+    },
+    {
+      "id": 353,
+      "level_image": 4,
+      "answer_text": "FLORAL",
+      "question": "term is used to describe things related to flowers or plants"
+    },
+    {
+      "id": 354,
+      "level_image": 4,
+      "answer_text": "CLAYED",
+      "question": "term describes an object or surface covered with a malleable substance"
+    },
+    {
+      "id": 355,
+      "level_image": 0,
+      "answer_text": "SECRETARY",
+      "question": "office setting, what role is typically responsible for administrative tasks, organizing schedules,"
+    }
+  ]
+}

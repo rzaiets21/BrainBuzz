@@ -1,0 +1,71 @@
+{
+  "LevelId": 67,
+  "Questions": [
+    {
+      "id": 683,
+      "level_image": 5,
+      "answer_text": "KICKBOARD",
+      "question": "describe a floating device, often used in swimming pools,"
+    },
+    {
+      "id": 684,
+      "level_image": 5,
+      "answer_text": "PANJANDRA",
+      "question": "a person who holds a position of great influence, authority, or importance,"
+    },
+    {
+      "id": 685,
+      "level_image": 5,
+      "answer_text": "AUTOCRAFT",
+      "question": "the skill or practice of creating or building vehicles,"
+    },
+    {
+      "id": 686,
+      "level_image": 5,
+      "answer_text": "BLACKBIRD",
+      "question": "bird known for its predominantly black plumage and melodious song,"
+    },
+    {
+      "id": 687,
+      "level_image": 6,
+      "answer_text": "BIOLOGIES",
+      "question": "study of living organisms, including their structure, function, growth,"
+    },
+    {
+      "id": 688,
+      "level_image": 6,
+      "answer_text": "BABYPROOF",
+      "question": "an environment or object safe and secure for infants and toddlers,"
+    },
+    {
+      "id": 689,
+      "level_image": 6,
+      "answer_text": "AUNTHOODS",
+      "question": "responsibilities, or characteristics associated with being an aunt to one or more nieces or nephews"
+    },
+    {
+      "id": 690,
+      "level_image": 6,
+      "answer_text": "BLUECURLS",
+      "question": "plant with distinctive blue flowers and unique curled or coiled petals"
+    },
+    {
+      "id": 691,
+      "level_image": 6,
+      "answer_text": "ANTIKNOCK",
+      "question": "employed in fuels to reduce or prevent knocking in internal combustion engines,"
+    },
+    {
+      "id": 692,
+      "level_image": 6,
+      "answer_text": "BALLADIST",
+      "question": "person who specializes in composing or performing ballads,"
+    },
+    {
+      "id": 693,
+      "level_image": 0,
+      "answer_text": "BACKGROUND",
+      "question": "scene or picture that is farthest from the viewer's attention,"
+    }
+  ]
+}

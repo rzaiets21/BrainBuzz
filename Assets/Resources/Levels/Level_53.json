@@ -1,0 +1,71 @@
+{
+  "LevelId": 53,
+  "Questions": [
+    {
+      "id": 533,
+      "level_image": 6,
+      "answer_text": "BARBEQUE",
+      "question": "cooking method involves grilling or smoking food, often outdoors,"
+    },
+    {
+      "id": 534,
+      "level_image": 6,
+      "answer_text": "DISCOUNT",
+      "question": "term refers to a reduction in the original price of a product or service,"
+    },
+    {
+      "id": 535,
+      "level_image": 6,
+      "answer_text": "AIRCRAFT",
+      "question": "vehicle is designed for air travel, capable of flying"
+    },
+    {
+      "id": 536,
+      "level_image": 6,
+      "answer_text": "ALGEBRAS",
+      "question": "In mathematics, what branch deals with mathematical symbols and the rules for manipulating those symbols"
+    },
+    {
+      "id": 537,
+      "level_image": 6,
+      "answer_text": "BLUECAPS",
+      "question": "term is commonly used to refer to members of the United States Air Force,"
+    },
+    {
+      "id": 538,
+      "level_image": 6,
+      "answer_text": "ANACONDA",
+      "question": "name of the large and powerful snake found in South America,"
+    },
+    {
+      "id": 539,
+      "level_image": 6,
+      "answer_text": "WEIGHTED",
+      "question": "system in which certain components have been assigned a greater importance or influence than others,"
+    },
+    {
+      "id": 540,
+      "level_image": 6,
+      "answer_text": "RELATION",
+      "question": "what term is used to describe a connection"
+    },
+    {
+      "id": 541,
+      "level_image": 6,
+      "answer_text": "BUTTONED",
+      "question": "item of clothing that has been fastened or secured using round objects made of plastic or metal"
+    },
+    {
+      "id": 542,
+      "level_image": 6,
+      "answer_text": "WIRELESS",
+      "question": "data, communication, or connectivity without the need for physical cables"
+    },
+    {
+      "id": 543,
+      "level_image": 0,
+      "answer_text": "QUARANTINA",
+      "question": "term is commonly used to describe a period of isolation or restriction imposed on individuals,"
+    }
+  ]
+}
