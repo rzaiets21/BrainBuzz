@@ -8,5 +8,6 @@
     Complete = 13,
     Reward = 14,
     
-    Store = 20
+    Store = 20,
+    GDPR = 30
 }

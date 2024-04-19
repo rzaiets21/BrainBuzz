@@ -7,14 +7,11 @@ using UnityEngine;
 public class GDPRManager : MonoBehaviour
 {
     private ConsentForm _consentForm;
-    
-    private void Awake()
-    {
-        DontDestroyOnLoad(this.gameObject);
-    }
+    private Action _onFormShown;
 
-    private void Start()
+    public void StartShowGDPR(Action onFormShown)
     {
+        _onFormShown = onFormShown;
         var androidId = SystemInfo.deviceUniqueIdentifier;
         
         Debug.Log(androidId.ToUpper());
@@ -45,6 +42,8 @@ public class GDPRManager : MonoBehaviour
         if (error != null)
         {
             Debug.LogError(error.Message);
+            _onFormShown?.Invoke();
+            _onFormShown = null;
             return;
         }
 
@@ -52,6 +51,9 @@ public class GDPRManager : MonoBehaviour
         if (ConsentInformation.ConsentStatus == ConsentStatus.Required)
         {
             _consentForm.Show(OnConsentFormShown);
+            
+            _onFormShown?.Invoke();
+            _onFormShown = null;
         }
     }
 
@@ -60,6 +62,8 @@ public class GDPRManager : MonoBehaviour
         if (error != null)
         {
             Debug.LogError(error.Message);
+            _onFormShown?.Invoke();
+            _onFormShown = null;
             return;
         }
 
@@ -71,6 +75,8 @@ public class GDPRManager : MonoBehaviour
         if (error != null)
         {
             Debug.LogError(error.Message);
+            _onFormShown?.Invoke();
+            _onFormShown = null;
             return;
         }
 

@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class ScreensController : MonoBehaviour
 {
+    private const string GDPRShownKey = "GDPRIsShown";
+    
     [SerializeField] private float transitionDuration;
     
     [SerializeField] private Screens startedScreen;
@@ -21,7 +23,6 @@ public class ScreensController : MonoBehaviour
 
     private void Awake()
     {
-        ShowScreen(startedScreen);
         Application.targetFrameRate = 60;
     }
 
@@ -29,6 +30,15 @@ public class ScreensController : MonoBehaviour
     {
         var canvasRect = GetComponent<RectTransform>();
         _canvasSize = canvasRect.sizeDelta;
+
+        var gdprIsShown = PlayerPrefs.GetInt(GDPRShownKey, 0);
+        if (gdprIsShown == 0)
+        {
+            ShowScreen(Screens.GDPR);
+            return;
+        }
+        
+        ShowScreen(startedScreen);
     }
 
     public bool IsActive(Screens screenType)
@@ -51,6 +61,11 @@ public class ScreensController : MonoBehaviour
         ShowScreen(targetScreen, ScreenTransition.LeftToRight);
         
         _previousScreen = Screens.None;
+    }
+
+    public void ShowStartedScreen()
+    {
+        ShowScreen(startedScreen);
     }
     
     public void ShowScreen(Screens screenType, ScreenTransition screenTransition = ScreenTransition.None, Action onComplete = null, bool hidePrevious = true)
