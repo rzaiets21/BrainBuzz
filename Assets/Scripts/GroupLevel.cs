@@ -79,7 +79,7 @@ public class GroupLevel : MonoBehaviour
 
         playButton.interactable = !isCompleted;
         
-        levelNameText.text = $"{_levelData.LevelId}. {(isCompleted ? _levelData.Questions.Last().Answer : $"Level {_levelData.LevelId}")}";
+        levelNameText.text = $"{_levelData.LevelId}. {(isCompleted ? _levelData.Questions.Last().Answer : $"Group {_levelData.LevelId}")}";
     }
 
     private void OnPlayButtonClick()

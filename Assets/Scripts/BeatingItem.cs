@@ -36,10 +36,15 @@ public class BeatingItem : MonoBehaviour
                     .OnComplete(() => _shinyEffectForUGUI.location = 0).SetLink(gameObject, LinkBehaviour.CompleteAndKillOnDisable);
             }
             
-            rectTransform.DOScale(1.2f, beatingDuration).SetLoops(2, LoopType.Yoyo).SetEase(Ease.InOutQuad).OnComplete(() =>
+            if(rectTransform != null)
             {
-                rectTransform.DOScale(1.1f, beatingDuration).SetLoops(2, LoopType.Yoyo).SetEase(Ease.InOutQuad);
-            });
+                rectTransform.DOScale(1.2f, beatingDuration).SetLoops(2, LoopType.Yoyo).SetEase(Ease.InOutQuad)
+                    .OnComplete(() =>
+                    {
+                        rectTransform.DOScale(1.1f, beatingDuration).SetLoops(2, LoopType.Yoyo)
+                            .SetEase(Ease.InOutQuad);
+                    });
+            }
         }).OnComplete(BeatingTween).SetLink(gameObject, LinkBehaviour.CompleteAndKillOnDisable);
     }
 
@@ -72,10 +77,15 @@ public class BeatingItem : MonoBehaviour
                     .OnComplete(() => _shinyEffectForUGUI.location = 0).SetLink(gameObject, LinkBehaviour.CompleteAndKillOnDisable);
             }
             
-            rectTransform.DOScale(1.2f, beatingDuration).SetLoops(2, LoopType.Yoyo).SetEase(Ease.InOutQuad).OnComplete(() =>
+            if(rectTransform != null)
             {
-                rectTransform.DOScale(1.1f, beatingDuration).SetLoops(2, LoopType.Yoyo).SetEase(Ease.InOutQuad);
-            });
+                rectTransform.DOScale(1.2f, beatingDuration).SetLoops(2, LoopType.Yoyo).SetEase(Ease.InOutQuad)
+                    .OnComplete(() =>
+                    {
+                        rectTransform.DOScale(1.1f, beatingDuration).SetLoops(2, LoopType.Yoyo)
+                            .SetEase(Ease.InOutQuad);
+                    });
+            }
         }).SetLoops(-1).SetLink(gameObject, LinkBehaviour.CompleteAndKillOnDisable);
     }
 }

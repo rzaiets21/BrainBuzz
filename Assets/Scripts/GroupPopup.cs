@@ -38,8 +38,7 @@ public class GroupPopup : Popup
         var groupData = gameManager.GetGroupData();
         var levelsCount = groupData.Levels.Count;
 
-        // groupName.text = groupData.GroupName;
-        groupName.text = "Group";
+        groupName.text = groupData.GroupName;
         
         for (int i = 0; i < levelsCount; i++)
         {

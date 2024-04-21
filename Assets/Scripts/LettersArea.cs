@@ -272,21 +272,22 @@ public class LettersArea : MonoBehaviour
 
     private void OnDisable()
     {
-        foreach (var line in _lines)
-        {
-            if(line.Letters == null)
-                continue;
-            
-            foreach (var letterHolder in line.Letters)
+        if (_lines != null)
+            foreach (var line in _lines)
             {
-                letterHolder.onClick -= OnLetterHolderClick;
-                letterHolder.onLetterComplete -= OnLetterComplete;
+                if (line.Letters == null)
+                    continue;
+
+                foreach (var letterHolder in line.Letters)
+                {
+                    letterHolder.onClick -= OnLetterHolderClick;
+                    letterHolder.onLetterComplete -= OnLetterComplete;
+                }
             }
-        }
 
         powerupsController.onPowerupSelected -= OnPowerupSelected;
         
-        if(_lines.All(x => x.IsComplete()))
+        if(_lines == null || _lines.All(x => x.IsComplete()))
             return;
         SaveGameInfo();
     }

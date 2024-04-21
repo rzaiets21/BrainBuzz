@@ -61,6 +61,8 @@ SpriteAtlas:
     - {fileID: 2800000, guid: af788b86360f21e4a9d898d12374e160, type: 3}
     - {fileID: 2800000, guid: f0309cfa2918d844da4531fab3dd9fb8, type: 3}
     - {fileID: 2800000, guid: 762f6f1fcfcaaa247b14c4740d29ca49, type: 3}
+    - {fileID: 2800000, guid: be641c392fce08840ace4f7d291e323b, type: 3}
+    - {fileID: 2800000, guid: 69031b3cb8af4af46822fc9af4aa4fbd, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -82,6 +84,7 @@ SpriteAtlas:
     - 3646fbd60cb6c46489ca96e09d56ac89: 21300000
     - c4e348b7f0a616e48aab3332466343ee: 21300000
     - a598edc7aae7c2d4487f155acdafe923: 21300000
+    - be641c392fce08840ace4f7d291e323b: 21300000
     - 4d1b04497a2423644ab6d083d64f4b6a: 21300000
     - 7ac0f0699370bb84facaf56b9fdd1f69: 21300000
     - f83862eadbc331e4a9af03dd2e86e475: 21300000
@@ -89,6 +92,7 @@ SpriteAtlas:
     - d819153b0ed8e824f95a00081dfc0de4: 21300000
     - aac8216b4fa08b648ab016b0873b9ec5: 21300000
     - 223be92ccd5dc8a4b96fdd3eee9bc793: 21300000
+    - 69031b3cb8af4af46822fc9af4aa4fbd: 21300000
     - eca57b8c6c77daa4684f940c6050eedc: 21300000
     - fb43739c6fcd5a644b2c540167270e68: 21300000
     - 9b47c1ed7c4e9a94ca1e3a1f3c695e85: 21300000
@@ -113,6 +117,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 3646fbd60cb6c46489ca96e09d56ac89, type: 3}
   - {fileID: 21300000, guid: c4e348b7f0a616e48aab3332466343ee, type: 3}
   - {fileID: 21300000, guid: a598edc7aae7c2d4487f155acdafe923, type: 3}
+  - {fileID: 21300000, guid: be641c392fce08840ace4f7d291e323b, type: 3}
   - {fileID: 21300000, guid: 4d1b04497a2423644ab6d083d64f4b6a, type: 3}
   - {fileID: 21300000, guid: 7ac0f0699370bb84facaf56b9fdd1f69, type: 3}
   - {fileID: 21300000, guid: f83862eadbc331e4a9af03dd2e86e475, type: 3}
@@ -120,6 +125,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: d819153b0ed8e824f95a00081dfc0de4, type: 3}
   - {fileID: 21300000, guid: aac8216b4fa08b648ab016b0873b9ec5, type: 3}
   - {fileID: 21300000, guid: 223be92ccd5dc8a4b96fdd3eee9bc793, type: 3}
+  - {fileID: 21300000, guid: 69031b3cb8af4af46822fc9af4aa4fbd, type: 3}
   - {fileID: 21300000, guid: eca57b8c6c77daa4684f940c6050eedc, type: 3}
   - {fileID: 21300000, guid: fb43739c6fcd5a644b2c540167270e68, type: 3}
   - {fileID: 21300000, guid: 9b47c1ed7c4e9a94ca1e3a1f3c695e85, type: 3}
@@ -143,6 +149,7 @@ SpriteAtlas:
   - ButtonTop
   - BoringButton
   - PowerupsHolder
+  - Back
   - LabelBack
   - TaskHolder
   - TaskMask
@@ -150,6 +157,7 @@ SpriteAtlas:
   - TextTaskBackground
   - ButtonBack
   - ProgressBarBackground
+  - StageBack
   - KeyboardBackground
   - FadedBackground
   - FunButton
