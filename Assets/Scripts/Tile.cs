@@ -52,11 +52,13 @@ public class Tile : LetterHolderBase
 
     public override void ShowRevealParticles()
     {
-        completeRevealLetterParticle.gameObject.SetActive(true);
-        completeRevealLetterParticle.ShowParticle(TileParticleType.CompleteRevealAnimation,() =>
-        {
-            completeRevealLetterParticle.gameObject.SetActive(false);
-            revealLetterParticle.SetActive(true);
-        });
+        TileParticlesController.Instance.ShowParticle(this, TileParticleType.CompleteRevealAnimation,
+            () => revealLetterParticle.SetActive(true));
+        // completeRevealLetterParticle.gameObject.SetActive(true);
+        // completeRevealLetterParticle.ShowParticle(TileParticleType.CompleteRevealAnimation,() =>
+        // {
+        //     completeRevealLetterParticle.gameObject.SetActive(false);
+        //     revealLetterParticle.SetActive(true);
+        // });
     }
 }

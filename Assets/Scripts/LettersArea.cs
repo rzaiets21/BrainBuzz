@@ -246,6 +246,8 @@ public class LettersArea : MonoBehaviour
         var lettersCount = firstLine.Letters.Length;
         lettersContainer.sizeDelta = letterContainerSize;
 
+        var letterIndex = 0;
+        
         var startY = -size.y / 2 - gridLayoutGroup.padding.top;
         for (int i = 0; i < linesCount; i++)
         {
