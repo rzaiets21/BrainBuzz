@@ -129,7 +129,7 @@ public class CompleteGameScreen : Screen
     public void ClickContinueButton()
     {
         gameManager.LoadNextLevel();
-        screensController.ShowScreen(Screens.Game, onComplete: gameManager.StartGame);
+        screensController.ShowScreen(Screens.Game, onComplete: () => gameManager.StartGame());
         //screensController.ShowScreen(Screens.MainMenu);
     }
 }

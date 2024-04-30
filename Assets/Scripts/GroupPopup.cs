@@ -57,6 +57,6 @@ public class GroupPopup : Popup
     {
         gameManager.LoadLevel(levelData);
         Hide(true);
-        screensController.ShowScreen(Screens.Game, onComplete: gameManager.StartGame);
+        screensController.ShowScreen(Screens.Game, onComplete: () => gameManager.StartGame(false));
     }
 }

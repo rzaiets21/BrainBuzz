@@ -48,7 +48,7 @@ public class RewardScreen : Screen
         PlayerInventory.Instance.Update();
         
         gameManager.LoadNextLevel();
-        screensController.ShowScreen(Screens.Game, onComplete: gameManager.StartGame);
+        screensController.ShowScreen(Screens.Game, onComplete: () => gameManager.StartGame());
         //screensController.ShowScreen(Screens.MainMenu);
     }
 

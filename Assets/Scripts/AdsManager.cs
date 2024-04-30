@@ -6,15 +6,23 @@ using UnityEngine;
 public class AdsManager : MonoBehaviour
 {
     [SerializeField] private string rewardId;
+    [SerializeField] private string interstitialId;
+    [SerializeField] private string bannerId;
     
     private static AdsManager _instance;
 
-    private Coroutine _delayCoroutine;
+    private Coroutine _rewardedDelayCoroutine;
+    private Coroutine _interstitialDelayCoroutine;
     private RewardedAd _rewardedAd;
+    private InterstitialAd _interstitialAd;
+    private BannerView _bannerView;
 
     private int _rewardedCount;
+    private bool _bannerIsShown;
     
     public static bool RewardAdsIsReady => _instance._rewardedAd != null && _instance._rewardedAd.CanShowAd();
+    public static bool BannerIsShown => _instance._bannerIsShown;
+    public static float BannerHeight => _instance._bannerView.GetHeightInPixels();
     
     private void Awake()
     {
@@ -38,6 +46,8 @@ public class AdsManager : MonoBehaviour
         MobileAds.Initialize(status =>
         {
             LoadRewardedAd();
+            LoadInterstitialAd();
+            CreateBannerView();
         });
     }
 
@@ -49,8 +59,8 @@ public class AdsManager : MonoBehaviour
             _rewardedAd = null;
         }
 
-        if (_delayCoroutine != null)
-            StopCoroutine(_delayCoroutine);
+        if (_rewardedDelayCoroutine != null)
+            StopCoroutine(_rewardedDelayCoroutine);
     }
 
     private void LoadRewardedAd()
@@ -78,13 +88,76 @@ public class AdsManager : MonoBehaviour
                 RegisterReloadHandler(_rewardedAd);
             });
     }
+    
+    private void LoadInterstitialAd()
+    {
+        if (_interstitialAd != null)
+        {
+            _interstitialAd.Destroy();
+            _interstitialAd = null;
+        }
 
+        Debug.Log("Loading the interstitial ad.");
+
+        var adRequest = new AdRequest();
+
+        InterstitialAd.Load(interstitialId, adRequest,
+            (InterstitialAd ad, LoadAdError error) =>
+            {
+                if (error != null || ad == null)
+                {
+                    Debug.LogError("interstitial ad failed to load an ad " +
+                                   "with error : " + error);
+                    LoadInterstitialAd(2f);
+                    return;
+                }
+
+                Debug.Log("Interstitial ad loaded with response : "
+                          + ad.GetResponseInfo());
+
+                _interstitialAd = ad;
+                RegisterReloadHandler(_interstitialAd);
+            });
+    }
+
+    public void CreateBannerView()
+    {
+        Debug.Log("Creating banner view");
+
+        if (_bannerView != null)
+        {
+            DestroyBannerView();
+        }
+
+        _bannerView = new BannerView(bannerId, AdSize.Banner, AdPosition.Bottom);
+        
+        _bannerView.OnBannerAdLoaded += OnBannerAdLoaded;
+        _bannerView.OnBannerAdLoadFailed += OnBannerAdLoadFailed;
+    }
+    
+    private void DestroyBannerView()
+    {
+        if (_bannerView == null) return;
+        
+        Debug.Log("Destroying banner view.");
+        _bannerView.Destroy();
+        _bannerView = null;
+    }
+    
     private void LoadRewardedAd(float delay)
     {
-        if(_delayCoroutine != null)
-            StopCoroutine(_delayCoroutine);
+        if(_rewardedDelayCoroutine != null)
+            StopCoroutine(_rewardedDelayCoroutine);
         
-        _delayCoroutine = StartCoroutine(DelayCoroutine(delay, LoadRewardedAd));
+        _rewardedDelayCoroutine = StartCoroutine(DelayCoroutine(delay, LoadRewardedAd));
+    }
+
+    private void LoadInterstitialAd(float delay)
+    {
+        if(_interstitialDelayCoroutine != null)
+            StopCoroutine(_interstitialDelayCoroutine);
+        
+        _interstitialDelayCoroutine = StartCoroutine(DelayCoroutine(delay, LoadInterstitialAd));
     }
     
     private void RegisterReloadHandler(RewardedAd ad)
@@ -99,6 +172,42 @@ public class AdsManager : MonoBehaviour
         };
     }
     
+    private void RegisterReloadHandler(InterstitialAd ad)
+    {
+        ad.OnAdFullScreenContentClosed += () =>
+        {
+            LoadInterstitialAd(1.5f);
+        };
+        ad.OnAdFullScreenContentFailed += (AdError error) =>
+        {
+            LoadInterstitialAd(1.5f);
+        };
+    }
+    
+    public static void ShowBanner()
+    {
+        if(_instance._bannerView == null)
+        {
+            Debug.LogError("IS NULL");
+            _instance.CreateBannerView();
+        }
+
+        var adRequest = new AdRequest();
+        
+        Debug.Log("Loading banner ad.");
+        _instance._bannerView.LoadAd(adRequest);
+    }
+    
+    private void OnBannerAdLoaded()
+    {
+        _bannerIsShown = true;
+    }
+
+    private void OnBannerAdLoadFailed(LoadAdError error)
+    {
+        _bannerIsShown = false;
+    }
+    
     public static void ShowRewardedAd(Action onRewardComplete)
     {
         if (_instance._rewardedAd != null && _instance._rewardedAd.CanShowAd())
@@ -111,12 +220,20 @@ public class AdsManager : MonoBehaviour
             });
         }
     }
+    
+    public static void ShowInterstitialAd()
+    {
+        if (_instance._interstitialAd != null && _instance._interstitialAd.CanShowAd())
+        {
+            _instance._interstitialAd.Show();
+        }
+    }
 
     private IEnumerator DelayCoroutine(float delay, Action onComplete = null)
     {
         yield return new WaitForSeconds(delay);
         onComplete?.Invoke();
         
-        _delayCoroutine = null;
+        _rewardedDelayCoroutine = null;
     }
 }

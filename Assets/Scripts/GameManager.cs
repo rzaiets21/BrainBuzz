@@ -11,6 +11,9 @@ public class GameManager : MonoBehaviour
 {
     private const string PlayerPrefsLevelKey = "GroupData";
     private const string GameStreakKey = "CompletedGameStreak";
+    private const string CompletedLevels = "CompletedLevels";
+    private const string CompletedGroups = "CompletedGroups";
+    private const string StartedTimes = "StartedTimes";
 
     [SerializeField] private TextAsset[] textAssets;
     
@@ -95,9 +98,24 @@ public class GameManager : MonoBehaviour
         LoadLevel(currentGroup);
     }
 
-    public void StartGame()
+    public void StartGame(bool showAds = true)
     {
         lettersArea.ShowGame();
+        
+        keyboard.SetPosition(AdsManager.BannerIsShown ? new Vector2(0, AdsManager.BannerHeight * 2 + 15f) : Vector2.zero);
+
+        if(PlayerPrefs.GetInt(CompletedGroups, 0) > 1)
+        {
+            var startedTimes = PlayerPrefs.GetInt(StartedTimes, 0);
+            startedTimes++;
+            if (startedTimes > 5 + 1 && showAds)
+            {
+                startedTimes -= 5;
+                AdsManager.ShowInterstitialAd();
+            }
+
+            PlayerPrefs.SetInt(StartedTimes, startedTimes);
+        }
     }
 
     private void Awake()
@@ -154,12 +172,22 @@ public class GameManager : MonoBehaviour
             if(_groupData.IsCompleted())
             {
                 currentGroup++;
+                
+                var completedGroups = PlayerPrefs.GetInt(CompletedGroups, 0);
+                completedGroups++;
+                PlayerPrefs.SetInt(CompletedGroups, completedGroups);
+                
                 PlayerPrefs.SetInt(PlayerPrefsLevelKey, currentGroup);
+                PlayerPrefs.SetInt(StartedTimes, 0);
+                AdsManager.ShowInterstitialAd();
             }
 
             _currentGameStreak = PlayerPrefs.GetInt(GameStreakKey, 0);
+            var completedLevels = PlayerPrefs.GetInt(CompletedLevels, 0);
+            completedLevels++;
             _currentGameStreak++;
             PlayerPrefs.SetInt(GameStreakKey, _currentGameStreak);
+            PlayerPrefs.SetInt(CompletedLevels, completedLevels);
             
             return;
         }

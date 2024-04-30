@@ -15,7 +15,7 @@ public class MainMenuScreen : Screen
 
     public void LoadGame()
     {
-        screensController.ShowScreen(Screens.Game, onComplete: gameManager.StartGame);
+        //screensController.ShowScreen(Screens.Game, onComplete: gameManager.StartGame);
     }
 
     protected override void OnShown()

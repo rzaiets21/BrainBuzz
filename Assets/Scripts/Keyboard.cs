@@ -9,12 +9,16 @@ public class Keyboard : MonoBehaviour
     [SerializeField] private KeyboardButton[] keyboardButtons;
 
     private Dictionary<int, List<KeyboardButton>> powerupsLines;
+
+    private RectTransform _rectTransform;
     
     public event Action<KeyboardButtonType> OnKeyboardButtonUp;
     public event Action<KeyboardButtonType> OnKeyboardButtonDown;
 
     private void Awake()
     {
+        _rectTransform = GetComponent<RectTransform>();
+        
         powerupsLines = new Dictionary<int, List<KeyboardButton>>();
     }
 
@@ -40,11 +44,16 @@ public class Keyboard : MonoBehaviour
         lettersArea.OnLineSelected -= OnLineSelected;
     }
 
+    public void SetPosition(Vector2 position)
+    {
+        _rectTransform.anchoredPosition = position;
+    }
+    
     public void ClearFilters()
     {
         powerupsLines.Clear();
     }
-    
+
     public void AddFilter(int lineIndex, List<char> chars)
     {
         var buttons = new List<KeyboardButton>();
