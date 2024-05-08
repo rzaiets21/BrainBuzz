@@ -42,18 +42,21 @@ public class Tile : LetterHolderBase
 
     public override void ShowFinalParticle(bool lastLetterEdited = false)
     {
-        TileParticlesController.Instance.ShowParticle(this, lastLetterEdited ? TileParticleType.CompleteParticleBlink : TileParticleType.CompleteParticle);
+        // TileParticlesController.Instance.ShowParticle(this, lastLetterEdited ? TileParticleType.CompleteParticleBlink : TileParticleType.CompleteParticle);
+        TileParticlesController.Instance.ShowParticle(this, lastLetterEdited ? VFXType.FirstCorrectAnswer : VFXType.CorrectAnswer);
     }
 
     public override void ShowCompleteParticle()
     {
-        TileParticlesController.Instance.ShowParticle(this, TileParticleType.CompleteLevel);
+        //TileParticlesController.Instance.ShowParticle(this, TileParticleType.CompleteLevel);
+        TileParticlesController.Instance.ShowParticle(this, VFXType.Explosion);
     }
 
     public override void ShowRevealParticles()
     {
-        TileParticlesController.Instance.ShowParticle(this, TileParticleType.CompleteRevealAnimation,
-            () => revealLetterParticle.SetActive(true));
+        revealLetterParticle.SetActive(true);
+        // RevealsFinishParticles.Instance.ShowParticle(this, TileParticleType.CompleteRevealAnimation,
+        //     () => revealLetterParticle.SetActive(true));
         // completeRevealLetterParticle.gameObject.SetActive(true);
         // completeRevealLetterParticle.ShowParticle(TileParticleType.CompleteRevealAnimation,() =>
         // {

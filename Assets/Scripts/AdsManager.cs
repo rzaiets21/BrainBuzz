@@ -23,6 +23,8 @@ public class AdsManager : MonoBehaviour
     public static bool RewardAdsIsReady => _instance._rewardedAd != null && _instance._rewardedAd.CanShowAd();
     public static bool BannerIsShown => _instance._bannerIsShown;
     public static float BannerHeight => _instance._bannerView.GetHeightInPixels();
+
+    public static event Action OnBannerShown;
     
     private void Awake()
     {
@@ -201,6 +203,7 @@ public class AdsManager : MonoBehaviour
     private void OnBannerAdLoaded()
     {
         _bannerIsShown = true;
+        OnBannerShown?.Invoke();
     }
 
     private void OnBannerAdLoadFailed(LoadAdError error)

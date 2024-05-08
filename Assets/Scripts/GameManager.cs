@@ -98,11 +98,16 @@ public class GameManager : MonoBehaviour
         LoadLevel(currentGroup);
     }
 
+    private void AdjustKeyboardPosition()
+    {
+        keyboard.SetPosition(AdsManager.BannerIsShown ? new Vector2(0, AdsManager.BannerHeight + 10f) : Vector2.zero);
+    }
+    
     public void StartGame(bool showAds = true)
     {
         lettersArea.ShowGame();
-        
-        keyboard.SetPosition(AdsManager.BannerIsShown ? new Vector2(0, AdsManager.BannerHeight * 2 + 15f) : Vector2.zero);
+
+        AdjustKeyboardPosition();
 
         if(PlayerPrefs.GetInt(CompletedGroups, 0) > 1)
         {
@@ -150,6 +155,8 @@ public class GameManager : MonoBehaviour
         lettersArea.OnGameCompleted += OnLevelCompleted;
         keyboard.OnKeyboardButtonUp += OnKeyboardButtonUp;
         keyboard.OnKeyboardButtonDown += OnKeyboardButtonDown;
+
+        AdsManager.OnBannerShown += AdjustKeyboardPosition;
     }
 
     private void OnDisable()
@@ -161,6 +168,8 @@ public class GameManager : MonoBehaviour
         lettersArea.OnGameCompleted -= OnLevelCompleted;
         keyboard.OnKeyboardButtonUp -= OnKeyboardButtonUp;
         keyboard.OnKeyboardButtonDown -= OnKeyboardButtonDown;
+        
+        AdsManager.OnBannerShown -= AdjustKeyboardPosition;
     }
 
     private void OnLevelCompleted(bool stage)
@@ -179,7 +188,6 @@ public class GameManager : MonoBehaviour
                 
                 PlayerPrefs.SetInt(PlayerPrefsLevelKey, currentGroup);
                 PlayerPrefs.SetInt(StartedTimes, 0);
-                AdsManager.ShowInterstitialAd();
             }
 
             _currentGameStreak = PlayerPrefs.GetInt(GameStreakKey, 0);
@@ -193,6 +201,8 @@ public class GameManager : MonoBehaviour
         }
         
         screensController.ShowScreen(Screens.Complete, ScreenTransition.RightToLeft);
+        
+        AdsManager.ShowInterstitialAd();
     }
 
     private void ClearLevel()

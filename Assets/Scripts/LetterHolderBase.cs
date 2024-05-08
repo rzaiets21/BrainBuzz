@@ -69,6 +69,11 @@ public class LetterHolderBase : MonoBehaviour
         OnInit();
     }
 
+    public void SetTextComponent(TextMeshProUGUI text)
+    {
+        this.text = text;
+    }
+    
     protected virtual void OnInit()
     {
         

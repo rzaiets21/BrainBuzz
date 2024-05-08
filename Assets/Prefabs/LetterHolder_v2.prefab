@@ -39339,6 +39339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1104c848d2995af419832a6af2967dbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  offset: 0
   particleSystem: {fileID: 2525385489742351943}
 --- !u!114 &843025313982347161
 MonoBehaviour:
@@ -44316,6 +44317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1104c848d2995af419832a6af2967dbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  offset: 0
   particleSystem: {fileID: 2272924678605848228}
 --- !u!114 &3373332004491512883
 MonoBehaviour:
@@ -54211,7 +54213,7 @@ MonoBehaviour:
   m_enableKerning: 1
   m_enableExtraPadding: 0
   checkPaddingRequired: 0
-  m_isRichText: 1
+  m_isRichText: 0
   m_parseCtrlCharacters: 1
   m_isOrthographic: 1
   m_isCullingEnabled: 0

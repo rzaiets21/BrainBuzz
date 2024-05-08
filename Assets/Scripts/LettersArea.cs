@@ -14,12 +14,14 @@ public class LettersArea : MonoBehaviour
 {
     private string SavedModelKey => $"Group_{_levelData.GroupId}/Level_{_levelData.LevelId}";
     
+    //[SerializeField] private LettersController lettersController;
     [SerializeField] private PowerupsController powerupsController;
     
     [SerializeField] private float focusSpeed;
     [SerializeField] private ScrollRect scrollRect;
     [SerializeField] private TileParticlesController tileParticlesController;
     [SerializeField] private RevealLettersController revealLettersController;
+    //[SerializeField] private RevealsFinishParticles revealsFinishParticles;
     
     [SerializeField] private RectTransform lettersContainer;
     
@@ -114,6 +116,8 @@ public class LettersArea : MonoBehaviour
         
         var linesCount = levelData.Questions.Count;
 
+        //lettersController.ResetState();
+        
         _lines = new LettersLine[linesCount];
         LettersLine verticalLine = null;
 
@@ -145,10 +149,14 @@ public class LettersArea : MonoBehaviour
                 line.Letters[l] = letterHolder;
 
                 var defaultColor = l == levelImage ? HolderColor.VerticalLine : HolderColor.Default;
+                
+                //var textComponent = lettersController.GetTextComponent();
+                //letterHolder.SetTextComponent(textComponent);
+                
                 letterHolder.Init(lineIndex, l, answer[l], defaultColor);
                 letterHolder.onClick += OnLetterHolderClick;
                 letterHolder.onLetterComplete += OnLetterComplete;
-
+                
                 if (hasSaves)
                 {
                     var isComplete = _savedLevelModel.LinesInfo[i, l] == 1;
@@ -183,8 +191,17 @@ public class LettersArea : MonoBehaviour
         CalculateGridSize();
         AdjustSlotsPositions();
         
-        tileParticlesController.Init(gridLayoutGroup.cellSize);
-        revealLettersController.Init(gridLayoutGroup.cellSize);
+        //revealsFinishParticles.Init(gridLayoutGroup.cellSize);
+        
+        //lettersController.transform.SetAsLastSibling();
+        //lettersController.DisableUnused();
+
+        var magicNum = 76.4045f;
+        var scaleMultiplier = gridLayoutGroup.cellSize.y / magicNum;
+        
+        tileParticlesController.Init(scaleMultiplier);
+        revealLettersController.Init(scaleMultiplier);
+        // revealLettersController.Init(gridLayoutGroup.cellSize);
         
         keyboard.SetInteractable(true);
         _interact = true;
@@ -246,6 +263,8 @@ public class LettersArea : MonoBehaviour
         var lettersCount = firstLine.Letters.Length;
         lettersContainer.sizeDelta = letterContainerSize;
 
+        //lettersController.ResetState();
+        
         var letterIndex = 0;
         
         var startY = -size.y / 2 - gridLayoutGroup.padding.top;
@@ -256,10 +275,12 @@ public class LettersArea : MonoBehaviour
             for (int j = 0; j < lettersCount; j++)
             {
                 var holder = line.Letters[j];
-                holder.rect.sizeDelta = size;
-                holder.rect.anchoredPosition = new Vector2(startX, startY);
+                //var letter = lettersController.GetTextComponent();
+                holder.rect.sizeDelta /*= letter.rectTransform.sizeDelta*/ = size;
+                holder.rect.anchoredPosition /*= letter.rectTransform.anchoredPosition*/ = new Vector2(startX, startY);
 
                 startX += gridLayoutGroup.spacing.x + size.x;
+                letterIndex++;
             }
             
             var temp = startY - gridLayoutGroup.spacing.y - size.y;
@@ -524,6 +545,12 @@ public class LettersArea : MonoBehaviour
     {
         PlayerPrefs.SetInt($"Completed-Group_{_levelData.GroupId}/Level_{_levelData.LevelId}", 1);
         SaveGameInfo();
+
+        foreach (var letterHolder in _verticalLine.Letters)
+        {
+            letterHolder.transform.SetAsLastSibling();
+        }
+        
         keyboard.SetInteractable(false);
         keyboard.ClearFilters();
         
@@ -567,9 +594,9 @@ public class LettersArea : MonoBehaviour
         var lastLetterHolder = _lines[^2].Letters[^1];
         var lastLetterRect = lastLetterHolder.GetComponent<RectTransform>();
         //StartCoroutine(scrollRect.FocusOnItemCoroutine(lastLetterRect, 0.75f, 0f, OnCompleteFinishAnimation));
-        StartCoroutine(scrollRect.FocusOnItemByTimeCoroutine(lastLetterRect, time / 1.25f, 0f, null));
+        StartCoroutine(scrollRect.FocusOnItemByTimeCoroutine(lastLetterRect, time / 1.1f, 0f, null));
 
-        var delay = (time / 2.5f) / (_lines.Length - 1);
+        var delay = (time / 2.5f) / (_lines.Length - 1) + .08f;
         
         while (!animationCompleted)
         {
@@ -619,7 +646,7 @@ public class LettersArea : MonoBehaviour
                 animationCompleted = true;
         }
 
-        yield return new WaitForSeconds(0.35f);
+        yield return new WaitForSeconds(0.45f);
         OnCompleteFinishAnimation();
     }
 
@@ -966,7 +993,7 @@ public class LettersArea : MonoBehaviour
             {
                 startedHolder.ShowFinalParticle(true);
                 AudioController.Instance.Play(SoundType.Sounds, line == _verticalLine ? verticalLineCompleted : completedLineSounds[Random.Range(0, completedLineSounds.Length)]);
-                yield return new WaitForSeconds(0.4f);
+                yield return new WaitForSeconds(0.6f);
                 if(revealLetters)
                     RevealLetter(startedHolder);
             }
@@ -1030,6 +1057,7 @@ public class LettersArea : MonoBehaviour
             if(answerIsCorrect)
             {
                 yield return checkDelay;
+                yield return delay;
             }
             
             yield return delay;

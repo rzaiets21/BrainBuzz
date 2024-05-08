@@ -38,3 +38,10 @@ public enum TileParticleType
     CompleteRevealAnimation,
     CompleteLevel
 }
+
+public enum VFXType
+{
+    CorrectAnswer,
+    FirstCorrectAnswer, 
+    Explosion
+}

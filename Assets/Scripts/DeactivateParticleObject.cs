@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class DeactivateParticleObject : MonoBehaviour
 {
+    [SerializeField] private float offset;
     [SerializeField] private ParticleSystem particleSystem;
 
     private Tween _deactivateTween;
@@ -14,7 +15,7 @@ public class DeactivateParticleObject : MonoBehaviour
     {
         var main = particleSystem.main;
         
-        _deactivateTween = DOVirtual.DelayedCall(main.duration + main.startLifetime.constantMax, () =>
+        _deactivateTween = DOVirtual.DelayedCall(main.duration + main.startLifetime.constantMax + offset, () =>
         {
             gameObject.SetActive(false);
         });

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NewParticles
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ca4fe27a2e4b89b4095b5ef9b9205493, type: 3}
+    - {fileID: 2800000, guid: 95f875a091db7c446bef40f84712b3cb, type: 3}
+    - {fileID: 2800000, guid: 44908ead5d005dd4989dc3c3369b5c19, type: 3}
+    - {fileID: 2800000, guid: 988821dc807c53c4fa07b6f0806b1afe, type: 3}
+    - {fileID: 2800000, guid: 4c4c4a9e50224d0498ffd5d99f8c29f6, type: 3}
+    - {fileID: 2800000, guid: 6e614dfd1ff71414fa4a4b62b093ed94, type: 3}
+    - {fileID: 2800000, guid: 5bab23dc98f111c46b4d2cd04fb2e2b4, type: 3}
+    - {fileID: 2800000, guid: 71ec30b9354ea5a459da87ef6a3b7809, type: 3}
+    - {fileID: 2800000, guid: 9526c8327053c854688792606be0b8fc, type: 3}
+    - {fileID: 2800000, guid: 3952e6a9513047b4a950cfa087dfcf5c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9526c8327053c854688792606be0b8fc: 21300000
+    - 3952e6a9513047b4a950cfa087dfcf5c: 21300000
+    - ca4fe27a2e4b89b4095b5ef9b9205493: 21300000
+    - 988821dc807c53c4fa07b6f0806b1afe: 21300000
+    - 5bab23dc98f111c46b4d2cd04fb2e2b4: 21300000
+    - 44908ead5d005dd4989dc3c3369b5c19: 21300000
+    - 6e614dfd1ff71414fa4a4b62b093ed94: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9526c8327053c854688792606be0b8fc, type: 3}
+  - {fileID: 21300000, guid: 3952e6a9513047b4a950cfa087dfcf5c, type: 3}
+  - {fileID: 21300000, guid: ca4fe27a2e4b89b4095b5ef9b9205493, type: 3}
+  - {fileID: 21300000, guid: 988821dc807c53c4fa07b6f0806b1afe, type: 3}
+  - {fileID: 21300000, guid: 5bab23dc98f111c46b4d2cd04fb2e2b4, type: 3}
+  - {fileID: 21300000, guid: 44908ead5d005dd4989dc3c3369b5c19, type: 3}
+  - {fileID: 21300000, guid: 6e614dfd1ff71414fa4a4b62b093ed94, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tile_explosion_stars
+  - tile_quad_glow
+  - board_complete_explosao
+  - palavra_correta_brilho
+  - ring_glow
+  - estrela_propaga 1
+  - particula_estrela_1
+  m_RenderDataMap: {}
+  m_Tag: NewParticles
+  m_IsVariant: 0
