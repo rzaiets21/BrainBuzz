@@ -160,6 +160,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.brainbuzz.words
     Standalone: com.DefaultCompany.2DProject
+    iPhone: com.brainbuzz.words
   buildNumber:
     Standalone: 0
     VisionOS: 0

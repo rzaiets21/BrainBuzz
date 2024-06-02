@@ -2,7 +2,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+#if UNITY_ANDROID
 using CandyCoded.HapticFeedback.Android;
+#elif UNITY_IOS
+using CandyCoded.HapticFeedback.iOS;
+#endif
 using DG.Tweening;
 using Extensions;
 using Newtonsoft.Json;
@@ -339,6 +343,9 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
+#elif UNITY_IOS
+                if(Settings.HapticsIsOn)
+                    HapticFeedback.PerformHapticFeedback();
 #endif
                 target.RevealLetter(false);
                 
@@ -372,6 +379,9 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
                         if(Settings.HapticsIsOn)
                             HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
+#elif UNITY_IOS
+                        if(Settings.HapticsIsOn)
+                            HapticFeedback.PerformHapticFeedback();
 #endif
                         var holderLine = _lines[randomLetter.LineIndex];
                         if(!holderLine.HasEmptyLetter())
@@ -398,6 +408,9 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_RELEASE);
+#elif UNITY_IOS
+                if(Settings.HapticsIsOn)
+                    HapticFeedback.PerformHapticFeedback("light");
 #endif
                 
                 SelectLine(filterLine);
@@ -407,7 +420,10 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_RELEASE);
-#endif                
+#elif UNITY_IOS
+                if(Settings.HapticsIsOn)
+                    HapticFeedback.PerformHapticFeedback("light");
+#endif         
                 line = _lines[target.LineIndex];
 
                 if (line.IsComplete())
@@ -972,6 +988,10 @@ public class LettersArea : MonoBehaviour
         if(!answerIsCorrect)
             if(Settings.HapticsIsOn)
                 HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.EDGE_RELEASE);
+#elif UNITY_IOS
+        if(!answerIsCorrect)
+            if(Settings.HapticsIsOn)
+                HapticFeedback.PerformHapticFeedback("heavy");
 #endif
         // if(line != _verticalLine && setComplete)
         // {
@@ -1168,6 +1188,9 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
             if(Settings.HapticsIsOn)
                 HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
+#elif UNITY_IOS
+            if(Settings.HapticsIsOn)
+                HapticFeedback.PerformHapticFeedback();
 #endif
         });
     }

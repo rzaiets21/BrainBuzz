@@ -12,9 +12,7 @@ public class GDPRManager : MonoBehaviour
     public void StartShowGDPR(Action onFormShown)
     {
         _onFormShown = onFormShown;
-        var androidId = SystemInfo.deviceUniqueIdentifier;
-        
-        Debug.Log(androidId.ToUpper());
+        var deviceId = SystemInfo.deviceUniqueIdentifier;
         
         var request = new ConsentRequestParameters()
         {
@@ -24,7 +22,11 @@ public class GDPRManager : MonoBehaviour
                 DebugGeography = DebugGeography.EEA,
                 TestDeviceHashedIds = new List<string>()
                 {
-                    androidId.ToUpper()
+#if UNITY_ANDROID
+                    deviceId.ToUpper()
+#elif UNITY_IOS
+                    deviceId
+#endif
                 }
             }
         };

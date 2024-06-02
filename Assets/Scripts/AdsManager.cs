@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class AdsManager : MonoBehaviour
 {
+    [SerializeField] private bool test;
+    
     [SerializeField] private string rewardId;
     [SerializeField] private string interstitialId;
     [SerializeField] private string bannerId;
@@ -33,6 +35,16 @@ public class AdsManager : MonoBehaviour
             Destroy(gameObject);
             return;
         }
+
+#if UNITY_ANDROID
+        rewardId = "ca-app-pub-3940256099942544/5224354917";
+        interstitialId = "ca-app-pub-3940256099942544/1033173712";
+        bannerId = "ca-app-pub-3940256099942544/6300978111";
+#elif UNITY_IOS
+        rewardId = "ca-app-pub-3940256099942544/1712485313";
+        interstitialId = "ca-app-pub-3940256099942544/4411468910";
+        bannerId = "ca-app-pub-3940256099942544/2934735716";
+#endif
         
         _instance = this;
     }
@@ -47,6 +59,21 @@ public class AdsManager : MonoBehaviour
     {
         MobileAds.Initialize(status =>
         {
+            var requestConfiguration = MobileAds.GetRequestConfiguration();
+            
+            if(requestConfiguration != null)
+            {
+                var deviceId = SystemInfo.deviceUniqueIdentifier;
+
+#if UNITY_ANDROID
+                requestConfiguration.TestDeviceIds.Add(deviceId.ToUpper());
+#elif UNITY_IOS
+                requestConfiguration.TestDeviceIds.Add(deviceId);
+#endif
+
+                MobileAds.SetRequestConfiguration(requestConfiguration);
+            }
+            
             LoadRewardedAd();
             LoadInterstitialAd();
             CreateBannerView();

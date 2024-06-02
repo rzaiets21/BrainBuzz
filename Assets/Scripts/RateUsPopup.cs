@@ -1,7 +1,10 @@
 using System;
 using System.Collections;
+#if UNITY_ANDROID
 using Google.Play.Review;
+#endif
 using UnityEngine;
+using UnityEngine.iOS;
 using UnityEngine.UI;
 
 public class RateUsPopup : Popup
@@ -13,15 +16,19 @@ public class RateUsPopup : Popup
     
     private int _rate = 5;
 
+#if UNITY_ANDROID
     private ReviewManager _reviewManager;
     private PlayReviewInfo _playReviewInfo;
+#endif
     
     private Coroutine _coroutine;
 
+#if UNITY_ANDROID
     private void Start()
     {
         _coroutine = StartCoroutine(InitReview());
     }
+#endif
 
     private void OnEnable()
     {
@@ -54,7 +61,8 @@ public class RateUsPopup : Popup
             starButton.image.color = Color.white;
         }
     }
-
+    
+#if UNITY_ANDROID
     private IEnumerator InitReview(bool force = false)
     {
         if (_reviewManager == null) _reviewManager = new ReviewManager();
@@ -69,9 +77,15 @@ public class RateUsPopup : Popup
 
         _playReviewInfo = requestFlowOperation.GetResult();
     }
+#endif
     
     public IEnumerator LaunchReview()
     {
+#if UNITY_IOS
+        Device.RequestStoreReview();
+        yield break;
+        #elif UNITY_ANDROID
+        
         if (_playReviewInfo == null)
         {
             if (_coroutine != null) StopCoroutine(_coroutine);
@@ -86,6 +100,7 @@ public class RateUsPopup : Popup
             DirectlyOpen();
             yield break;
         }
+#endif
     }
     
     private void DirectlyOpen() { Application.OpenURL($"https://play.google.com/store/apps/details?id={Application.identifier}"); }
