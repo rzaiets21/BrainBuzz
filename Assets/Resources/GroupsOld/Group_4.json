@@ -1,0 +1,361 @@
+{
+  "GroupId": 4,
+  "GroupName": "OCEANS WORLD",
+  "Levels": [
+    {
+      "GroupId": 4,
+      "LevelId": 1,
+      "Questions": [
+        {
+          "level_image": 1,
+          "answer_text": "PIZZA",
+          "question": "this Italian delight promises a slice of heaven in every bite."
+        },
+        {
+          "level_image": 1,
+          "answer_text": "ACTOR",
+          "question": "Stage or screen, their craft unfolds,"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "CABLE",
+          "question": "Links the world, carries data's load,"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "IGLOO",
+          "question": "Snowbound shelter, icy dome, Arctic refuge"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "FACES",
+          "question": "Countless expressions, emotions in traces"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "INPUT",
+          "question": "Where commands reside, and actions abide"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "CABIN",
+          "question": "Wooden haven, nestled in trees"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BOAST",
+          "question": "Loudly proclaimed, achievements toast"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SCALE",
+          "question": "Measuring tool, from small to grand,"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "HELLO",
+          "question": "Simple greeting, universally known"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BADGE",
+          "question": "Symbol of honor, worn with pride"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ANGRY",
+          "question": "Fiery emotion, flares with ire, a stormy mood"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "PACIFIC OCEAN",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 4,
+      "LevelId": 2,
+      "Questions": [
+        {
+          "level_image": 2,
+          "answer_text": "ESTATE",
+          "question": "Wealthy domain, vast and grand, property holdings"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "POLICY",
+          "question": "Rules to follow, guidelines clear, shaping actions"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "TURTLE",
+          "question": "Slow and steady, shell to defend"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "STREET",
+          "question": "Urban pathway, bustling with life"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "CHEESE",
+          "question": "Dairy delight, in hues and taste"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "PEPPER",
+          "question": "Spice of life, with heat to savor"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "GROWTH",
+          "question": "From seed to tree, or child to adult"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "INCOME",
+          "question": "Wallet's gain, a paycheck's realm"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "AMOUNT",
+          "question": "Quantitative measure, large or small"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "SECURE",
+          "question": "Lock and key, peace of mind"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BREATH",
+          "question": "Life's rhythm, in and out, oxygen's dance"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "SHADOW",
+          "question": "Follows silently, where light won't go"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "SUNSET",
+          "question": "Day's gentle farewell, paints the sky in hues"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "SOUTHERN OCEAN",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 4,
+      "LevelId": 3,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "DRAGON",
+          "question": "Mythical beast, fierce and grand"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BUTTER",
+          "question": "Dairy's delight, creamy and smooth"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "PILLOW",
+          "question": "Soft embrace for weary heads, dreams await on feather beds"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "PLANET",
+          "question": "Orbiting stars, in cosmic ballet"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "WINDOW",
+          "question": "Portal to outside, framed in glass"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "MOTHER",
+          "question": "Nurturing heart, love's endless tether"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "FRIEND",
+          "question": "Kindred spirit, loyal and true"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "ESCAPE",
+          "question": "Freedom's pursuit, from bonds untied"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "REPORT",
+          "question": "Compilation of facts, findings clear"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CLOCKS",
+          "question": "Ticking hands, marking time's flight"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CAMERA",
+          "question": "Freezing moments, capturing light"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "POTATO",
+          "question": "Underground treasure, versatile and bland"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "MANNER",
+          "question": "Gentle demeanor, manners refined"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "ATLANTIC OCEAN",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 4,
+      "LevelId": 4,
+      "Questions": [
+        {
+          "level_image": 1,
+          "answer_text": "ANIMALS",
+          "question": "Natures' kin, in field and sky"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "RECIPES",
+          "question": "Guiding hand in culinary delight"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "CAPITAL",
+          "question": "Hub of power, where decisions unfurl"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "TEACHER",
+          "question": "Knowledge's guide, in wisdom's array"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "ISLANDS",
+          "question": "Emerald jewels in the ocean's embrace"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "CAPTURE",
+          "question": "Seizing moments, in a fleeting grasp"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SOCIETY",
+          "question": "Interwoven lives, in a complex weave"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SCHOOLS",
+          "question": "Knowledge's sanctuary, minds take flight"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "RECORDS",
+          "question": "Time's witness, events preserved"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "PARKING",
+          "question": "Urban puzzle, spaces sought"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "UNIFORM",
+          "question": "Standard attire, in unity worn"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "ARCTIC OCEAN",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 4,
+      "LevelId": 5,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "CEILING",
+          "question": "Above our heads, sky's counterpart"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CENTURY",
+          "question": "100 years gone, history's span"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "NUDDLES",
+          "question": "Slippery strands, in savory brew"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "PRINTER",
+          "question": "Ink on paper, words take flight"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "MEASURE",
+          "question": "Quantifying life, in units precise, gauging distance"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BANGLES",
+          "question": "Adornments that jingle, on wrists they sway"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ABROADS",
+          "question": "Faraway lands, beyond your shores"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CRACKLE",
+          "question": "Fire's whisper, in the hearth's glow, a symphony of warmth"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "LIBERTY",
+          "question": "Inscribed on stone, a torch held high"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ORGANIC",
+          "question": "Nature's bounty, grown with care, pesticide-free"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "WARNING",
+          "question": "Caution's voice, in signals bold"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "INDIAN OCEAN",
+          "question": null
+        }
+      ]
+    }
+  ]
+}

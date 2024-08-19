@@ -62,9 +62,10 @@ namespace VFX
                                 onGetPoint = null;
                                 gameObject.SetActive(false);
                             });
-                            onComplete?.Invoke();
                         });
                     });
+                    
+                    onComplete?.Invoke();
                 });
             });
         }

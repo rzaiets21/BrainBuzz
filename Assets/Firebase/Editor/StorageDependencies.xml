@@ -5,7 +5,7 @@ FirebaseStorage iOS and Android Dependencies.
 
 <dependencies>
   <iosPods>
-    <iosPod name="Firebase/Storage" version="10.15.0" minTargetSdk="8.0">
+    <iosPod name="Firebase/Storage" version="9.6.0" minTargetSdk="8.0">
     </iosPod>
   </iosPods>
   <androidPackages>

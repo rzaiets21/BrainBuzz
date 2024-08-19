@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 #if UNITY_ANDROID
 using CandyCoded.HapticFeedback.Android;
-#elif UNITY_IOS
+#elif UNITY_IOS && !UNITY_EDITOR
 using CandyCoded.HapticFeedback.iOS;
 #endif
 using DG.Tweening;
@@ -343,7 +343,7 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
-#elif UNITY_IOS
+#elif UNITY_IOS && !UNITY_EDITOR
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback();
 #endif
@@ -379,7 +379,7 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
                         if(Settings.HapticsIsOn)
                             HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
-#elif UNITY_IOS
+#elif UNITY_IOS && !UNITY_EDITOR
                         if(Settings.HapticsIsOn)
                             HapticFeedback.PerformHapticFeedback();
 #endif
@@ -408,7 +408,7 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_RELEASE);
-#elif UNITY_IOS
+#elif UNITY_IOS && !UNITY_EDITOR
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback("light");
 #endif
@@ -420,7 +420,7 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_RELEASE);
-#elif UNITY_IOS
+#elif UNITY_IOS && !UNITY_EDITOR
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback("light");
 #endif         
@@ -988,7 +988,7 @@ public class LettersArea : MonoBehaviour
         if(!answerIsCorrect)
             if(Settings.HapticsIsOn)
                 HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.EDGE_RELEASE);
-#elif UNITY_IOS
+#elif UNITY_IOS && !UNITY_EDITOR
         if(!answerIsCorrect)
             if(Settings.HapticsIsOn)
                 HapticFeedback.PerformHapticFeedback("heavy");
@@ -1009,6 +1009,8 @@ public class LettersArea : MonoBehaviour
         // }
         if (setComplete && startedHolder.CheckIsComplete())
         {
+            startedHolder.SetComplete(!answerIsCorrect, answerIsCorrect);
+            
             if(answerIsCorrect)
             {
                 startedHolder.ShowFinalParticle(true);
@@ -1017,7 +1019,6 @@ public class LettersArea : MonoBehaviour
                 if(revealLetters)
                     RevealLetter(startedHolder);
             }
-            startedHolder.SetComplete(!answerIsCorrect, answerIsCorrect);
         }
         else
         {
@@ -1188,7 +1189,7 @@ public class LettersArea : MonoBehaviour
 #if UNITY_ANDROID
             if(Settings.HapticsIsOn)
                 HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
-#elif UNITY_IOS
+#elif UNITY_IOS && !UNITY_EDITOR
             if(Settings.HapticsIsOn)
                 HapticFeedback.PerformHapticFeedback();
 #endif

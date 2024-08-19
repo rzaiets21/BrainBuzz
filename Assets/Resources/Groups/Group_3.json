@@ -1,6 +1,6 @@
 {
   "GroupId": 3,
-  "GroupName": "CHEFS LIFE",
+  "GroupName": "AUSTRALIA",
   "Levels": [
     {
       "GroupId": 3,
@@ -8,47 +8,57 @@
       "Questions": [
         {
           "level_image": 3,
-          "answer_text": "AUGUST",
-          "question": "During this month, summer heat reaches its peak, inspiring vacations"
+          "answer_text": "BOOKMARK",
+          "question": "Marker used to keep place in a book"
         },
         {
           "level_image": 3,
-          "answer_text": "COUPON",
-          "question": "Hand this over to save money on your purchase"
+          "answer_text": "ESPRESSO",
+          "question": "Strong coffee brewed by forcing hot water"
         },
         {
           "level_image": 3,
-          "answer_text": "LAYOUT",
-          "question": "Blueprint for organization, where elements find their perfect place"
+          "answer_text": "FRESHMAN",
+          "question": "First-year student in high school or college"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "MARYJANE",
+          "question": "Spider-Man’s girlfriend"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "FLAGSHIP",
+          "question": "Main or most important product or ship"
         },
         {
           "level_image": 4,
-          "answer_text": "CURFEW",
-          "question": "when the streets empty and doors lock, it's time to stay indoors."
+          "answer_text": "ORTHODOX",
+          "question": "Conforming to traditional or established religious practices"
         },
         {
           "level_image": 4,
-          "answer_text": "ACTION",
-          "question": "it's the heartbeat of every thrilling plot and the catalyst for change."
+          "answer_text": "RICOCHET",
+          "question": "Projectile that rebounds off a surface"
         },
         {
           "level_image": 4,
-          "answer_text": "CINEMA",
-          "question": "Where dreams flicker to life, on a silver screen, in the dark"
+          "answer_text": "VALUABLE",
+          "question": "High worth or importance, often expensive"
         },
         {
           "level_image": 4,
-          "answer_text": "GLORIA",
-          "question": "Her name echoes triumph, a melody of resilience and strength"
+          "answer_text": "BARSTOOL",
+          "question": "Tall seat often found at a bar"
         },
         {
           "level_image": 4,
-          "answer_text": "ARTIST",
-          "question": "Creator of worlds with brush or pen"
+          "answer_text": "COMEBACK",
+          "question": "Team's rally to win after being behind"
         },
         {
           "level_image": 0,
-          "answer_text": "GUY FIERI",
+          "answer_text": "OPERA HOUSE",
           "question": null
         }
       ]
@@ -58,48 +68,53 @@
       "LevelId": 2,
       "Questions": [
         {
-          "level_image": 3,
-          "answer_text": "WESTREN",
-          "question": "Where tumbleweeds dance and gunslingers roam"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "PHOENIX",
-          "question": "Rising from ashes, a symbol of rebirth and renewal"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "STUDENT",
-          "question": "Eager learner, navigating halls of knowledge"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "VISIBLE",
-          "question": "Seen by all, yet sometimes overlooked"
+          "level_image": 4,
+          "answer_text": "NEWBALANCE",
+          "question": "Popular brand known for athletic shoes and apparel"
         },
         {
           "level_image": 4,
-          "answer_text": "COUCHED",
-          "question": "Words artfully hidden within, waiting to be uncovered like treasures"
+          "answer_text": "AUTOMATION",
+          "question": "Use of technology to perform tasks automatically"
         },
         {
           "level_image": 4,
-          "answer_text": "CASHBOX",
-          "question": "Where earnings gather for safekeeping"
+          "answer_text": "BROOMSTICK",
+          "question": "Witches’ flying tool in folklore and stories"
         },
         {
           "level_image": 4,
-          "answer_text": "PIGEONS",
-          "question": "they coo softly while weaving through city streets"
+          "answer_text": "ELEMENTARY",
+          "question": "First level of school education for young students"
         },
         {
           "level_image": 4,
-          "answer_text": "SURFACE",
-          "question": "A boundary between air and earth"
+          "answer_text": "SCREENSHOT",
+          "question": "Digital image of what’s displayed on a screen"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "STARSTRUCK",
+          "question": "Overwhelmed or fascinated by celebrities or stars"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BREAKPOINT",
+          "question": "Chance to win a game on opponent’s serve in tennis"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "EVANGELIST",
+          "question": "Preacher spreading religious message or beliefs"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "SONGWRITER",
+          "question": "Person who writes lyrics and music for songs"
         },
         {
           "level_image": 0,
-          "answer_text": "SOUS CHEF",
+          "answer_text": "BOOMERANG",
           "question": null
         }
       ]
@@ -110,47 +125,77 @@
       "Questions": [
         {
           "level_image": 2,
-          "answer_text": "CHILD",
-          "question": "Tiny explorer, with eyes wide in wonder"
+          "answer_text": "HANGOUT",
+          "question": "Activity where people spend time relaxing together"
         },
         {
           "level_image": 2,
-          "answer_text": "PEACE",
-          "question": "The absence of conflict, where tranquility whispers"
+          "answer_text": "SUNRISE",
+          "question": "Time when the sun first appears above horizon"
         },
         {
           "level_image": 2,
-          "answer_text": "BACON",
-          "question": "Sizzling delight, from pig to plate, a crispy indulgence loved by many."
+          "answer_text": "ASHTRAY",
+          "question": "Object used to hold cigarette butts and ashes"
         },
         {
           "level_image": 2,
-          "answer_text": "IDEAL",
-          "question": "Perfection's distant echo, guiding aspirations toward a better tomorrow"
+          "answer_text": "STADIUM",
+          "question": "Large venue for sports events and concerts"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BRIOCHE",
+          "question": "Soft, buttery bread often used for pastries"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "DAYCARE",
+          "question": "Facility providing care for children during workday"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BLANKET",
+          "question": "Soft covering used for warmth while sleeping"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "DIPLOMA",
+          "question": "Certificate awarded upon completing an educational course"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "CANNOLI",
+          "question": "Italian pastry filled with sweet ricotta cheese"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SNOOKER",
+          "question": "Cue sport played on a rectangular table with pockets"
         },
         {
           "level_image": 3,
-          "answer_text": "RECAP",
-          "question": "Summarizing journey's steps, a quick rewind through the highlights of the day."
+          "answer_text": "BROTHER",
+          "question": "Family member you argue with but also share secrets"
         },
         {
           "level_image": 3,
-          "answer_text": "YAHOO",
-          "question": "An exclamation of joy or a pioneering internet search engine"
+          "answer_text": "EMPRESS",
+          "question": "Female ruler with supreme authority over an empire"
         },
         {
           "level_image": 3,
-          "answer_text": "AGENT",
-          "question": "Silent sentinel of secrecy"
+          "answer_text": "CHEDDAR",
+          "question": "Sharp, aged cheese commonly used in sandwiches"
         },
         {
           "level_image": 3,
-          "answer_text": "BEEFS",
-          "question": "Tender cuts of contention, simmering with disagreement"
+          "answer_text": "CONTEST",
+          "question": "Competition where participants compete for a prize"
         },
         {
           "level_image": 0,
-          "answer_text": "HEAD CHEF",
+          "answer_text": "AUSTRALIAN OPEN",
           "question": null
         }
       ]
@@ -160,73 +205,48 @@
       "LevelId": 4,
       "Questions": [
         {
-          "level_image": 1,
-          "answer_text": "SANDAL",
-          "question": "Open-toed comfort, embraced by sun-kissed feet"
+          "level_image": 7,
+          "answer_text": "AIRSICKNESS",
+          "question": "Nausea or discomfort experienced while flying"
         },
         {
-          "level_image": 1,
-          "answer_text": "UNITED",
-          "question": "In harmony we stand, diverse yet bonded"
+          "level_image": 7,
+          "answer_text": "NATIONALITY",
+          "question": "Identity based on the country of citizenship"
         },
         {
-          "level_image": 1,
-          "answer_text": "NATURE",
-          "question": "Life's canvas, painted with hues of green and blue"
+          "level_image": 7,
+          "answer_text": "SPONTANEOUS",
+          "question": "Acting on impulse without premeditation or planning"
         },
         {
-          "level_image": 1,
-          "answer_text": "NEEDLE",
-          "question": "Thread's faithful guide, piercing through layers with precision"
+          "level_image": 7,
+          "answer_text": "MEANINGLESS",
+          "question": "Lacking purpose or significance; without value or importance"
         },
         {
-          "level_image": 1,
-          "answer_text": "YAWING",
-          "question": "A sleepy reflex, where mouths stretch wide"
+          "level_image": 7,
+          "answer_text": "POMEGRANATE",
+          "question": "Red fruit filled with edible seeds and juice"
         },
         {
-          "level_image": 2,
-          "answer_text": "BACKUP",
-          "question": "Digital safety net, guarding against loss"
+          "level_image": 7,
+          "answer_text": "PHOTOGRAPHY",
+          "question": "Art of capturing images using a camera"
         },
         {
-          "level_image": 2,
-          "answer_text": "ENERGY",
-          "question": "The invisible fuel, powering life's dance"
+          "level_image": 7,
+          "answer_text": "PHILOSOPHER",
+          "question": "Person who studies fundamental questions about existence"
         },
         {
-          "level_image": 2,
-          "answer_text": "EDITOR",
-          "question": "Guardian of words, sculptor of stories"
-        },
-        {
-          "level_image": 2,
-          "answer_text": "HEALTH",
-          "question": "Body's balance, mind's sanctuary"
-        },
-        {
-          "level_image": 2,
-          "answer_text": "BRIDAL",
-          "question": "The dawn of forever, where vows intertwine"
-        },
-        {
-          "level_image": 2,
-          "answer_text": "ISLAND",
-          "question": "Earth's lonely jewels, cradled by the ocean"
-        },
-        {
-          "level_image": 2,
-          "answer_text": "BOARDS",
-          "question": "Stepping stones of decisions, where strategies are laid"
-        },
-        {
-          "level_image": 2,
-          "answer_text": "ENDURE",
-          "question": "Strength's silent anthem, echoing resilience through trials"
+          "level_image": 7,
+          "answer_text": "VACATIONING",
+          "question": "Traveling for leisure and relaxation away from home"
         },
         {
           "level_image": 0,
-          "answer_text": "Sunny Anderson",
+          "answer_text": "KANGAROO",
           "question": null
         }
       ]
@@ -237,42 +257,52 @@
       "Questions": [
         {
           "level_image": 5,
-          "answer_text": "COUNCIL",
-          "question": "Assembly of minds, where decisions take flight"
+          "answer_text": "PLAYMAKER",
+          "question": "Player who creates scoring opportunities for the team"
         },
         {
           "level_image": 5,
-          "answer_text": "COTTAGE",
-          "question": "Charming abode, tucked away in nature's embrace,"
+          "answer_text": "SECRETARY",
+          "question": "Administrative professional managing office tasks"
         },
         {
           "level_image": 5,
-          "answer_text": "COUNTRY",
-          "question": "Vast landscapes unfold, where cultures bloom"
+          "answer_text": "ESCALATOR",
+          "question": "Moving staircase used to transport people between floors"
         },
         {
-          "level_image": 6,
-          "answer_text": "FINANCE",
-          "question": "Numbers dance in harmony, orchestrating the symphony of wealth"
+          "level_image": 5,
+          "answer_text": "COWABUNGA",
+          "question": "Catchphrase popularized by Teenage Mutant Ninja Turtles"
         },
         {
-          "level_image": 6,
-          "answer_text": "DESKTOP",
-          "question": "Digital command center, where pixels paint productivity"
+          "level_image": 5,
+          "answer_text": "OUTSOURCE",
+          "question": "Assign tasks to external parties or companies"
         },
         {
-          "level_image": 6,
-          "answer_text": "ICEBERG",
-          "question": "Majestic behemoth, its tip reveals the tale"
+          "level_image": 5,
+          "answer_text": "COMMUNITY",
+          "question": "Network of people sharing interests and living together"
         },
         {
-          "level_image": 6,
-          "answer_text": "HANDBAG",
-          "question": "Stylish companion, carrying life's essentials"
+          "level_image": 5,
+          "answer_text": "SUGARCANE",
+          "question": "Plant harvested for producing sugar and molasse"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "POTENTIAL",
+          "question": "Talent waiting to be fully realized on the field"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "SHORELINE",
+          "question": "Edge where land meets the water"
         },
         {
           "level_image": 0,
-          "answer_text": "Cat Cora",
+          "answer_text": "MELBOURNE",
           "question": null
         }
       ]

@@ -7,9 +7,9 @@ public class AdsManager : MonoBehaviour
 {
     [SerializeField] private bool test;
     
-    [SerializeField] private string rewardId;
-    [SerializeField] private string interstitialId;
-    [SerializeField] private string bannerId;
+    private string _rewardId;
+    private string _interstitialId;
+    private string _bannerId;
     
     private static AdsManager _instance;
 
@@ -37,13 +37,13 @@ public class AdsManager : MonoBehaviour
         }
 
 #if UNITY_ANDROID
-        rewardId = "ca-app-pub-3940256099942544/5224354917";
-        interstitialId = "ca-app-pub-3940256099942544/1033173712";
-        bannerId = "ca-app-pub-3940256099942544/6300978111";
+        rewardId = "ca-app-pub-1268870789270764/6371096217";
+        interstitialId = "ca-app-pub-1268870789270764/2759154267";
+        bannerId = "ca-app-pub-1268870789270764/2713152308";
 #elif UNITY_IOS
-        rewardId = "ca-app-pub-3940256099942544/1712485313";
-        interstitialId = "ca-app-pub-3940256099942544/4411468910";
-        bannerId = "ca-app-pub-3940256099942544/2934735716";
+        _rewardId = "ca-app-pub-1268870789270764/1723977024";
+        _interstitialId = "ca-app-pub-1268870789270764/2957167648";
+        _bannerId = "ca-app-pub-1268870789270764/4270249313";
 #endif
         
         _instance = this;
@@ -102,7 +102,7 @@ public class AdsManager : MonoBehaviour
         
         var adRequest = new AdRequest();
 
-        RewardedAd.Load(rewardId, adRequest,
+        RewardedAd.Load(_rewardId, adRequest,
             (RewardedAd ad, LoadAdError error) =>
             {
                 if (error != null || ad == null)
@@ -130,7 +130,7 @@ public class AdsManager : MonoBehaviour
 
         var adRequest = new AdRequest();
 
-        InterstitialAd.Load(interstitialId, adRequest,
+        InterstitialAd.Load(_interstitialId, adRequest,
             (InterstitialAd ad, LoadAdError error) =>
             {
                 if (error != null || ad == null)
@@ -158,7 +158,7 @@ public class AdsManager : MonoBehaviour
             DestroyBannerView();
         }
 
-        _bannerView = new BannerView(bannerId, AdSize.Banner, AdPosition.Bottom);
+        _bannerView = new BannerView(_bannerId, AdSize.Banner, AdPosition.Bottom);
         
         _bannerView.OnBannerAdLoaded += OnBannerAdLoaded;
         _bannerView.OnBannerAdLoadFailed += OnBannerAdLoadFailed;

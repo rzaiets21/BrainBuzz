@@ -8,15 +8,21 @@ public class GDPRScreen : Screen
     [SerializeField] private ScreensController screensController;
     [SerializeField] private GDPRManager gdprManager;
     [SerializeField] private Button acceptButton;
+    [SerializeField] private Button privacyButton;
+    [SerializeField] private Button termsButton;
     
     private void OnEnable()
     {
         acceptButton.onClick.AddListener(OnClickAcceptButton);
+        privacyButton.onClick.AddListener(OnClickPrivacyButton);
+        termsButton.onClick.AddListener(OnClickTermsButton);
     }
 
     private void OnDisable()
     {
         acceptButton.onClick.RemoveListener(OnClickAcceptButton);
+        privacyButton.onClick.RemoveListener(OnClickPrivacyButton);
+        termsButton.onClick.RemoveListener(OnClickTermsButton);
     }
 
     private void OnClickAcceptButton()
@@ -28,6 +34,16 @@ public class GDPRScreen : Screen
         acceptButton.GetComponent<BeatingItem>().enabled = false;
         
         gdprManager.StartShowGDPR(OnFormShown);
+    }
+
+    private void OnClickPrivacyButton()
+    {
+        Application.OpenURL("https://brainbuzz.apppage.net/privacy-policy");
+    }
+
+    private void OnClickTermsButton()
+    {
+        Application.OpenURL("https://brainbuzz.apppage.net/terms");
     }
 
     private void OnFormShown()

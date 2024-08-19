@@ -49,7 +49,7 @@
         {
           "level_image": 4,
           "answer_text": "BROWN",
-          "question": "Color associated with chocolate or autumn leaves"
+          "question": "The color of soil"
         },
         {
           "level_image": 4,
@@ -74,88 +74,88 @@
       "Questions": [
         {
           "level_image": 4,
-          "answer_text": "BANNER",
-          "question": "Wave it high, words in the sky; symbol of pride that catches the eye"
+          "answer_text": "FOUNTAIN",
+          "question": "Source of water in a park"
         },
         {
           "level_image": 4,
-          "answer_text": "STEADY",
-          "question": "Not in a rush, a constant flow"
+          "answer_text": "AQUARIUM",
+          "question": "Home for fish"
         },
         {
           "level_image": 4,
-          "answer_text": "SUPPLY",
-          "question": "Stock and demand, a constant affair"
+          "answer_text": "SNAPSHOT",
+          "question": "Quick picture with camera"
         },
         {
           "level_image": 4,
-          "answer_text": "SMOOTH",
-          "question": "a surface so plump"
+          "answer_text": "ATTORNEY",
+          "question": "Legal professional in court"
         },
         {
           "level_image": 4,
-          "answer_text": "EAGLES",
-          "question": "Soaring high with eyes so keen, rulers of the sky"
+          "answer_text": "HALLMARK",
+          "question": "Channel known for movies"
         },
         {
           "level_image": 4,
-          "answer_text": "LABELS",
-          "question": "Stuck on products, names they bear; identifying marks"
+          "answer_text": "FACETIME",
+          "question": "Apple video calling app"
         },
         {
           "level_image": 4,
-          "answer_text": "LABOUR",
-          "question": "The grind, the sweat, the daily strife"
+          "answer_text": "OPPONENT",
+          "question": "Rival in a contest"
         },
         {
           "level_image": 4,
-          "answer_text": "EARNED",
-          "question": "Not given, but hard-fought gain; fruits of labor, not in vain"
+          "answer_text": "STANDARD",
+          "question": "Normal or accepted level"
         },
         {
           "level_image": 5,
-          "answer_text": "ZAREBA",
-          "question": "Thorns and posts in a guarded spree"
+          "answer_text": "BASEBALL",
+          "question": "Sport with bats, balls"
         },
         {
           "level_image": 5,
-          "answer_text": "NARROW",
-          "question": "Thin passage, tight and restricted; not wide"
+          "answer_text": "PRISONER",
+          "question": "Person held in jail"
         },
         {
           "level_image": 5,
-          "answer_text": "MARINE",
-          "question": "Blue expanse, a vast scene; salty waves and hues serene"
+          "answer_text": "CALENDAR",
+          "question": "Tool for tracking dates"
         },
         {
           "level_image": 5,
-          "answer_text": "FLORAL",
-          "question": "Petals dance in nature's gown, fragrant blooms"
+          "answer_text": "CASTAWAY",
+          "question": "Tom Hanks stranded drama"
         },
         {
           "level_image": 5,
-          "answer_text": "CRUMPS",
-          "question": "Small bits, fragments, a scattered sum"
+          "answer_text": "SHOPPING",
+          "question": "Buying things at stores"
         },
         {
           "level_image": 5,
-          "answer_text": "UPLOAD",
-          "question": "Ascend to the digital sphere; send data soaring, crystal clear"
+          "answer_text": "ISOLATED",
+          "question": "Far away from others"
         },
         {
           "level_image": 5,
-          "answer_text": "CENTRE",
-          "question": "Middle point, focal grace"
+          "answer_text": "BANKRUPT",
+          "question": "Out of financial resources"
         },
         {
           "level_image": 5,
-          "answer_text": "BEASTS",
-          "question": "Creatures wild, with fur or feather"
+          "answer_text": "PAINTING",
+          "question": "Art made with paint"
         },
         {
           "level_image": 5,
-          "answer_text": "APPLES",
-          "question": "a crunchy treat; red, green, or gold, they're good to eat"
+          "answer_text": "DRIVEWAY",
+          "question": "Path for parking cars"
         },
         {
           "level_image": 0,
@@ -170,83 +170,83 @@
       "Questions": [
         {
           "level_image": 2,
-          "answer_text": "EFFECTS",
-          "question": "Transformations observed, changes detected"
+          "answer_text": "OFFICER",
+          "question": "Person enforcing the law"
         },
         {
           "level_image": 2,
-          "answer_text": "PRIVATE",
-          "question": "Restricted access, secrecy's embrace"
+          "answer_text": "GRIZZLY",
+          "question": "Large North American bear"
         },
         {
           "level_image": 2,
-          "answer_text": "REGIONS",
-          "question": "Divisions defined, within borders, cultures converse"
+          "answer_text": "AEROBIC",
+          "question": "Exercise to improve endurance"
         },
         {
           "level_image": 2,
-          "answer_text": "ANSWERS",
-          "question": "solutions found, sought in puzzles"
+          "answer_text": "INVALID",
+          "question": "Incorrect or not applicable"
         },
         {
           "level_image": 2,
-          "answer_text": "ACCOUNT",
-          "question": "Tracks every cent, where money flows"
+          "answer_text": "SCALLOP",
+          "question": "Edible shellfish with ridges"
         },
         {
           "level_image": 2,
-          "answer_text": "CHEATED",
-          "question": "Deception's sting, trust betrayed"
+          "answer_text": "KHALIFA",
+          "question": "Burj ____, Tallest building in Dubai"
         },
         {
           "level_image": 3,
-          "answer_text": "ARRANGE",
-          "question": "Order in chaos, tidy array; jumble no more, sequence at bay"
+          "answer_text": "BARGAIN",
+          "question": "Great deal, low price"
         },
         {
           "level_image": 3,
-          "answer_text": "ELEMENT",
-          "question": "nature's core; building blocks, in all things stored"
+          "answer_text": "EYELASH",
+          "question": "Hair around the eye"
         },
         {
           "level_image": 3,
-          "answer_text": "INVOLVE",
-          "question": "Participation required, engagement sought"
+          "answer_text": "CAVEMAN",
+          "question": "Prehistoric human cave dweller"
         },
         {
           "level_image": 3,
-          "answer_text": "BROTHER",
-          "question": "Sibling bond, kinship true; through thick and thin"
+          "answer_text": "BOOMBOX",
+          "question": "Portable music playing device"
         },
         {
           "level_image": 3,
-          "answer_text": "CULTURE",
-          "question": "Customs shared, heritage held; in every tale"
+          "answer_text": "BALCONY",
+          "question": "Outdoor platform on building"
         },
         {
           "level_image": 3,
-          "answer_text": "JOURNEY",
-          "question": "Paths unfold, adventures begun; through trials and triumphs"
+          "answer_text": "HAUNTED",
+          "question": "Visited by ghosts regularly"
         },
         {
           "level_image": 3,
-          "answer_text": "BATTERY",
-          "question": "Power stored, energy's might; fueling devices"
+          "answer_text": "CITIZEN",
+          "question": "Member of a country"
         },
         {
           "level_image": 3,
-          "answer_text": "EDITION",
-          "question": "Variant release, content refined; updated version"
+          "answer_text": "CRICKET",
+          "question": "Widely played global sport"
         },
         {
           "level_image": 3,
-          "answer_text": "BROUGHT",
-          "question": "Carried along, from there to here; delivered, without a fear"
+          "answer_text": "BOOKING",
+          "question": "Travel accommodation reservation site"
         },
         {
           "level_image": 3,
-          "answer_text": "CENTURY",
-          "question": "Ten decades gone, history's thread; a hundred years"
+          "answer_text": "GENERAL",
+          "question": "High-ranking military officer"
         },
         {
           "level_image": 0,
@@ -260,64 +260,64 @@
       "LevelId": 4,
       "Questions": [
         {
-          "level_image": 2,
-          "answer_text": "BLUSH",
-          "question": "Rosy cheeks, shy display; emotions bloom in a subtle way."
+          "level_image": 5,
+          "answer_text": "DEMOLISHED",
+          "question": "Completely destroyed, torn down"
         },
         {
-          "level_image": 2,
-          "answer_text": "BONUS",
-          "question": "Extra gain, a pleasant surprise; reward beyond the usual guise"
+          "level_image": 5,
+          "answer_text": "EMPLOYMENT",
+          "question": "Having a paying job"
         },
         {
-          "level_image": 2,
-          "answer_text": "FUNNY",
-          "question": "Laughs provoked, humor's charm; joy found in a comic arm"
+          "level_image": 5,
+          "answer_text": "FETTUCCINE",
+          "question": "Flat, ribbon-like pasta"
         },
         {
-          "level_image": 2,
-          "answer_text": "EVENT",
-          "question": "Gatherings held, moments prime; memories made"
+          "level_image": 5,
+          "answer_text": "INDIVIDUAL",
+          "question": "Single person, unique entity"
         },
         {
-          "level_image": 2,
-          "answer_text": "BRICK",
-          "question": "Building block, sturdy and thick"
+          "level_image": 5,
+          "answer_text": "GENERATION",
+          "question": "People born same period"
         },
         {
-          "level_image": 2,
-          "answer_text": "DEATH",
-          "question": "Life's finale, inevitable end; farewell to all"
+          "level_image": 5,
+          "answer_text": "SUCCESSFUL",
+          "question": "Achieved desired goals effectively"
         },
         {
-          "level_image": 3,
-          "answer_text": "ADMIN",
-          "question": "Behind the scenes, managing all; overseeing tasks"
+          "level_image": 6,
+          "answer_text": "RANDOMIZED",
+          "question": "Arranged without specific order"
         },
         {
-          "level_image": 3,
-          "answer_text": "ADULT",
-          "question": "Grown and mature, responsibilities hold;"
+          "level_image": 6,
+          "answer_text": "SILHOUETTE",
+          "question": "Dark outline against background"
         },
         {
-          "level_image": 3,
-          "answer_text": "WASTE",
-          "question": "Discarded excess, resources lost; in disposal bins"
+          "level_image": 6,
+          "answer_text": "ENTHUSIAST",
+          "question": "Person with great passion"
         },
         {
-          "level_image": 3,
-          "answer_text": "AGENT",
-          "question": "Acting on behalf, missions pursue; catalyst for change"
+          "level_image": 6,
+          "answer_text": "CHANDELIER",
+          "question": "Decorative hanging light fixture"
         },
         {
-          "level_image": 3,
-          "answer_text": "BRUSH",
-          "question": "Sweeping strokes, canvas grace; painting tool"
+          "level_image": 6,
+          "answer_text": "VOCABULARY",
+          "question": "Collection of language words"
         },
         {
-          "level_image": 3,
-          "answer_text": "LEMON",
-          "question": "Yellow and tart, citrus delight; zesty flavor"
+          "level_image": 6,
+          "answer_text": "DIPLOMATIC",
+          "question": "Skilled in international relations"
         },
         {
           "level_image": 0,
@@ -331,79 +331,79 @@
       "LevelId": 5,
       "Questions": [
         {
-          "level_image": 3,
-          "answer_text": "DOCTOR",
-          "question": "Healer of ailments, keeper of health"
+          "level_image": 1,
+          "answer_text": "CARPET",
+          "question": "Aladdin's magic flying tool"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "HANGAR",
+          "question": "Building for storing aircraft"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "ANIMAL",
+          "question": "Creature in the wild"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "RANGER",
+          "question": "Forest guardian in movies"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "LETTER",
+          "question": "Piece of mail you receive"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "ESCROW",
+          "question": "Third-party holding funds"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "SALMON",
+          "question": "Pink fish popular in sushi"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "EDITOR",
+          "question": "Person who revises text"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "DENTAL",
+          "question": "Related to teeth care"
         },
         {
           "level_image": 3,
-          "answer_text": "COHORT",
-          "question": "Group in stride, united role; companions in aim"
+          "answer_text": "ENGINE",
+          "question": "Machine that powers vehicles"
         },
         {
           "level_image": 3,
-          "answer_text": "EMAILS",
-          "question": "Digital letters, swift and light; inbox filled"
+          "answer_text": "BLAZER",
+          "question": "Smart jacket for formal wear"
         },
         {
           "level_image": 3,
-          "answer_text": "MARKET",
-          "question": "Hub of commerce, goods exchange; buyers and sellers"
+          "answer_text": "MOUSSE",
+          "question": "Light, fluffy dessert or topping"
         },
         {
           "level_image": 3,
-          "answer_text": "KILLED",
-          "question": "Life's end, abruptly stilled; tragedy strikes"
+          "answer_text": "GELATO",
+          "question": "Italian-style creamy ice cream"
         },
         {
           "level_image": 3,
-          "answer_text": "BREADS",
-          "question": "Oven-fresh loaves, aroma divine; staple sustenance"
+          "answer_text": "VOLLEY",
+          "question": "Ball hit before it bounces"
         },
         {
           "level_image": 3,
-          "answer_text": "BASKET",
-          "question": "Carrying loads, woven grace; holding treasures"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "BUDGET",
-          "question": "Finances planned, expenses set; within limits"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "ENERGY",
-          "question": "Power within, vibrant force; driving motion"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "NUGGET",
-          "question": "Tiny treasure, precious find; gleaming gold"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "ATTACK",
-          "question": "Sudden strike, aggression shown; defense required"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "BEAUTY",
-          "question": "Aesthetic grace, sight's delight; in nature's art"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "YELLOW",
-          "question": "Sunny hue, vibrant and bold; daffodils bloom"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "BALLON",
-          "question": "Floating high, colorful sphere; tethered dreams"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "CLIENT",
-          "question": "Service seeker, needs to fulfill; patron of goods"
+          "answer_text": "THESIS",
+          "question": "Academic paper presenting argument"
         },
         {
           "level_image": 0,

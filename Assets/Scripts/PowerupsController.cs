@@ -117,12 +117,12 @@ public class PowerupsController : MonoBehaviour
             Debug.LogError("Powerup is not used");
             return;
         }
-                
+#if !UNITY_EDITOR
         if(PlayerInventory.Instance.HasPowerup(_currentPowerup))
             PlayerInventory.Instance.Consume(_currentPowerup);
         else
             PlayerInventory.Instance.Consume(currentPowerup.Price);
-        
+#endif
                 
         currentPowerup.Deselect(true);
         _currentPowerup = PowerupType.None;

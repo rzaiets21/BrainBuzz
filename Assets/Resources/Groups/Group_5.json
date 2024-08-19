@@ -1,6 +1,6 @@
 {
   "GroupId": 5,
-  "GroupName": "SPORTS",
+  "GroupName": "INDIA",
   "Levels": [
     {
       "GroupId": 5,
@@ -8,37 +8,47 @@
       "Questions": [
         {
           "level_image": 3,
-          "answer_text": "CATCH",
-          "question": "A moment's grasp, swift and sly"
+          "answer_text": "INTERNSHIP",
+          "question": "Temporary job for gaining experience in a field"
         },
         {
           "level_image": 3,
-          "answer_text": "THEFT",
-          "question": "Silent shadow, possessions drift"
+          "answer_text": "HEARTBREAK",
+          "question": "Emotional pain from the end of a relationship"
         },
         {
           "level_image": 3,
-          "answer_text": "TENON",
-          "question": "Wooden joint, strong and true, connecting pieces"
+          "answer_text": "OBJECTIVES",
+          "question": "Goals or targets aimed for in a project"
         },
         {
-          "level_image": 3,
-          "answer_text": "TENES",
-          "question": "connecting bone, where movement belongs"
+          "level_image": 4,
+          "answer_text": "TERMINATOR",
+          "question": "Iconic cyborg from Arnold Schwarzenegger's famous film"
         },
         {
-          "level_image": 3,
-          "answer_text": "JOINT",
-          "question": "Where bones meet, in flexible bind"
+          "level_image": 4,
+          "answer_text": "BREAKDANCE",
+          "question": "Street dance style with spinning and acrobatic moves"
         },
         {
-          "level_image": 3,
-          "answer_text": "VISIT",
-          "question": "A welcomed presence, a cherished stay"
+          "level_image": 4,
+          "answer_text": "DISHWASHER",
+          "question": "Appliance used to clean dishes automatically"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ATTACHMENT",
+          "question": "Additional part or document added to something"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "COLLECTORS",
+          "question": "People who gather and preserve items of interest"
         },
         {
           "level_image": 0,
-          "answer_text": "TENNIS",
+          "answer_text": "TAJ MAHAL",
           "question": null
         }
       ]
@@ -49,47 +59,77 @@
       "Questions": [
         {
           "level_image": 1,
-          "answer_text": "FLOWER",
-          "question": "Nature's artwork, in vibrant array"
+          "answer_text": "DELAWARE",
+          "question": "First state to join the United States Union"
         },
         {
           "level_image": 1,
-          "answer_text": "ORANGE",
-          "question": "Sun-kissed hue, citrus delight, juicy sweetness"
+          "answer_text": "ILLUSION",
+          "question": "Magic trick that tricks the eye"
         },
         {
           "level_image": 1,
-          "answer_text": "OXFORD",
-          "question": "Scholar's haven, steeped in lore"
+          "answer_text": "WINDMILL",
+          "question": "Large structure with blades, featured in 'Don Quixote'"
         },
         {
           "level_image": 1,
-          "answer_text": "TICKET",
-          "question": "Admission granted, to journeys near or far"
+          "answer_text": "ATHLETIC",
+          "question": "Active and strong in sports"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "LEMONADE",
+          "question": "A sweet drink made from lemons"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "IMPOSTER",
+          "question": "Someone pretending to be someone else"
         },
         {
           "level_image": 2,
-          "answer_text": "OBJECT",
-          "question": "shape and form, silent witness"
+          "answer_text": "OFFTRACK",
+          "question": "Not following the intended path"
         },
         {
           "level_image": 2,
-          "answer_text": "TARGET",
-          "question": "Hit your mark with precision"
+          "answer_text": "DELIVERY",
+          "question": "Service for bringing packages to your door"
         },
         {
           "level_image": 2,
-          "answer_text": "SILENT",
-          "question": "In the absence of sound, it speaks volumes"
+          "answer_text": "ISLANDER",
+          "question": "Someone who lives on an island"
         },
         {
           "level_image": 2,
-          "answer_text": "ONLINE",
-          "question": "Navigate the virtual realm, where clicks replace footsteps"
+          "answer_text": "STALLION",
+          "question": "Large, strong horse often used in racing"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "DIVIDEND",
+          "question": "Part of a company's profit shared with shareholders"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "OVERCST",
+          "question": "Cloudy sky without visible sun"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BALSAMIC",
+          "question": "Vinegar type, often used in salads."
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BLACKOUT",
+          "question": "Complete power loss or a sudden memory lapse"
         },
         {
           "level_image": 0,
-          "answer_text": "FOOTBALL",
+          "answer_text": "DIWALI FESTIVAL",
           "question": null
         }
       ]
@@ -100,52 +140,52 @@
       "Questions": [
         {
           "level_image": 3,
-          "answer_text": "FABRICS",
-          "question": "Threads of creativity weave together in this world of textures"
+          "answer_text": "GAMBLER",
+          "question": "Person who takes risks with money, often in casinos"
         },
         {
           "level_image": 3,
-          "answer_text": "DIAMOND",
-          "question": "A gem of unparalleled brilliance, coveted by many for its timeless allure"
+          "answer_text": "PREVIEW",
+          "question": "Glimpse of something before its official release or showing"
         },
         {
           "level_image": 3,
-          "answer_text": "ADDIDAS",
-          "question": "Stride in style with this iconic brand"
+          "answer_text": "MANAGER",
+          "question": "Person overseeing employees and operations"
         },
         {
-          "level_image": 3,
-          "answer_text": "COMPANY",
-          "question": "In the business of innovation, this entity orchestrates success with its vision"
+          "level_image": 4,
+          "answer_text": "HYGIENE",
+          "question": "Set of practices performed to preserve health"
         },
         {
-          "level_image": 3,
-          "answer_text": "PRIVATE",
-          "question": "Beyond public view, secrets are held close in this secluded realm"
+          "level_image": 4,
+          "answer_text": "CHANNEL",
+          "question": "Broadcast platform for TV or radio content"
         },
         {
-          "level_image": 3,
-          "answer_text": "PENALTY",
-          "question": "A consequence imposed for crossing lines"
+          "level_image": 5,
+          "answer_text": "GOODBYE",
+          "question": "Common farewell expression"
         },
         {
-          "level_image": 3,
-          "answer_text": "NATURAL",
-          "question": "In the realm of Earth's raw beauty"
+          "level_image": 5,
+          "answer_text": "NOODLES",
+          "question": "Long, thin pasta often used in Asian dishes"
         },
         {
-          "level_image": 3,
-          "answer_text": "SMOKING",
-          "question": "this habit ignites debate while leaving a lingering haze of health concerns in its wake"
+          "level_image": 5,
+          "answer_text": "LAWSUIT",
+          "question": "Legal action taken in court"
         },
         {
-          "level_image": 3,
-          "answer_text": "MONITOR",
-          "question": "Observing the digital landscape with vigilance"
+          "level_image": 5,
+          "answer_text": "NUGGETS",
+          "question": "Popular chicken item at McDonald's"
         },
         {
           "level_image": 0,
-          "answer_text": "BADMINTON",
+          "answer_text": "MEN IN BLUE",
           "question": null
         }
       ]
@@ -155,38 +195,73 @@
       "LevelId": 4,
       "Questions": [
         {
-          "level_image": 5,
-          "answer_text": "KITCHEN",
-          "question": "Where culinary dreams simmer and flavors blend"
+          "level_image": 4,
+          "answer_text": "CLUMSY",
+          "question": "Always dropping things or tripping over own feet"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CANADA",
+          "question": "Country known for its maple syrup and hockey"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "LYCHEE",
+          "question": "Tropical fruit often used in desserts and drinks"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "GARAGE",
+          "question": "Place to park your car or store tools"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "EASTER",
+          "question": "Holiday with egg hunts and chocolate bunnies"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "HERMES",
+          "question": "Luxury fashion brand known for its iconic handbags"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ERRAND",
+          "question": "Task you might run around town to complete"
         },
         {
           "level_image": 5,
-          "answer_text": "SUPPORT",
-          "question": "An invisible pillar, it uplifts and strengthens"
+          "answer_text": "SAVAGE",
+          "question": "Term for someone or something fierce and untamed"
         },
         {
           "level_image": 5,
-          "answer_text": "LOGICAL",
-          "question": "In the realm of reason and order, this path unveils itself through rational steps"
+          "answer_text": "BETRAY",
+          "question": "To break trust or loyalty with someone"
         },
         {
           "level_image": 5,
-          "answer_text": "SPEAKER",
-          "question": "Amplifying whispers into roars, this device breathes life into sound"
+          "answer_text": "BUYING",
+          "question": "Acquiring items or services through purchase"
         },
         {
           "level_image": 5,
-          "answer_text": "PROJECT",
-          "question": "From conception to completion, it's the blueprint of dreams realized"
+          "answer_text": "BLONDE",
+          "question": "Hair color often associated with light shades"
         },
         {
           "level_image": 5,
-          "answer_text": "SPRAYED",
-          "question": "Invisible strokes paint the air, leaving a scent of change"
+          "answer_text": "THIGHS",
+          "question": "Upper parts of your leg, between the hip and knee"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "TENNIS",
+          "question": "Sport where players hit a ball over a net with rackets"
         },
         {
           "level_image": 0,
-          "answer_text": "HOCKEY",
+          "answer_text": "MAHATMA GANDHI",
           "question": null
         }
       ]
@@ -196,54 +271,49 @@
       "LevelId": 5,
       "Questions": [
         {
-          "level_image": 3,
-          "answer_text": "MOBILITY",
-          "question": "Freedom's ally, it unlocks horizons and paves paths to new frontiers"
+          "level_image": 6,
+          "answer_text": "NEIGHBORHOOD",
+          "question": "Residential area where people live close to each other"
         },
         {
-          "level_image": 3,
-          "answer_text": "GRAPHICS",
-          "question": "\"Visions manifest in pixels"
+          "level_image": 6,
+          "answer_text": "BILLIONAIRES",
+          "question": "People with wealth exceeding one billion dollars"
         },
         {
-          "level_image": 3,
-          "answer_text": "HISTORIC",
-          "question": "In the footprints of time, it echoes tales of yore"
+          "level_image": 6,
+          "answer_text": "INTELLIGENCE",
+          "question": "High level of mental ability, often linked to problem-solving and learning"
         },
         {
-          "level_image": 3,
-          "answer_text": "LAKEVIEW",
-          "question": "Perched on nature's edge, it offers a panoramic vista of serene waters"
+          "level_image": 6,
+          "answer_text": "LEGISLATIONS",
+          "question": "Laws and rules established by government authorities"
         },
         {
-          "level_image": 3,
-          "answer_text": "PRESSURE",
-          "question": "Invisible weight, it pushes and molds"
+          "level_image": 6,
+          "answer_text": "AERODYNAMICS",
+          "question": "Study of how air interacts with moving objects"
         },
         {
-          "level_image": 3,
-          "answer_text": "INTERNET",
-          "question": "An infinite web of connection, where bytes traverse borders and ideas flow freely"
+          "level_image": 6,
+          "answer_text": "ACKNOWLEDGED",
+          "question": "Officially recognized or accepted after careful review"
         },
         {
-          "level_image": 4,
-          "answer_text": "KEYBOARD",
-          "question": "Tap into the gateway of expression, where words dance at your fingertips"
+          "level_image": 6,
+          "answer_text": "PSYCHOLOGIST",
+          "question": "Professional who studies the human mind and behavior"
         },
         {
-          "level_image": 4,
-          "answer_text": "PARALLEL",
-          "question": "In the realm of geometry, it's lines running side by side"
+          "level_image": 6,
+          "answer_text": "TECHNOPHOBIA",
+          "question": "Fear or dislike of advanced technology and gadgets"
         },
         {
-          "level_image": 4,
-          "answer_text": "ISOLATED",
-          "question": "In solitude's embrace, it stands alone"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "TAILORED",
-          "question": "Custom fit for elegance, it drapes with precision"
+          "level_image": 6,
+          "answer_text": "JURISDICTION",
+          "question": "Power to enforce laws and manage legal disputes within a specific area"
         }
       ]
     }

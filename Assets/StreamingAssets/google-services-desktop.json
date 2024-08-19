@@ -8,47 +8,29 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:343317039254:android:92399bc12c6883ecbadab7",
+        "mobilesdk_app_id": "1:343317039254:ios:8c7339c5c7b1a196badab7",
         "android_client_info": {
           "package_name": "com.brainbuzz.words"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "343317039254-csimhsddd37jtmdllu0ub3iiqvbip30a.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.brainbuzz.words",
-            "certificate_hash": "579cb94372bb20ddf60d36daa10be3869fd0b43c"
-          }
-        },
-        {
-          "client_id": "343317039254-0p196mp9i6mj3vv7k04v0ir5mh932e37.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
       "api_key": [
         {
-          "current_key": "AIzaSyALTH_KY03JW3ATr2lSb8eE-XnoayVuocI"
+          "current_key": "AIzaSyA4GBUx0_BLT0u76DsO50m2C3_qhNKsr8U"
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 0
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "343317039254-0p196mp9i6mj3vv7k04v0ir5mh932e37.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "343317039254-mdjqlr85sven3sjjq0kgppbav5mgeeps.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.brainbuzz.words"
-              }
-            }
-          ]
+          "status": 1
         }
-      }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343317039254-mdjqlr85sven3sjjq0kgppbav5mgeeps.apps.googleusercontent.com"
+        }
+      ]
     }
   ],
   "configuration_version": "1"

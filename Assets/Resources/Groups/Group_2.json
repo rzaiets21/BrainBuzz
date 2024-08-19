@@ -7,79 +7,79 @@
       "LevelId": 1,
       "Questions": [
         {
-          "level_image": 4,
-          "answer_text": "PRESENT",
-          "question": "Wrapped surprise, joyous sight; given with love"
+          "level_image": 3,
+          "answer_text": "CASHIER",
+          "question": "Person who processes payments at a checkout"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "AUTOPSY",
+          "question": "Examination of body to determine cause of death"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "ADAPTER",
+          "question": "Device that connects different types of plugs"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "PATTERN",
+          "question": "Repeated design or sequence in artwork or fabric"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "GOURMET",
+          "question": "High-quality and refined food"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CHEETAH",
+          "question": "Fastest land animal with spots"
         },
         {
           "level_image": 4,
-          "answer_text": "CAPTION",
-          "question": "Words below, a picture's reign; context offered"
+          "answer_text": "BAZOOKA",
+          "question": "Rocket launcher used in warfare"
         },
         {
           "level_image": 4,
-          "answer_text": "BALANCE",
-          "question": "Equal measure, harmony's quest; steadiness found"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "HISTORY",
-          "question": "Past's echo, tales untold; lessons learned"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "EXCUSER",
-          "question": "Blame deflector, reasons plead; avoiding fault"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "JEWELRY",
-          "question": "Sparkling adornment, precious gleam; enhancing beauty"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "AUTOMAT",
-          "question": "Self-serving hub, gears in dance; snacks and drinks"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "FANFICS",
-          "question": "Fan-made tales, imagination flies; beloved worlds"
+          "answer_text": "SEAFOOD",
+          "question": "Fish and shellfish dishes"
         },
         {
           "level_image": 5,
-          "answer_text": "PROBLEM",
-          "question": "Challenge faced, solution sought; in puzzles tough"
+          "answer_text": "GOGGLES",
+          "question": "Protective eyewear for swimming"
         },
         {
           "level_image": 5,
-          "answer_text": "AIRLINE",
-          "question": "Flight provider, skies traverse; wings of travel"
+          "answer_text": "BURRITO",
+          "question": "Wrapped Mexican food with fillings"
         },
         {
           "level_image": 5,
-          "answer_text": "PLUMBER",
-          "question": "Pipes and wrenches, fixes flow; water wizard"
+          "answer_text": "FREEBIE",
+          "question": "Something given at no cost"
         },
         {
           "level_image": 5,
-          "answer_text": "SUCCESS",
-          "question": "Goals achieved, dreams come true; perseverance pays"
+          "answer_text": "SERPENT",
+          "question": "Another word for snake"
         },
         {
           "level_image": 5,
-          "answer_text": "NATURAL",
-          "question": "Untamed beauty, earth's embrace; wilderness thrives"
+          "answer_text": "EXPIRED",
+          "question": "No longer valid or fresh"
         },
         {
           "level_image": 5,
-          "answer_text": "ADPOTED",
-          "question": "New family found, love bestowed; bonds formed"
+          "answer_text": "AVIATOR",
+          "question": "Pilot or person who flies"
         },
         {
           "level_image": 5,
-          "answer_text": "BELAYED",
-          "question": "Paused progress, time's delay; patience tested"
+          "answer_text": "ANALYZE",
+          "question": "Examine something in detail"
         },
         {
           "level_image": 0,
@@ -93,59 +93,59 @@
       "LevelId": 2,
       "Questions": [
         {
-          "level_image": 1,
-          "answer_text": "GADGET",
-          "question": "Innovative tool, function neat; tech's marvel"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "RABBIT",
-          "question": "Hopping friend, ears so long; fluffy tail"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "ABSENT",
-          "question": "Missing presence, void unfilled; longing felt"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "NATION",
-          "question": "Unity bound, diverse terrain; citizens proud"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "DANCER",
-          "question": "Graceful steps, rhythm's trance; body in motion"
+          "level_image": 2,
+          "answer_text": "AGITATED",
+          "question": "Nervous, restless, or excited"
         },
         {
           "level_image": 2,
-          "answer_text": "ICONES",
-          "question": "Symbols revered, cultural sign; representing ideals"
+          "answer_text": "GREETING",
+          "question": "Words used to welcome someone"
         },
         {
           "level_image": 2,
-          "answer_text": "BACKUP",
-          "question": "Safe copy stored, disaster evade; data's shield"
+          "answer_text": "BACHELOR",
+          "question": "Single, unmarried man"
         },
         {
           "level_image": 2,
-          "answer_text": "ENDURE",
-          "question": "Persist through trials, resilience pure; withstand the storm"
+          "answer_text": "UNLIKELY",
+          "question": "Not expected to happen"
         },
         {
           "level_image": 2,
-          "answer_text": "HYBRID",
-          "question": "Blend of traits, fusion's tide; crossbreed form"
+          "answer_text": "ADVISORY",
+          "question": "Consulting or providing expert advice"
         },
         {
-          "level_image": 2,
-          "answer_text": "BOILED",
-          "question": "Heated to bubbling, culinary delight; ingredients softened"
+          "level_image": 3,
+          "answer_text": "COCKTAIL",
+          "question": "Mixed alcoholic drink often served with garnish"
         },
         {
-          "level_image": 2,
-          "answer_text": "KNIFED",
-          "question": "Sharp edge wielded, swift incision made; precision cuts"
+          "level_image": 3,
+          "answer_text": "QUANTITY",
+          "question": "Amount or number of something measured or counted"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "HANDYMEN",
+          "question": "People skilled in various home repair tasks"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "KEYBOARD",
+          "question": "Input device with keys for typing text"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "DOORSTEP",
+          "question": "Step at the entrance of a building"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "HANDBALL",
+          "question": "Team sport where players use hands to score"
         },
         {
           "level_image": 0,
@@ -159,63 +159,58 @@
       "LevelId": 3,
       "Questions": [
         {
-          "level_image": 3,
-          "answer_text": "AUDIO",
-          "question": "Sound waves flow, ears delight; melodies play"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "CHIEF",
-          "question": "Leader esteemed, decisions prime; guiding force"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "BASIS",
-          "question": "Foundation laid, starting point; core principle"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "MONEY",
-          "question": "Currency's sway, wealth's command; value exchanged"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "CHEAP",
-          "question": "Low in cost, budget's friend; affordable"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "BUYER",
-          "question": "Seeker of goods, purchases pursue; transactions made"
+          "level_image": 4,
+          "answer_text": "GLADIATOR",
+          "question": "Ancient fighter who battled in arenas"
         },
         {
           "level_image": 4,
-          "answer_text": "CROWN",
-          "question": "Regal adornment, majestic flair; atop the head"
+          "answer_text": "BILINGUAL",
+          "question": "Able to speak two different languages fluently"
         },
         {
           "level_image": 4,
-          "answer_text": "ACTOR",
-          "question": "On stage or screen, roles unfold; embodying characters"
+          "answer_text": "CROSSROAD",
+          "question": "Intersection where roads meet or cross"
         },
         {
           "level_image": 4,
-          "answer_text": "AWARD",
-          "question": "Recognition earned, excellence displayed; honor bestowed"
+          "answer_text": "FRANKFURT",
+          "question": "City in Germany known for sausages and finance"
         },
         {
           "level_image": 4,
-          "answer_text": "ANGLE",
-          "question": "Line's divergence, geometric fate; perspective shift"
+          "answer_text": "APPETIZER",
+          "question": "Small dish served before the main course"
         },
         {
           "level_image": 4,
-          "answer_text": "DIODE",
-          "question": "Flow controller, one-way gate; electrical paths"
+          "answer_text": "POLYGRAPH",
+          "question": "Device that measures physiological responses to lying"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CHILDHOOD",
+          "question": "Early period of life before adulthood begins"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "DEPARTURE",
+          "question": "Time when a flight leaves the airport"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CARNIVORE",
+          "question": "Animal that primarily eats other animals"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "HANDBRAKE",
+          "question": "Vehicle lever used to stop or hold position"
         },
         {
           "level_image": 0,
-          "answer_text": "DISNEY WORLD",
+          "answer_text": "DISNEYLAND",
           "question": null
         }
       ]
@@ -225,49 +220,49 @@
       "LevelId": 4,
       "Questions": [
         {
-          "level_image": 3,
-          "answer_text": "YAHOO",
-          "question": "Search engine old, once a mainstay; now part of history's sway"
+          "level_image": 5,
+          "answer_text": "DOUGHNUT",
+          "question": "Sweet, fried pastry often shaped like a ring"
         },
         {
-          "level_image": 3,
-          "answer_text": "CLOUD",
-          "question": "Sky's canvas, ever-changing art; where dreams drift"
+          "level_image": 5,
+          "answer_text": "COMPOUND",
+          "question": "Substance made from two or more elements"
         },
         {
-          "level_image": 3,
-          "answer_text": "HELLO",
-          "question": "Simple greeting, warm and bright; start of conversations"
+          "level_image": 5,
+          "answer_text": "DUMPLING",
+          "question": "Small dough-filled food often steamed or boiled"
         },
         {
-          "level_image": 3,
-          "answer_text": "JELLY",
-          "question": "Sweet and wobbly, in vibrant hue; spread on toast"
+          "level_image": 5,
+          "answer_text": "FEARLESS",
+          "question": "Brave and without any sign of fear"
         },
         {
-          "level_image": 3,
-          "answer_text": "ROYAL",
-          "question": "Regal lineage, majesty's claim; adorned in jewels"
+          "level_image": 5,
+          "answer_text": "VALKYRIE",
+          "question": "Mythical Norse figure choosing who will die"
         },
         {
-          "level_image": 4,
-          "answer_text": "BROWN",
-          "question": "Earthy hue, nature's tone; rich and warm"
+          "level_image": 5,
+          "answer_text": "SOFTWARE",
+          "question": "Programs and applications run on a computer"
         },
         {
-          "level_image": 4,
-          "answer_text": "ONION",
-          "question": "Pungent bulb, layers to peel; adds flavor"
+          "level_image": 5,
+          "answer_text": "CUPBOARD",
+          "question": "Storage space with shelves for dishes and utensils"
         },
         {
-          "level_image": 4,
-          "answer_text": "BOARD",
-          "question": "Flat surface, where plans unfold; decisions made"
+          "level_image": 5,
+          "answer_text": "EUPHORIA",
+          "question": "Intense feeling of joy and happiness"
         },
         {
-          "level_image": 4,
-          "answer_text": "GUIDE",
-          "question": "Lead the way, light in the dark; wisdom's hand"
+          "level_image": 5,
+          "answer_text": "SHOWDOWN",
+          "question": "Final confrontation or decisive battle between opponents"
         },
         {
           "level_image": 0,
@@ -281,69 +276,69 @@
       "LevelId": 5,
       "Questions": [
         {
-          "level_image": 4,
-          "answer_text": "COMMAND",
-          "question": "Order given, authority's decree; actions taken"
+          "level_image": 2,
+          "answer_text": "IMPARTIAL",
+          "question": "Fair and unbiased in judgment or opinion"
         },
         {
-          "level_image": 4,
-          "answer_text": "ALMONDS",
-          "question": "Nutty delight, crunchy and round; healthy snack"
+          "level_image": 2,
+          "answer_text": "BOOTSTRAP",
+          "question": "Self-starting business process without external assistance"
         },
         {
-          "level_image": 4,
-          "answer_text": "IMPULSE",
-          "question": "Sudden urge, action's spark; instincts drive"
+          "level_image": 2,
+          "answer_text": "AUTHENTIC",
+          "question": "True to its original and genuine nature"
         },
         {
-          "level_image": 4,
-          "answer_text": "BRANDED",
-          "question": "Marked for distinction, logo displayed; identity sealed"
+          "level_image": 2,
+          "answer_text": "INVESTING",
+          "question": "Putting money into assets for future profit"
         },
         {
-          "level_image": 4,
-          "answer_text": "BATTLED",
-          "question": "Conflict engaged, foes collide; warriors clash"
+          "level_image": 2,
+          "answer_text": "STORYTIME",
+          "question": "Scheduled event for reading or telling stories"
         },
         {
-          "level_image": 5,
-          "answer_text": "CIGARET",
-          "question": "Addictive habit, health's decay; smoke-filled lungs"
+          "level_image": 3,
+          "answer_text": "BIRDHOUSE",
+          "question": "Shelter for birds to nest and live"
         },
         {
-          "level_image": 5,
-          "answer_text": "BOUQUET",
-          "question": "Fragrant collection, colors arrayed; floral delight"
+          "level_image": 3,
+          "answer_text": "BLUEPRINT",
+          "question": "Detailed plan or design for construction projects"
         },
         {
-          "level_image": 5,
-          "answer_text": "DEPOSET",
-          "question": "Securely stored, in designated space; items placed"
+          "level_image": 3,
+          "answer_text": "COSMETICS",
+          "question": "Products used to enhance or alter appearance"
         },
         {
-          "level_image": 5,
-          "answer_text": "WEATHER",
-          "question": "Atmosphere's mood, skies' attire; forecasted changes"
+          "level_image": 3,
+          "answer_text": "OTHERWISE",
+          "question": "In a different way or under different conditions"
         },
         {
-          "level_image": 5,
-          "answer_text": "KASHMIR",
-          "question": "Region serene, mountains tall; beauty vast"
+          "level_image": 3,
+          "answer_text": "COMPANION",
+          "question": "Person or animal who keeps someone company"
         },
         {
-          "level_image": 5,
-          "answer_text": "BORROWS",
-          "question": "Takes temporarily, returns in time; shares resources"
+          "level_image": 3,
+          "answer_text": "BOOKSHELF",
+          "question": "Furniture with horizontal surfaces for storing books"
         },
         {
-          "level_image": 5,
-          "answer_text": "CONTROL",
-          "question": "Guidance firm, power wielded; mastery shown"
+          "level_image": 3,
+          "answer_text": "ARROWHEAD",
+          "question": "Pointed tip of an arrow for hunting"
         },
         {
-          "level_image": 5,
-          "answer_text": "BAGGERS",
-          "question": "Packers of goods, swift and keen; filling sacks"
+          "level_image": 3,
+          "answer_text": "OVERWATCH",
+          "question": "Blizzard's team-based shooter with unique heroes"
         },
         {
           "level_image": 0,

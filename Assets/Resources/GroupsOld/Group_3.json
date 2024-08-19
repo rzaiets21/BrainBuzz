@@ -1,0 +1,281 @@
+{
+  "GroupId": 3,
+  "GroupName": "CHEFS LIFE",
+  "Levels": [
+    {
+      "GroupId": 3,
+      "LevelId": 1,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "AUGUST",
+          "question": "During this month, summer heat reaches its peak, inspiring vacations"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "COUPON",
+          "question": "Hand this over to save money on your purchase"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "LAYOUT",
+          "question": "Blueprint for organization, where elements find their perfect place"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CURFEW",
+          "question": "when the streets empty and doors lock, it's time to stay indoors."
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ACTION",
+          "question": "it's the heartbeat of every thrilling plot and the catalyst for change."
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CINEMA",
+          "question": "Where dreams flicker to life, on a silver screen, in the dark"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "GLORIA",
+          "question": "Her name echoes triumph, a melody of resilience and strength"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ARTIST",
+          "question": "Creator of worlds with brush or pen"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "GUY FIERI",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 3,
+      "LevelId": 2,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "WESTREN",
+          "question": "Where tumbleweeds dance and gunslingers roam"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "PHOENIX",
+          "question": "Rising from ashes, a symbol of rebirth and renewal"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "STUDENT",
+          "question": "Eager learner, navigating halls of knowledge"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "VISIBLE",
+          "question": "Seen by all, yet sometimes overlooked"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "COUCHED",
+          "question": "Words artfully hidden within, waiting to be uncovered like treasures"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CASHBOX",
+          "question": "Where earnings gather for safekeeping"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PIGEONS",
+          "question": "they coo softly while weaving through city streets"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "SURFACE",
+          "question": "A boundary between air and earth"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "SOUS CHEF",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 3,
+      "LevelId": 3,
+      "Questions": [
+        {
+          "level_image": 2,
+          "answer_text": "CHILD",
+          "question": "Tiny explorer, with eyes wide in wonder"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "PEACE",
+          "question": "The absence of conflict, where tranquility whispers"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BACON",
+          "question": "Sizzling delight, from pig to plate, a crispy indulgence loved by many."
+        },
+        {
+          "level_image": 2,
+          "answer_text": "IDEAL",
+          "question": "Perfection's distant echo, guiding aspirations toward a better tomorrow"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "RECAP",
+          "question": "Summarizing journey's steps, a quick rewind through the highlights of the day."
+        },
+        {
+          "level_image": 3,
+          "answer_text": "YAHOO",
+          "question": "An exclamation of joy or a pioneering internet search engine"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "AGENT",
+          "question": "Silent sentinel of secrecy"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BEEFS",
+          "question": "Tender cuts of contention, simmering with disagreement"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "HEAD CHEF",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 3,
+      "LevelId": 4,
+      "Questions": [
+        {
+          "level_image": 1,
+          "answer_text": "SANDAL",
+          "question": "Open-toed comfort, embraced by sun-kissed feet"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "UNITED",
+          "question": "In harmony we stand, diverse yet bonded"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "NATURE",
+          "question": "Life's canvas, painted with hues of green and blue"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "NEEDLE",
+          "question": "Thread's faithful guide, piercing through layers with precision"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "YAWING",
+          "question": "A sleepy reflex, where mouths stretch wide"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BACKUP",
+          "question": "Digital safety net, guarding against loss"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ENERGY",
+          "question": "The invisible fuel, powering life's dance"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "EDITOR",
+          "question": "Guardian of words, sculptor of stories"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "HEALTH",
+          "question": "Body's balance, mind's sanctuary"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BRIDAL",
+          "question": "The dawn of forever, where vows intertwine"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ISLAND",
+          "question": "Earth's lonely jewels, cradled by the ocean"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BOARDS",
+          "question": "Stepping stones of decisions, where strategies are laid"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ENDURE",
+          "question": "Strength's silent anthem, echoing resilience through trials"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "Sunny Anderson",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 3,
+      "LevelId": 5,
+      "Questions": [
+        {
+          "level_image": 5,
+          "answer_text": "COUNCIL",
+          "question": "Assembly of minds, where decisions take flight"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "COTTAGE",
+          "question": "Charming abode, tucked away in nature's embrace,"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "COUNTRY",
+          "question": "Vast landscapes unfold, where cultures bloom"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "FINANCE",
+          "question": "Numbers dance in harmony, orchestrating the symphony of wealth"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "DESKTOP",
+          "question": "Digital command center, where pixels paint productivity"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "ICEBERG",
+          "question": "Majestic behemoth, its tip reveals the tale"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "HANDBAG",
+          "question": "Stylish companion, carrying life's essentials"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "Cat Cora",
+          "question": null
+        }
+      ]
+    }
+  ]
+}

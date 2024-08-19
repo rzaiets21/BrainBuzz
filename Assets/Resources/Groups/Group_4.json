@@ -1,74 +1,74 @@
 {
   "GroupId": 4,
-  "GroupName": "OCEANS WORLD",
+  "GroupName": "BRAZIL",
   "Levels": [
     {
       "GroupId": 4,
       "LevelId": 1,
       "Questions": [
         {
-          "level_image": 1,
-          "answer_text": "PIZZA",
-          "question": "this Italian delight promises a slice of heaven in every bite."
-        },
-        {
-          "level_image": 1,
-          "answer_text": "ACTOR",
-          "question": "Stage or screen, their craft unfolds,"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "CABLE",
-          "question": "Links the world, carries data's load,"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "IGLOO",
-          "question": "Snowbound shelter, icy dome, Arctic refuge"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "FACES",
-          "question": "Countless expressions, emotions in traces"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "INPUT",
-          "question": "Where commands reside, and actions abide"
-        },
-        {
-          "level_image": 1,
-          "answer_text": "CABIN",
-          "question": "Wooden haven, nestled in trees"
+          "level_image": 2,
+          "answer_text": "TRANSLATOR",
+          "question": "Bridges communication between different languages"
         },
         {
           "level_image": 2,
-          "answer_text": "BOAST",
-          "question": "Loudly proclaimed, achievements toast"
+          "answer_text": "NIGHTSTAND",
+          "question": "Small table next to a bed for essentials"
         },
         {
           "level_image": 2,
-          "answer_text": "SCALE",
-          "question": "Measuring tool, from small to grand,"
+          "answer_text": "POPULATION",
+          "question": "Total number of people in a specific area"
         },
         {
-          "level_image": 2,
-          "answer_text": "HELLO",
-          "question": "Simple greeting, universally known"
+          "level_image": 3,
+          "answer_text": "MEDICATION",
+          "question": "Substance used to treat or manage health conditions"
         },
         {
-          "level_image": 2,
-          "answer_text": "BADGE",
-          "question": "Symbol of honor, worn with pride"
+          "level_image": 3,
+          "answer_text": "SWEETHEART",
+          "question": "Nickname for someone special, like a crush or friend"
         },
         {
-          "level_image": 2,
-          "answer_text": "ANGRY",
-          "question": "Fiery emotion, flares with ire, a stormy mood"
+          "level_image": 4,
+          "answer_text": "SUBJECTIVE",
+          "question": "Based on personal opinions or feelings, not facts"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "DREAMWORKS",
+          "question": "Film studio known for animated movies like Shrek"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "GRANDCHILD",
+          "question": "Child of your son or daughter"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "GENEROSITY",
+          "question": "Willingness to give freely and help others"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "HELICOPTER",
+          "question": "Aircraft with rotating blades for vertical flight"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ENCRYPTION",
+          "question": "Method for securing data by converting into code"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ACCOUNTANT",
+          "question": "Professional who manages financial records and transactions"
         },
         {
           "level_image": 0,
-          "answer_text": "PACIFIC OCEAN",
+          "answer_text": "RIO DE JANEIRO",
           "question": null
         }
       ]
@@ -78,73 +78,58 @@
       "LevelId": 2,
       "Questions": [
         {
-          "level_image": 2,
-          "answer_text": "ESTATE",
-          "question": "Wealthy domain, vast and grand, property holdings"
+          "level_image": 4,
+          "answer_text": "STOCKING",
+          "question": "Sheer legwear often worn with skirts or dresses"
         },
         {
-          "level_image": 2,
-          "answer_text": "POLICY",
-          "question": "Rules to follow, guidelines clear, shaping actions"
+          "level_image": 4,
+          "answer_text": "GASOLINE",
+          "question": "Fuel used in cars and other combustion engines"
         },
         {
-          "level_image": 2,
-          "answer_text": "TURTLE",
-          "question": "Slow and steady, shell to defend"
+          "level_image": 4,
+          "answer_text": "TROPICAL",
+          "question": "Warm and humid climate found near the equator"
         },
         {
-          "level_image": 2,
-          "answer_text": "STREET",
-          "question": "Urban pathway, bustling with life"
+          "level_image": 4,
+          "answer_text": "GIGANTIC",
+          "question": "Extremely large or huge, much bigger than normal"
         },
         {
-          "level_image": 2,
-          "answer_text": "CHEESE",
-          "question": "Dairy delight, in hues and taste"
+          "level_image": 4,
+          "answer_text": "BRACELET",
+          "question": "Jewelry worn around the wrist for decoration"
         },
         {
-          "level_image": 2,
-          "answer_text": "PEPPER",
-          "question": "Spice of life, with heat to savor"
+          "level_image": 4,
+          "answer_text": "LOCATION",
+          "question": "Specific place or position of something or someone"
         },
         {
-          "level_image": 2,
-          "answer_text": "GROWTH",
-          "question": "From seed to tree, or child to adult"
+          "level_image": 4,
+          "answer_text": "DUMBBELL",
+          "question": "Weights used for lifting exercises, one in each hand"
         },
         {
-          "level_image": 2,
-          "answer_text": "INCOME",
-          "question": "Wallet's gain, a paycheck's realm"
+          "level_image": 4,
+          "answer_text": "DYNAMITE",
+          "question": "Explosive used for demolition and breaking things apart"
         },
         {
-          "level_image": 3,
-          "answer_text": "AMOUNT",
-          "question": "Quantitative measure, large or small"
+          "level_image": 4,
+          "answer_text": "DOWNTOWN",
+          "question": "Central area of a city with shops and offices"
         },
         {
-          "level_image": 3,
-          "answer_text": "SECURE",
-          "question": "Lock and key, peace of mind"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "BREATH",
-          "question": "Life's rhythm, in and out, oxygen's dance"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "SHADOW",
-          "question": "Follows silently, where light won't go"
-        },
-        {
-          "level_image": 3,
-          "answer_text": "SUNSET",
-          "question": "Day's gentle farewell, paints the sky in hues"
+          "level_image": 4,
+          "answer_text": "VITAMINS",
+          "question": "Nutrients needed for health, found in various foods"
         },
         {
           "level_image": 0,
-          "answer_text": "SOUTHERN OCEAN",
+          "answer_text": "COPACABANA",
           "question": null
         }
       ]
@@ -154,73 +139,48 @@
       "LevelId": 3,
       "Questions": [
         {
-          "level_image": 3,
-          "answer_text": "DRAGON",
-          "question": "Mythical beast, fierce and grand"
+          "level_image": 2,
+          "answer_text": "SCARECROW",
+          "question": "Figure used to scare away birds from crops"
         },
         {
-          "level_image": 3,
-          "answer_text": "BUTTER",
-          "question": "Dairy's delight, creamy and smooth"
+          "level_image": 2,
+          "answer_text": "FAIRYTALE",
+          "question": "Classic story type seen in Disney animated movies"
         },
         {
-          "level_image": 3,
-          "answer_text": "PILLOW",
-          "question": "Soft embrace for weary heads, dreams await on feather beds"
+          "level_image": 2,
+          "answer_text": "ARTICHOKE",
+          "question": "Edible vegetable with a tough outer layer and heart"
         },
         {
-          "level_image": 3,
-          "answer_text": "PLANET",
-          "question": "Orbiting stars, in cosmic ballet"
+          "level_image": 2,
+          "answer_text": "UNDERPAID",
+          "question": "Receiving less money for work than deserved"
         },
         {
-          "level_image": 3,
-          "answer_text": "WINDOW",
-          "question": "Portal to outside, framed in glass"
+          "level_image": 2,
+          "answer_text": "FISHERMAN",
+          "question": "Person who catches fish for a living or hobby"
         },
         {
-          "level_image": 3,
-          "answer_text": "MOTHER",
-          "question": "Nurturing heart, love's endless tether"
+          "level_image": 2,
+          "answer_text": "AVALANCHE",
+          "question": "Large mass of snow sliding down a mountain"
         },
         {
-          "level_image": 3,
-          "answer_text": "FRIEND",
-          "question": "Kindred spirit, loyal and true"
+          "level_image": 2,
+          "answer_text": "CANDIDATE",
+          "question": "Person who applies for a job or election"
         },
         {
-          "level_image": 3,
-          "answer_text": "ESCAPE",
-          "question": "Freedom's pursuit, from bonds untied"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "REPORT",
-          "question": "Compilation of facts, findings clear"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "CLOCKS",
-          "question": "Ticking hands, marking time's flight"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "CAMERA",
-          "question": "Freezing moments, capturing light"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "POTATO",
-          "question": "Underground treasure, versatile and bland"
-        },
-        {
-          "level_image": 4,
-          "answer_text": "MANNER",
-          "question": "Gentle demeanor, manners refined"
+          "level_image": 2,
+          "answer_text": "BLACKJACK",
+          "question": "Card game where the goal is 21 points"
         },
         {
           "level_image": 0,
-          "answer_text": "ATLANTIC OCEAN",
+          "answer_text": "CARNIVAL",
           "question": null
         }
       ]
@@ -230,63 +190,58 @@
       "LevelId": 4,
       "Questions": [
         {
-          "level_image": 1,
-          "answer_text": "ANIMALS",
-          "question": "Natures' kin, in field and sky"
+          "level_image": 3,
+          "answer_text": "BERLIN",
+          "question": "Capital city of Germany known for historical landmarks"
         },
         {
-          "level_image": 1,
-          "answer_text": "RECIPES",
-          "question": "Guiding hand in culinary delight"
+          "level_image": 3,
+          "answer_text": "SHAZAM",
+          "question": "App that identifies songs by listening to them"
         },
         {
-          "level_image": 1,
-          "answer_text": "CAPITAL",
-          "question": "Hub of power, where decisions unfurl"
+          "level_image": 3,
+          "answer_text": "ENIGMA",
+          "question": "A mystery or puzzle that is hard to understand"
         },
         {
-          "level_image": 1,
-          "answer_text": "TEACHER",
-          "question": "Knowledge's guide, in wisdom's array"
+          "level_image": 3,
+          "answer_text": "GENIUS",
+          "question": "Someone with extraordinary intellectual or creative ability"
         },
         {
-          "level_image": 1,
-          "answer_text": "ISLANDS",
-          "question": "Emerald jewels in the ocean's embrace"
+          "level_image": 3,
+          "answer_text": "OFFICE",
+          "question": "Place where people work, often with desks"
         },
         {
-          "level_image": 1,
-          "answer_text": "CAPTURE",
-          "question": "Seizing moments, in a fleeting grasp"
+          "level_image": 3,
+          "answer_text": "CLOSET",
+          "question": "Small room or space for storing clothes and items"
         },
         {
-          "level_image": 2,
-          "answer_text": "SOCIETY",
-          "question": "Interwoven lives, in a complex weave"
+          "level_image": 3,
+          "answer_text": "KARATE",
+          "question": "Martial art focused on striking with hands and feet"
         },
         {
-          "level_image": 2,
-          "answer_text": "SCHOOLS",
-          "question": "Knowledge's sanctuary, minds take flight"
+          "level_image": 3,
+          "answer_text": "PRENUP",
+          "question": "Legal agreement made before marriage about finances"
         },
         {
-          "level_image": 2,
-          "answer_text": "RECORDS",
-          "question": "Time's witness, events preserved"
+          "level_image": 3,
+          "answer_text": "HOSTEL",
+          "question": "Affordable lodging for travelers or students, shared rooms"
         },
         {
-          "level_image": 2,
-          "answer_text": "PARKING",
-          "question": "Urban puzzle, spaces sought"
-        },
-        {
-          "level_image": 2,
-          "answer_text": "UNIFORM",
-          "question": "Standard attire, in unity worn"
+          "level_image": 3,
+          "answer_text": "AUTUMN",
+          "question": "Season with falling leaves and cooler temperatures"
         },
         {
           "level_image": 0,
-          "answer_text": "ARCTIC OCEAN",
+          "answer_text": "RAINFOREST",
           "question": null
         }
       ]
@@ -296,63 +251,68 @@
       "LevelId": 5,
       "Questions": [
         {
-          "level_image": 3,
-          "answer_text": "CEILING",
-          "question": "Above our heads, sky's counterpart"
+          "level_image": 5,
+          "answer_text": "CONFIDENT",
+          "question": "Feeling sure of oneself and one’s abilities"
         },
         {
-          "level_image": 3,
-          "answer_text": "CENTURY",
-          "question": "100 years gone, history's span"
+          "level_image": 5,
+          "answer_text": "AUTOPILOT",
+          "question": "System that automatically controls an aircraft or vehicle"
         },
         {
-          "level_image": 3,
-          "answer_text": "NUDDLES",
-          "question": "Slippery strands, in savory brew"
+          "level_image": 5,
+          "answer_text": "NOSTALGIC",
+          "question": "Feeling longing for the past with fond memories"
         },
         {
-          "level_image": 3,
-          "answer_text": "PRINTER",
-          "question": "Ink on paper, words take flight"
+          "level_image": 5,
+          "answer_text": "SPRINKLER",
+          "question": "Device that sprays water over a garden area"
         },
         {
-          "level_image": 3,
-          "answer_text": "MEASURE",
-          "question": "Quantifying life, in units precise, gauging distance"
+          "level_image": 5,
+          "answer_text": "HORSESHOE",
+          "question": "U-shaped metal object used to protect horse's hooves"
         },
         {
-          "level_image": 3,
-          "answer_text": "BANGLES",
-          "question": "Adornments that jingle, on wrists they sway"
+          "level_image": 5,
+          "answer_text": "KILOMETER",
+          "question": "Unit of measurement equal to 1,000 meters"
         },
         {
-          "level_image": 4,
-          "answer_text": "ABROADS",
-          "question": "Faraway lands, beyond your shores"
+          "level_image": 5,
+          "answer_text": "RECTANGLE",
+          "question": "Four-sided shape with opposite sides of equal length"
         },
         {
-          "level_image": 4,
-          "answer_text": "CRACKLE",
-          "question": "Fire's whisper, in the hearth's glow, a symphony of warmth"
+          "level_image": 6,
+          "answer_text": "DODGEBALL",
+          "question": "Team sport where players throw balls to eliminate opponents"
         },
         {
-          "level_image": 4,
-          "answer_text": "LIBERTY",
-          "question": "Inscribed on stone, a torch held high"
+          "level_image": 6,
+          "answer_text": "SPEAKEASY",
+          "question": "Secret bar from Prohibition era, often hidden"
         },
         {
-          "level_image": 4,
-          "answer_text": "ORGANIC",
-          "question": "Nature's bounty, grown with care, pesticide-free"
+          "level_image": 6,
+          "answer_text": "REGULARLY",
+          "question": "Occurring at fixed times or intervals each week"
         },
         {
-          "level_image": 4,
-          "answer_text": "WARNING",
-          "question": "Caution's voice, in signals bold"
+          "level_image": 6,
+          "answer_text": "DIFFICULT",
+          "question": "Not easy; requiring effort or hard work"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "HANDSHAKE",
+          "question": "Greeting involving clasping hands and shaking them"
         },
         {
           "level_image": 0,
-          "answer_text": "INDIAN OCEAN",
+          "answer_text": "IPANEMA BEACH",
           "question": null
         }
       ]

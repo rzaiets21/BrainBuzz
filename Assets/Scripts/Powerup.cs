@@ -91,12 +91,14 @@ public class Powerup : MonoBehaviour
         {
             if(IsInteract != null && !IsInteract.Invoke())
                 return;
-            
+
+#if !UNITY_EDITOR
             if (!PlayerInventory.Instance.HasPowerup(powerupType) && !PlayerInventory.Instance.HasEnoughCoins(price))
             {
                 screensController.ShowScreen(Screens.Store);
                 return;
             }
+#endif
         }
         
         _selected = !_selected;
