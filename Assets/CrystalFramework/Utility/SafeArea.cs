@@ -218,7 +218,7 @@ namespace Crystal
                 // See https://forum.unity.com/threads/569236/page-2#post-6199352
                 if (anchorMin.x >= 0 && anchorMin.y >= 0 && anchorMax.x >= 0 && anchorMax.y >= 0)
                 {
-                    Panel.anchorMin = anchorMin;
+                    //Panel.anchorMin = anchorMin;
                     Panel.anchorMax = anchorMax;
                 }
             }

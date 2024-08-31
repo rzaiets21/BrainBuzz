@@ -9,6 +9,8 @@ using Button = UnityEngine.UI.Button;
 public class StoreScreen : Screen
 {
     [SerializeField] private ScrollRect scrollRect;
+
+    [SerializeField] private GameObject restoreButton;
     
     [SerializeField] private Ease ease;
     [SerializeField] private float showDelay;
@@ -72,6 +74,11 @@ public class StoreScreen : Screen
         }
         
         removeAdsProductHolder.transform.SetAsLastSibling();
+
+#if UNITY_IOS
+        restoreButton.SetActive(true);
+        restoreButton.transform.SetAsLastSibling();
+#endif
     }
 
     protected override void OnShown()
@@ -122,6 +129,12 @@ public class StoreScreen : Screen
         scrollRect.normalizedPosition = Vector2.one;
     }
 
+    public void OnClickRestoreButton()
+    {
+        Debug.Log("Clicked Restore button");
+        IAPManager.Instance.RestorePurchases(OnPurchaseComplete);
+    }
+    
     private void OnBuyButtonClick(ShopProductNames productName)
     {
         Debug.LogError("Buy");

@@ -13,6 +13,9 @@ public class SettingsPopup : Popup
     [SerializeField] private Toggle soundsToggle;
     [SerializeField] private Toggle musicToggle;
     [SerializeField] private Toggle hapticsToggle;
+    
+    [SerializeField] private Button privacyButton;
+    [SerializeField] private Button termsButton;
 
     private bool _playSound;
     
@@ -33,6 +36,9 @@ public class SettingsPopup : Popup
         soundsToggle.onValueChanged.AddListener(SetMuteSounds);
         musicToggle.onValueChanged.AddListener(SetMuteMusic);
         hapticsToggle.onValueChanged.AddListener(EnableHaptics);
+        
+        privacyButton.onClick.AddListener(OnClickPrivacyButton);
+        termsButton.onClick.AddListener(OnClickTermsButton);
     }
     
     private void OnDisable()
@@ -43,8 +49,21 @@ public class SettingsPopup : Popup
         soundsToggle.onValueChanged.RemoveListener(SetMuteSounds);
         musicToggle.onValueChanged.RemoveListener(SetMuteMusic);
         hapticsToggle.onValueChanged.RemoveListener(EnableHaptics);
+        
+        privacyButton.onClick.RemoveListener(OnClickPrivacyButton);
+        termsButton.onClick.RemoveListener(OnClickTermsButton);
     }
 
+    private void OnClickPrivacyButton()
+    {
+        Application.OpenURL("https://brainbuzz.apppage.net/privacy-policy");
+    }
+
+    private void OnClickTermsButton()
+    {
+        Application.OpenURL("https://brainbuzz.apppage.net/terms");
+    }
+    
     private void SetMuteSounds(bool state)
     {
         audioController.SetMute(SoundType.Sounds, !state);

@@ -82,7 +82,7 @@ public class TopPanel : MonoBehaviour
         label.gameObject.SetActive(showBackButton);
         if (showBackButton)
         {
-            label.SetText(screenType is Screens.Game ? $"Level {gameManager.CurrentLevel}" : "Store");
+            label.SetText(screenType is Screens.Game ? $"Group {gameManager.CurrentLevel}" : "Store");
         }
         
         canvasGroup.SetActive(screenType != Screens.Loading);

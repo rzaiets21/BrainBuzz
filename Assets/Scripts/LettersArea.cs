@@ -1172,7 +1172,7 @@ public class LettersArea : MonoBehaviour
 
     private void RevealLetter(LetterHolderBase holder)
     {
-        var lines = _lines.Where(x => x.LineIndex != _selectedLine.LineIndex && x.Letters.Count(l => !l.CheckIsComplete() && !l.Revealing) > 2).ToArray();
+        var lines = _lines.Where(x => x.LineIndex != _selectedLine.LineIndex && x.Letters.Count(l => !l.CheckIsComplete() && !l.Revealing) > 3).ToArray();
         if(!lines.Any())
             return;
 
@@ -1184,6 +1184,11 @@ public class LettersArea : MonoBehaviour
 
         var randomLine = targetLines.GetRandomElement();
         var randomLetterHolder = randomLine.Letters.GetRandomElement(l => l.TargetLetter == letter && !l.CheckIsComplete() && !l.Revealing);
+
+        var chance = Random.value;
+        if(chance > 0.75f)
+            return;
+        
         revealLettersController.RevealLetter(holder, letter, randomLetterHolder, () =>
         {
 #if UNITY_ANDROID

@@ -37,9 +37,9 @@ public class AdsManager : MonoBehaviour
         }
 
 #if UNITY_ANDROID
-        rewardId = "ca-app-pub-1268870789270764/6371096217";
-        interstitialId = "ca-app-pub-1268870789270764/2759154267";
-        bannerId = "ca-app-pub-1268870789270764/2713152308";
+        _rewardId = "ca-app-pub-1268870789270764/6371096217";
+        _interstitialId = "ca-app-pub-1268870789270764/2759154267";
+        _bannerId = "ca-app-pub-1268870789270764/2713152308";
 #elif UNITY_IOS
         _rewardId = "ca-app-pub-1268870789270764/1723977024";
         _interstitialId = "ca-app-pub-1268870789270764/2957167648";

@@ -32,7 +32,7 @@ public class GameManager : MonoBehaviour
 
     private GroupData _groupData;
     private LevelData _levelData;
-    
+
     private bool _isInit;
     private int _currentGroup;
 
