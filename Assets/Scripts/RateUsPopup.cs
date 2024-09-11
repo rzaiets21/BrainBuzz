@@ -4,7 +4,9 @@ using System.Collections;
 using Google.Play.Review;
 #endif
 using UnityEngine;
+#if UNITY_IOS
 using UnityEngine.iOS;
+#endif
 using UnityEngine.UI;
 
 public class RateUsPopup : Popup
