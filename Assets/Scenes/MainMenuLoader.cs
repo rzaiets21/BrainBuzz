@@ -2,9 +2,9 @@ using System;
 using System.Collections;
 #if UNITY_IOS
 using Unity.Advertisement.IosSupport;
+using UnityEngine.iOS;
 #endif
 using UnityEngine;
-using UnityEngine.iOS;
 using UnityEngine.SceneManagement;
 
 namespace Scenes
@@ -20,8 +20,8 @@ namespace Scenes
 
         private IEnumerator LoadScene()
         {
-#if UNITY_IOS
-            var version = new System.Version(Device.systemVersion);
+#if UNITY_IOS && !UNITY_EDITOR
+            var version = new Version(Device.systemVersion);
             if(version >= new Version("14.5"))
             {
                 var status = ATTrackingStatusBinding.GetAuthorizationTrackingStatus();

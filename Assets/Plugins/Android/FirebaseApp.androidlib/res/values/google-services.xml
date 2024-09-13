@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
   <string name="firebase_database_url" translatable="false">https://brainbuzz-661f3-default-rtdb.firebaseio.com</string>
   <string name="gcm_defaultSenderId" translatable="false">343317039254</string>
   <string name="google_storage_bucket" translatable="false">brainbuzz-661f3.appspot.com</string>
@@ -7,4 +7,6 @@
   <string name="google_api_key" translatable="false">AIzaSyALTH_KY03JW3ATr2lSb8eE-XnoayVuocI</string>
   <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALTH_KY03JW3ATr2lSb8eE-XnoayVuocI</string>
   <string name="google_app_id" translatable="false">1:343317039254:android:92399bc12c6883ecbadab7</string>
+  <string name="default_android_client_id" translatable="false">343317039254-csimhsddd37jtmdllu0ub3iiqvbip30a.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">343317039254-0p196mp9i6mj3vv7k04v0ir5mh932e37.apps.googleusercontent.com</string>
 </resources>
