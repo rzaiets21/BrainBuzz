@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_EDITOR
 using CandyCoded.HapticFeedback.Android;
 #elif UNITY_IOS && !UNITY_EDITOR
 using CandyCoded.HapticFeedback.iOS;
@@ -340,7 +340,7 @@ public class LettersArea : MonoBehaviour
                 {
                     return false;
                 }
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_EDITOR
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
 #elif UNITY_IOS && !UNITY_EDITOR
@@ -376,7 +376,7 @@ public class LettersArea : MonoBehaviour
                     var letter = randomLetter.TargetLetter;
                     revealLettersController.RevealLetter(randomLetter, letter, randomLetter, () =>
                     {
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_EDITOR
                         if(Settings.HapticsIsOn)
                             HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
 #elif UNITY_IOS && !UNITY_EDITOR
@@ -405,7 +405,7 @@ public class LettersArea : MonoBehaviour
                 }
                 keyboard.AddFilter(target.LineIndex, chars);
 
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_EDITOR
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_RELEASE);
 #elif UNITY_IOS && !UNITY_EDITOR
@@ -417,7 +417,7 @@ public class LettersArea : MonoBehaviour
                 SelectLetterHolder();
                 return true;
             case PowerupType.Line:
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_EDITOR
                 if(Settings.HapticsIsOn)
                     HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_RELEASE);
 #elif UNITY_IOS && !UNITY_EDITOR
@@ -984,7 +984,7 @@ public class LettersArea : MonoBehaviour
         
         var startedHolder = isSelectedLine ? _selectedLetterHolder : letterHolder == null ? line.Letters[0] : letterHolder;
 
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_EDITOR
         if(!answerIsCorrect)
             if(Settings.HapticsIsOn)
                 HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.EDGE_RELEASE);
@@ -1191,7 +1191,7 @@ public class LettersArea : MonoBehaviour
         
         revealLettersController.RevealLetter(holder, letter, randomLetterHolder, () =>
         {
-#if UNITY_ANDROID
+#if UNITY_ANDROID && !UNITY_EDITOR
             if(Settings.HapticsIsOn)
                 HapticFeedback.PerformHapticFeedback(HapticFeedbackConstants.KEYBOARD_PRESS);
 #elif UNITY_IOS && !UNITY_EDITOR
