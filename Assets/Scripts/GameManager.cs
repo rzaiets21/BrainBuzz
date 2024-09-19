@@ -100,7 +100,7 @@ public class GameManager : MonoBehaviour
 
     private void AdjustKeyboardPosition()
     {
-        keyboard.SetPosition(AdsManager.BannerIsShown ? new Vector2(0, AdsManager.BannerHeight + 10f) : Vector2.zero);
+        keyboard.SetPosition(AdsManager.Instance.BannerIsShown ? new Vector2(0, AdsManager.BannerHeight + 10f) : Vector2.zero);
     }
     
     public void StartGame(bool showAds = true)
@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour
             if (startedTimes > 5 + 1 && showAds)
             {
                 startedTimes -= 5;
-                AdsManager.ShowInterstitialAd();
+                AdsManager.Instance.ShowInterstitialAd();
             }
 
             PlayerPrefs.SetInt(StartedTimes, startedTimes);
@@ -202,7 +202,7 @@ public class GameManager : MonoBehaviour
         
         screensController.ShowScreen(Screens.Complete, ScreenTransition.RightToLeft);
         
-        AdsManager.ShowInterstitialAd();
+        AdsManager.Instance.ShowInterstitialAd();
     }
 
     private void ClearLevel()

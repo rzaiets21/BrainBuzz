@@ -25,10 +25,13 @@ public class ProductHolder : MonoBehaviour
     [SerializeField] private PowerupHolder[] powerupHolders;
 
     private ShopProductNames _productName;
+    private ProductInfo _productInfo;
 
     public event Action<ShopProductNames> onBuyButtonClick;
 
     public RectTransform Container => container;
+
+    public ProductInfo ProductInfo => _productInfo;
 
     private void OnEnable()
     {
@@ -48,6 +51,7 @@ public class ProductHolder : MonoBehaviour
             return;
         }
 
+        _productInfo = productInfo;
         _productName = productInfo.name;
         
         if (icon != null)
@@ -82,6 +86,11 @@ public class ProductHolder : MonoBehaviour
                 powerupHolder.countText.text = powerupInfo.count.ToString();
             }
         }
+    }
+
+    public void Destroy()
+    {
+        Destroy(this.gameObject);
     }
 
     private void OnBuyButtonClick()

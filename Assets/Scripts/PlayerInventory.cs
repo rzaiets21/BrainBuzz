@@ -82,8 +82,8 @@ public class PlayerInventory
     
     public void Add(PowerupType powerupType, int value, bool notify = true)
     {
-        Debug.LogError(powerupType);
-        Debug.LogError(_powerups.Length);
+        Debug.Log(powerupType);
+        Debug.Log(_powerups.Length);
         var powerupInfo = _powerups.First(x => x.PowerupType == powerupType);
         powerupInfo.count += value;
         

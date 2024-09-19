@@ -23,8 +23,10 @@ public class AdsManager : MonoBehaviour
     private bool _bannerIsShown;
     
     public static bool RewardAdsIsReady => _instance._rewardedAd != null && _instance._rewardedAd.CanShowAd();
-    public static bool BannerIsShown => _instance._bannerIsShown;
+    public bool BannerIsShown => _instance._bannerIsShown;
     public static float BannerHeight => _instance._bannerView.GetHeightInPixels();
+
+    public static AdsManager Instance => _instance;
 
     public static event Action OnBannerShown;
     
@@ -53,6 +55,11 @@ public class AdsManager : MonoBehaviour
     {
         _rewardedCount = PlayerPrefs.GetInt("RewardedCount", 0);
         Init();
+    }
+
+    public bool IsAdsFree()
+    {
+        return PlayerPrefs.GetInt("AdsFree", 0) == 1;
     }
 
     private void Init()
@@ -158,13 +165,18 @@ public class AdsManager : MonoBehaviour
             DestroyBannerView();
         }
 
+        if (IsAdsFree())
+        {
+            return;
+        }
+
         _bannerView = new BannerView(_bannerId, AdSize.Banner, AdPosition.Bottom);
         
         _bannerView.OnBannerAdLoaded += OnBannerAdLoaded;
         _bannerView.OnBannerAdLoadFailed += OnBannerAdLoadFailed;
     }
     
-    private void DestroyBannerView()
+    public void DestroyBannerView()
     {
         if (_bannerView == null) return;
         
@@ -213,8 +225,13 @@ public class AdsManager : MonoBehaviour
         };
     }
     
-    public static void ShowBanner()
+    public void ShowBanner()
     {
+        if (IsAdsFree())
+        {
+            return;
+        }
+        
         if(_instance._bannerView == null)
         {
             Debug.LogError("IS NULL");
@@ -251,8 +268,13 @@ public class AdsManager : MonoBehaviour
         }
     }
     
-    public static void ShowInterstitialAd()
+    public void ShowInterstitialAd()
     {
+        if (IsAdsFree())
+        {
+            return;
+        }
+        
         if (_instance._interstitialAd != null && _instance._interstitialAd.CanShowAd())
         {
             _instance._interstitialAd.Show();

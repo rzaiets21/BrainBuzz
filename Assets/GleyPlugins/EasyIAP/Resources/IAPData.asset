@@ -19,7 +19,7 @@ MonoBehaviour:
   useGameFlow: 0
   useForGooglePlay: 1
   useForAmazon: 0
-  useForIos: 0
+  useForIos: 1
   useForMac: 0
   useForWindows: 0
   shopProducts:
@@ -27,7 +27,7 @@ MonoBehaviour:
     productType: 1
     idGooglePlay: com.brainbuzz.words.removeads
     idAmazon: 
-    idIOS: 
+    idIOS: com.brainbuzz.words.removeads
     idMac: 
     idWindows: 
     value: 0
@@ -39,7 +39,7 @@ MonoBehaviour:
     productType: 0
     idGooglePlay: com.brainbuzz.words.pack1
     idAmazon: 
-    idIOS: 
+    idIOS: com.brainbuzz.words.pack1
     idMac: 
     idWindows: 
     value: 0
@@ -51,7 +51,7 @@ MonoBehaviour:
     productType: 0
     idGooglePlay: com.brainbuzz.words.pack2
     idAmazon: 
-    idIOS: 
+    idIOS: com.brainbuzz.words.pack2
     idMac: 
     idWindows: 
     value: 0
@@ -63,7 +63,7 @@ MonoBehaviour:
     productType: 0
     idGooglePlay: com.brainbuzz.words.pack3
     idAmazon: 
-    idIOS: 
+    idIOS: com.brainbuzz.words.pack3
     idMac: 
     idWindows: 
     value: 0
@@ -75,7 +75,7 @@ MonoBehaviour:
     productType: 0
     idGooglePlay: com.brainbuzz.words.pack4
     idAmazon: 
-    idIOS: 
+    idIOS: com.brainbuzz.words.pack4
     idMac: 
     idWindows: 
     value: 0
@@ -87,7 +87,7 @@ MonoBehaviour:
     productType: 0
     idGooglePlay: com.brainbuzz.words.pack5
     idAmazon: 
-    idIOS: 
+    idIOS: com.brainbuzz.words.pack5
     idMac: 
     idWindows: 
     value: 0
@@ -99,7 +99,7 @@ MonoBehaviour:
     productType: 0
     idGooglePlay: com.brainbuzz.words.pack6
     idAmazon: 
-    idIOS: 
+    idIOS: com.brainbuzz.words.pack6
     idMac: 
     idWindows: 
     value: 0

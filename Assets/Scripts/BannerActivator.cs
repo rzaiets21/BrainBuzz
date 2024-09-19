@@ -21,12 +21,12 @@ public class BannerActivator : MonoBehaviour
 
     private void ShowBanner()
     {
-        if(AdsManager.BannerIsShown)
+        if(AdsManager.Instance.BannerIsShown)
             return;
      
         var completedLevels = PlayerPrefs.GetInt(CompletedLevels, 0);
         if(completedLevels > 0) 
-            AdsManager.ShowBanner();
+            AdsManager.Instance.ShowBanner();
     }
     
     private void OnScreenShown(Screens screen)

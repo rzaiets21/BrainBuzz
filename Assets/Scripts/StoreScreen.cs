@@ -28,9 +28,8 @@ public class StoreScreen : Screen
     
     private void Awake()
     {
-        InitProducts();
-        
         IAPManager.Instance.InitializeIAPManager((arg0, s, list) => { });
+        InitProducts();
     }
 
     private void OnDestroy()
@@ -60,21 +59,26 @@ public class StoreScreen : Screen
         var productList = shopDefinition.products;
         foreach (var productInfo in productList)
         {
-            var productHolder =
-                productInfo.adsFree ? removeAdsProductHolder : Instantiate(productHolderPrefab, container);
+            if (productInfo.adsFree && AdsManager.Instance.IsAdsFree())
+            {
+                continue;
+            }
             
+            ProductHolder productHolder = productInfo.adsFree ? removeAdsProductHolder : Instantiate(productHolderPrefab, container);
             productHolder.Init(productInfo);
             productHolder.gameObject.SetActive(true);
             productHolder.onBuyButtonClick += OnBuyButtonClick;
             
-            _productHolders.Add(productHolder);
-            
-            if(_productHolders.Count == countToShow)
+            if (_productHolders.Count == countToShow)
+            {
                 moreButton.transform.parent.SetAsLastSibling();
+            }
+
+            _productHolders.Add(productHolder);
         }
         
         removeAdsProductHolder.transform.SetAsLastSibling();
-
+        
 #if UNITY_IOS
         restoreButton.SetActive(true);
         restoreButton.transform.SetAsLastSibling();
@@ -137,7 +141,7 @@ public class StoreScreen : Screen
     
     private void OnBuyButtonClick(ShopProductNames productName)
     {
-        Debug.LogError("Buy");
+        Debug.Log("Buy");
         IAPManager.Instance.BuyProduct(productName, OnPurchaseComplete);
     }
 
@@ -153,14 +157,26 @@ public class StoreScreen : Screen
 
     private void ConsumeProduct(ProductInfo productInfo)
     {
-        Debug.LogError("Consume product");
-        
         var coinsValue = productInfo.coins;
         PlayerInventory.Instance.Add(coinsValue);
 
         foreach (var productInfoPowerup in productInfo.powerups)
         {
             PlayerInventory.Instance.Add(productInfoPowerup.PowerupType, productInfoPowerup.count);
+        }
+
+        if (productInfo.adsFree)
+        {
+            PlayerPrefs.SetInt("AdsFree", 1);
+            PlayerPrefs.Save();
+            AdsManager.Instance.DestroyBannerView();
+            var adsfree = _productHolders.FirstOrDefault(c => c.ProductInfo.adsFree);
+            if (adsfree != null)
+            {
+                adsfree.onBuyButtonClick -= OnBuyButtonClick;
+                _productHolders.Remove(adsfree);
+                adsfree.Destroy();
+            }
         }
     }
 }
