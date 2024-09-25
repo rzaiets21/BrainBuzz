@@ -10,7 +10,7 @@ public class BeatingItem : MonoBehaviour
     [SerializeField] private float startDelay;
     [SerializeField] private float beatingDuration;
     [SerializeField] private RectTransform rectTransform;
-
+    [SerializeField] private bool _isAnimated = true;
     [SerializeField] private ShinyEffectForUGUI _shinyEffectForUGUI;
     
     private Tween _beatingTween;
@@ -35,15 +35,18 @@ public class BeatingItem : MonoBehaviour
                 _shinyTween = DOVirtual.Float(0, 1, beatingDuration * 8, x => _shinyEffectForUGUI.location = x)
                     .OnComplete(() => _shinyEffectForUGUI.location = 0).SetLink(gameObject, LinkBehaviour.CompleteAndKillOnDisable);
             }
-            
-            if(rectTransform != null)
+
+            if (_isAnimated)
             {
-                rectTransform.DOScale(1.2f, beatingDuration).SetLoops(2, LoopType.Yoyo).SetEase(Ease.InOutQuad)
-                    .OnComplete(() =>
-                    {
-                        rectTransform.DOScale(1.1f, beatingDuration).SetLoops(2, LoopType.Yoyo)
-                            .SetEase(Ease.InOutQuad);
-                    });
+                if (rectTransform != null)
+                {
+                    rectTransform.DOScale(1.2f, beatingDuration).SetLoops(2, LoopType.Yoyo).SetEase(Ease.InOutQuad)
+                        .OnComplete(() =>
+                        {
+                            rectTransform.DOScale(1.1f, beatingDuration).SetLoops(2, LoopType.Yoyo)
+                                .SetEase(Ease.InOutQuad);
+                        });
+                }
             }
         }).OnComplete(BeatingTween).SetLink(gameObject, LinkBehaviour.CompleteAndKillOnDisable);
     }

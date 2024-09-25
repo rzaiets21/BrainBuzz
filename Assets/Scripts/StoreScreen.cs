@@ -59,7 +59,8 @@ public class StoreScreen : Screen
         var productList = shopDefinition.products;
         foreach (var productInfo in productList)
         {
-            if (productInfo.adsFree && AdsManager.Instance.IsAdsFree())
+            //if (productInfo.adsFree && AdsManager.Instance.IsAdsFree()) // TODO temp disabled
+            if (productInfo.adsFree)
             {
                 continue;
             }
@@ -169,7 +170,7 @@ public class StoreScreen : Screen
         {
             PlayerPrefs.SetInt("AdsFree", 1);
             PlayerPrefs.Save();
-            AdsManager.Instance.DestroyBannerView();
+            //AdsManager.Instance.DestroyBannerView();
             var adsfree = _productHolders.FirstOrDefault(c => c.ProductInfo.adsFree);
             if (adsfree != null)
             {

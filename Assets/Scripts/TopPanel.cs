@@ -143,7 +143,10 @@ public class TopPanel : MonoBehaviour
 
     private IEnumerator ShowWatchAdsButton()
     {
-        yield return new WaitForSeconds(2f);
+        yield break;
+        
+        /*
+        yield return new WaitUntil(() => AdsManager.RewardAdsIsReady);
         
         var adsIsReady = AdsManager.RewardAdsIsReady;
         watchAdsButton.gameObject.SetActive(adsIsReady);
@@ -156,12 +159,12 @@ public class TopPanel : MonoBehaviour
             watchAdsButton.gameObject.SetActive(adsIsReady);
             
             yield return null;
-        }
+        }*/
     }
     
     private void ShowReward()
     {
-        AdsManager.ShowRewardedAd(OnRewarded);
+        //AdsManager.Instance.ShowRewardedAd(OnRewarded);
     }
 
     private void OnRewarded()

@@ -1,12 +1,13 @@
 using System;
 using System.Linq;
+using System.Text.RegularExpressions;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class ProductHolder : MonoBehaviour
 {
-    private const string PriceFormat = "<size=43.94>USD</size> {0}";
+    private const string PriceFormat = "<size=43.94>{0}</size> {1}";
     
     [Serializable]
     private class PowerupHolder
@@ -74,7 +75,14 @@ public class ProductHolder : MonoBehaviour
         if (coinsText != null)
             coinsText.text = productInfo.coins.ToString();
         if (priceText != null)
-            priceText.text = string.Format(PriceFormat, productInfo.price);
+        {
+#if UNITY_EDITOR
+            priceText.text = string.Format(PriceFormat, "USD", productInfo.price);
+#else
+            priceText.text = string.Format(PriceFormat, IAPManager.Instance.GetIsoCurrencyCode(productInfo.name), GetNumericPrice(IAPManager.Instance.GetLocalizedPriceString(productInfo.name)));       
+#endif
+        }
+
         if (bestPriceLabel != null)
             bestPriceLabel.SetActive(productInfo.bestPrice);
         if (powerupHolders.Length > 0 && productInfo.powerups.Length > 0)
@@ -86,6 +94,24 @@ public class ProductHolder : MonoBehaviour
                 powerupHolder.countText.text = powerupInfo.count.ToString();
             }
         }
+    }
+    
+    public static string GetNumericPrice(string price)
+    {
+        if (string.IsNullOrEmpty(price))
+        {
+            Debug.LogError("Price string is null or empty.");
+            return String.Empty;
+        }
+
+        string numericPrice = Regex.Replace(price, @"[^\d.,]", "");
+        if (string.IsNullOrEmpty(numericPrice))
+        {
+            Debug.LogError($"Failed to extract numeric value from {price}");
+            return price;
+        }
+
+        return numericPrice;
     }
 
     public void Destroy()

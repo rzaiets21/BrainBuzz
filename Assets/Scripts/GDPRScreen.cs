@@ -6,7 +6,7 @@ public class GDPRScreen : Screen
     private const string GDPRShownKey = "GDPRIsShown";
 
     [SerializeField] private ScreensController screensController;
-    [SerializeField] private GDPRManager gdprManager;
+    //[SerializeField] private GDPRManager gdprManager;
     [SerializeField] private Button acceptButton;
     [SerializeField] private Button privacyButton;
     [SerializeField] private Button termsButton;
@@ -32,8 +32,9 @@ public class GDPRScreen : Screen
         color.a = 0.75f;
         acceptButton.targetGraphic.color = color;
         acceptButton.GetComponent<BeatingItem>().enabled = false;
-        
-        gdprManager.StartShowGDPR(OnFormShown);
+        PlayerPrefs.SetInt(GDPRShownKey, 1);
+        screensController.ShowStartedScreen();
+        //gdprManager.StartShowGDPR(OnFormShown);
     }
 
     private void OnClickPrivacyButton()
@@ -48,7 +49,6 @@ public class GDPRScreen : Screen
 
     private void OnFormShown()
     {
-        PlayerPrefs.SetInt(GDPRShownKey, 1);
         screensController.ShowStartedScreen();
     }
 }

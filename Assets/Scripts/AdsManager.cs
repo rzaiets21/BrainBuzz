@@ -1,3 +1,4 @@
+/*
 using System;
 using System.Collections;
 using GoogleMobileAds.Api;
@@ -64,27 +65,34 @@ public class AdsManager : MonoBehaviour
 
     private void Init()
     {
-        MobileAds.Initialize(status =>
+        StartCoroutine(InitAds());
+    }
+
+    private IEnumerator InitAds()
+    {
+        bool isInitialized = false;
+        MobileAds.Initialize(status => 
         {
-            var requestConfiguration = MobileAds.GetRequestConfiguration();
-            
-            if(requestConfiguration != null)
-            {
-                var deviceId = SystemInfo.deviceUniqueIdentifier;
-
-#if UNITY_ANDROID
-                requestConfiguration.TestDeviceIds.Add(deviceId.ToUpper());
-#elif UNITY_IOS
-                requestConfiguration.TestDeviceIds.Add(deviceId);
-#endif
-
-                MobileAds.SetRequestConfiguration(requestConfiguration);
-            }
-            
-            LoadRewardedAd();
-            LoadInterstitialAd();
-            CreateBannerView();
+            isInitialized = true;
         });
+
+        yield return new WaitUntil(() => isInitialized);
+        var requestConfiguration = MobileAds.GetRequestConfiguration();
+            
+        if(requestConfiguration != null)
+        {
+            var deviceId = SystemInfo.deviceUniqueIdentifier;
+#if UNITY_ANDROID
+            requestConfiguration.TestDeviceIds.Add(deviceId.ToUpper());
+#elif UNITY_IOS
+            requestConfiguration.TestDeviceIds.Add(deviceId);
+#endif
+            MobileAds.SetRequestConfiguration(requestConfiguration);
+        }
+            
+        LoadRewardedAd();
+        LoadInterstitialAd();
+        CreateBannerView();
     }
 
     private void OnDestroy()
@@ -101,6 +109,7 @@ public class AdsManager : MonoBehaviour
 
     private void LoadRewardedAd()
     {
+       
         if (_rewardedAd != null)
         {
             _rewardedAd.Destroy();
@@ -157,8 +166,7 @@ public class AdsManager : MonoBehaviour
     }
 
     public void CreateBannerView()
-    {
-        Debug.Log("Creating banner view");
+    { Debug.Log("Creating banner view");
 
         if (_bannerView != null)
         {
@@ -255,7 +263,7 @@ public class AdsManager : MonoBehaviour
         _bannerIsShown = false;
     }
     
-    public static void ShowRewardedAd(Action onRewardComplete)
+    public void ShowRewardedAd(Action onRewardComplete)
     {
         if (_instance._rewardedAd != null && _instance._rewardedAd.CanShowAd())
         {
@@ -289,3 +297,4 @@ public class AdsManager : MonoBehaviour
         _rewardedDelayCoroutine = null;
     }
 }
+*/

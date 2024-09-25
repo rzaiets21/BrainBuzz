@@ -1,6 +1,5 @@
 <dependencies>
   <packages>
-    <package>androidx.constraintlayout:constraintlayout:2.1.4</package>
     <package>com.android.support:appcompat-v7:25.3.1</package>
     <package>com.android.support:cardview-v7:25.3.1</package>
     <package>com.android.support:customtabs:25.3.1</package>
@@ -10,13 +9,11 @@
     <package>com.facebook.android:facebook-gamingservices:[17.0.0,18)</package>
     <package>com.facebook.android:facebook-login:[17.0.0,18)</package>
     <package>com.facebook.android:facebook-share:[17.0.0,18)</package>
-    <package>com.google.android.gms:play-services-ads:23.2.0</package>
     <package>com.google.android.gms:play-services-appset:16.0.2</package>
     <package>com.google.android.gms:play-services-base:18.5.0</package>
     <package>com.google.android.instantapps:instantapps:1.1.0</package>
     <package>com.google.android.play:core-common:2.0.0</package>
     <package>com.google.android.play:review:2.0.0</package>
-    <package>com.google.android.ump:user-messaging-platform:2.2.0</package>
     <package>com.google.firebase:firebase-analytics:22.0.2</package>
     <package>com.google.firebase:firebase-analytics-unity:12.2.1</package>
     <package>com.google.firebase:firebase-app-unity:12.2.1</package>

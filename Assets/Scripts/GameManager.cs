@@ -98,16 +98,16 @@ public class GameManager : MonoBehaviour
         LoadLevel(currentGroup);
     }
 
-    private void AdjustKeyboardPosition()
+    /*private void AdjustKeyboardPosition()
     {
         keyboard.SetPosition(AdsManager.Instance.BannerIsShown ? new Vector2(0, AdsManager.BannerHeight + 10f) : Vector2.zero);
-    }
+    }*/
     
     public void StartGame(bool showAds = true)
     {
         lettersArea.ShowGame();
 
-        AdjustKeyboardPosition();
+        //AdjustKeyboardPosition();
 
         if(PlayerPrefs.GetInt(CompletedGroups, 0) > 1)
         {
@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour
             if (startedTimes > 5 + 1 && showAds)
             {
                 startedTimes -= 5;
-                AdsManager.Instance.ShowInterstitialAd();
+                //AdsManager.Instance.ShowInterstitialAd();
             }
 
             PlayerPrefs.SetInt(StartedTimes, startedTimes);
@@ -156,7 +156,7 @@ public class GameManager : MonoBehaviour
         keyboard.OnKeyboardButtonUp += OnKeyboardButtonUp;
         keyboard.OnKeyboardButtonDown += OnKeyboardButtonDown;
 
-        AdsManager.OnBannerShown += AdjustKeyboardPosition;
+        //AdsManager.OnBannerShown += AdjustKeyboardPosition;
     }
 
     private void OnDisable()
@@ -169,7 +169,7 @@ public class GameManager : MonoBehaviour
         keyboard.OnKeyboardButtonUp -= OnKeyboardButtonUp;
         keyboard.OnKeyboardButtonDown -= OnKeyboardButtonDown;
         
-        AdsManager.OnBannerShown -= AdjustKeyboardPosition;
+        //AdsManager.OnBannerShown -= AdjustKeyboardPosition;
     }
 
     private void OnLevelCompleted(bool stage)
@@ -202,7 +202,7 @@ public class GameManager : MonoBehaviour
         
         screensController.ShowScreen(Screens.Complete, ScreenTransition.RightToLeft);
         
-        AdsManager.Instance.ShowInterstitialAd();
+        //AdsManager.Instance.ShowInterstitialAd();
     }
 
     private void ClearLevel()
