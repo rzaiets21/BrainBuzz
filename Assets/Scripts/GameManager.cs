@@ -176,8 +176,6 @@ public class GameManager : MonoBehaviour
     {
         if(stage)
         {
-            Analytics.LogEvent(Analytics.LevelCompleted, currentGroup);
-            
             if(_groupData.IsCompleted())
             {
                 currentGroup++;
@@ -192,6 +190,7 @@ public class GameManager : MonoBehaviour
 
             _currentGameStreak = PlayerPrefs.GetInt(GameStreakKey, 0);
             var completedLevels = PlayerPrefs.GetInt(CompletedLevels, 0);
+            Analytics.LevelCompleted(true, completedLevels);
             completedLevels++;
             _currentGameStreak++;
             PlayerPrefs.SetInt(GameStreakKey, _currentGameStreak);

@@ -59,7 +59,6 @@ public class AudioController : MonoBehaviour
 
     public void SetMute(SoundType soundType, bool state)
     {
-        Debug.LogError($"{soundType} - {state}");
         audioMixer.SetFloat($"{soundType.ToString()}Volume", state ? -80 : 0);
     }
 }

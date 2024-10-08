@@ -656,6 +656,7 @@ public class IAPManager : MonoBehaviour, IStoreListener
                     if (OnCompleteMethod != null)
                     {
                         OnCompleteMethod(IAPOperationStatus.Success, "Purchase Successful", shopProducts[i]);
+                        Analytics.SaveLastPurchase(shopProducts[i].GetStoreID());
                     }
                 }
                 else

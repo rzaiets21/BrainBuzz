@@ -209,6 +209,8 @@ public class LettersArea : MonoBehaviour
         
         keyboard.SetInteractable(true);
         _interact = true;
+        Analytics.SetContinueLevel(hasSaves);
+        Analytics.LevelStart(_currentLevel);
     }
 
     public void ShowGame()
