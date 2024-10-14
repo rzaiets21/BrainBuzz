@@ -1,0 +1,351 @@
+{
+  "GroupId": 8,
+  "GroupName": "SOUTH AFRICA",
+  "Levels": [
+    {
+      "GroupId": 8,
+      "LevelId": 1,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "BONJOUR",
+          "question": "French word for \"hello.\""
+        },
+        {
+          "level_image": 4,
+          "answer_text": "RICOTTA",
+          "question": "Soft Italian cheese made from whey"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "SEPHORA",
+          "question": "Beauty store that sells cosmetics and skincare products"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CARAMEL",
+          "question": "Sweet, sticky substance made from heated sugar"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BLENDER",
+          "question": "Device that mixes food and drinks"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PAINTER",
+          "question": "Artist who creates artwork on surfaces"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ELDERLY",
+          "question": "Older people, often referred to as seniors"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BRISKET",
+          "question": "Cut of meat from the chest of a cow, often slow-cooked or smoked"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "EYEBROW",
+          "question": "Hair above the eye that shapes the face"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "JACUZZI",
+          "question": "Hot tub with jets for relaxation"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "FLORIST",
+          "question": "Person who sells and arranges flowers"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "COWGIRL",
+          "question": "Woman who works with cattle and rides horses"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "JOHANNESBURG",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 8,
+      "LevelId": 2,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "PITCHING",
+          "question": "Throwing the baseball to the batter"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CHAINSAW",
+          "question": "Power tool with a cutting blade for cutting wood"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "UNBUTTON",
+          "question": "To open or undo buttons on clothing"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "FOLLOWER",
+          "question": "User who subscribes to another person's updates or content"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "SLEEPING",
+          "question": "Resting with eyes closed, usually at night"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ROOMMATE",
+          "question": "Person who shares a living space with someone else"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "GATORADE",
+          "question": "Sports drink that helps replenish electrolytes and fluids"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "REQUIRED",
+          "question": "Necessary or needed for a specific purpose"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "MOONWALK",
+          "question": "Dance move where a person moves backward while appearing to walk forward"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CAPTIONS",
+          "question": "Text that explains or adds context to an image or video"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "SNEAKERS",
+          "question": "Casual shoes designed for comfort and sports"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "MINIGOLF",
+          "question": "Small version of golf played on courses with obstacles"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "TRENDING",
+          "question": "Popular or widely discussed at a specific time"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "TABLE MOUNTAIN",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 8,
+      "LevelId": 3,
+      "Questions": [
+        {
+          "level_image": 2,
+          "answer_text": "UNDERWEAR",
+          "question": "Clothing worn beneath outer clothes"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "DETERGENT",
+          "question": "Soap used for cleaning dirt and stains"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "GLADIATOR",
+          "question": "Fighter in ancient Rome who battled for entertainment"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ASSISTANT",
+          "question": "Person who helps or aids someone in their work"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BOOMERANG",
+          "question": "Curved tool that returns when thrown"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "INSPIRING",
+          "question": "Encouraging and motivating others to do better"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "DEMOCRACY",
+          "question": "System of government where people have the power to make decisions through voting"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "STAIRCASE",
+          "question": "Set of steps leading from one level to another"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "FANTASTIC",
+          "question": "Very good or excellent; amazing"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "AUDIOBOOK",
+          "question": "Recorded reading of a book, typically listened to on devices"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CHECKLIST",
+          "question": "List of items or tasks to ensure everything is completed"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "HILARIOUS",
+          "question": "Extremely funny and entertaining"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "FRAGRANCE",
+          "question": "Pleasant smell, often found in perfumes or flowers"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "NELSON MANDELA",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 8,
+      "LevelId": 4,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "DANCER",
+          "question": "Person who performs dance moves as an art form"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "REPAIR",
+          "question": "To fix or restore something that is broken or damaged"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PURPLE",
+          "question": "Color made by mixing red and blue"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "METEOR",
+          "question": "Rock or metal object that creates a bright light when entering Earth's atmosphere"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "DONATE",
+          "question": "To give money or items to help others"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "DRAGON",
+          "question": "Legendary creature often portrayed as giant, fire-breathing with wings"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "ARROWS",
+          "question": "Straight, pointed projectiles shot from a bow"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "CEMENT",
+          "question": "Substance mixed with water and used to bind materials in construction"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "CAPE TOWN",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 8,
+      "LevelId": 5,
+      "Questions": [
+        {
+          "level_image": 6,
+          "answer_text": "COWORKER",
+          "question": "Someone who works with you at the same job"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "SANDWICH",
+          "question": "Food made of two pieces of bread with filling in between"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "TOMORROW",
+          "question": "The day after today"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "LACROSSE",
+          "question": "Team sport using a stick and ball to score in goals"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "OMELETTE",
+          "question": "Dish made from cooked eggs, often with fillings"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "HOMELESS",
+          "question": "People without a permanent place to live"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "AUDIENCE",
+          "question": "Group of people who watch or listen to a performance or presentation"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "FLEXIBLE",
+          "question": "Able to bend easily or adapt to change"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "BROCCOLI",
+          "question": "Green vegetable resembling small trees, rich in nutrients"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "SYNOPSIS",
+          "question": "Brief summary of a story or content"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "PROTOCOL",
+          "question": "Set of rules or guidelines for conduct or procedures"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "SMOOTHIE",
+          "question": "Blended drink made from fruit, yogurt, and sometimes vegetables"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "KIRSTENBOSCH",
+          "question": null
+        }
+      ]
+    }
+  ]
+}

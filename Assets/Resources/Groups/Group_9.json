@@ -1,0 +1,361 @@
+{
+  "GroupId": 9,
+  "GroupName": "GERMANY",
+  "Levels": [
+    {
+      "GroupId": 9,
+      "LevelId": 1,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "GLAMOROUS",
+          "question": "Attractive and stylish in a luxurious way"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BLUEBERRY",
+          "question": "Small, round fruit that is blue or purple, known for its sweet taste"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ASTRONAUT",
+          "question": "Person trained to travel and work in space"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "STOCKINGS",
+          "question": "Tight clothes worn on the legs"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ARGENTINA",
+          "question": "Country in South America known for its rich culture and landscapes"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "HANDBRAKE",
+          "question": "Lever used to stop or secure a vehicle when parked"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ADVENTURE",
+          "question": "Exciting journey or experience, often involving exploration"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "NEWSPAPER",
+          "question": "Printed publication that reports on news and events"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "CELEBRITY",
+          "question": "Famous person, often in entertainment or sports"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "PROFESSOR",
+          "question": "Teacher or educator at a college or university level"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "VOLUNTEER",
+          "question": "Someone who helps without getting paid"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "MAGAZINES",
+          "question": "Publications with articles and photos, often released weekly or monthly"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "MERCEDES BENZ",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 9,
+      "LevelId": 2,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "HOOTERS",
+          "question": "Restaurant known for its waitresses and casual dining atmosphere"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "LIKABLE",
+          "question": "Easy to like or friendly in nature"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BATTERY",
+          "question": "Device that stores and provides electrical energy"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "STOMACH",
+          "question": "Organ in the body that digests food"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "WEBPAGE",
+          "question": "Single page on the internet that can be viewed in a browser"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "SHELTER",
+          "question": "Place that provides protection from the weather or danger"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CARTOON",
+          "question": "Animated show or drawing that is funny or entertaining"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "OFFLINE",
+          "question": "Not connected to the internet"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "UTENSIL",
+          "question": "Tool used for eating or cooking"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "MUSTARD",
+          "question": "Yellow sauce made from seeds"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "LETTUCE",
+          "question": "Green leafy vegetable often used in salads"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "OKTOBERFEST",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 9,
+      "LevelId": 3,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "ABSTRACT",
+          "question": "Art that focuses on ideas instead of real images"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "DAYDREAM",
+          "question": "Thinking about something nice while not fully paying attention"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PYRAMIDS",
+          "question": "Triangular-shaped structures built as tombs in ancient Egypt"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "LEMONADE",
+          "question": "Sweet drink made from lemon juice, water, and sugar"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "WRESTLER",
+          "question": "Athlete who competes in grappling matches for entertainment"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "UNDERDOG",
+          "question": "Person or team expected to lose but often surprises by winning"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "HOMEWORK",
+          "question": "School assignments done at home"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "ROULETTE",
+          "question": "Casino game with a spinning wheel and bets on numbers"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "CONGRESS",
+          "question": "Legislative body of the U.S. government that makes laws"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "MAILROOM",
+          "question": "Space where incoming and outgoing mail is sorted and managed"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "BACKPACK",
+          "question": "Bag carried on the back, used for carrying books and supplies"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "SCHEDULE",
+          "question": "List of activities and their planned times"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "BAYERN MUNICH",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 9,
+      "LevelId": 4,
+      "Questions": [
+        {
+          "level_image": 2,
+          "answer_text": "ABRUPT",
+          "question": "Sudden and unexpected change or action"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ARMPIT",
+          "question": "Area under the arm where it connects to the body"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "CARDIO",
+          "question": "Exercise that increases heart rate, like running or cycling"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "UTOPIA",
+          "question": "Perfect or ideal society where everyone is happy"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "TWELVE",
+          "question": "The number after eleven and before thirteen"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "HUMBLE",
+          "question": "Not proud or boastful; modest"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "CRYPTO",
+          "question": "Digital money that uses special codes for security"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ASTRAL",
+          "question": "Related to stars or outer space"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "STREET",
+          "question": "Public road in a city or town"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "BRATWURST",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 9,
+      "LevelId": 5,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "ACCORDION",
+          "question": "Musical instrument that expands and contracts while being played"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "FOOTSTEPS",
+          "question": "Sounds made by walking or the marks left by feet"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "MILESTONE",
+          "question": "Important event or stage in a process or journey"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "SNOWFLAKE",
+          "question": "Unique ice crystal that falls from the sky during winter"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "NIGHTTIME",
+          "question": "Time of day when it is dark outside"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "HANDSHAKE",
+          "question": "Greeting or agreement gesture made by grasping someone's hand"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "TAEKWONDO",
+          "question": "Martial art that focuses on kicking techniques"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "TOUCHDOWN",
+          "question": "Scoring play in football when a player carries the ball into the end zone"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "TRIATHLON",
+          "question": "Endurance race that includes swimming, biking, and running"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PENTHOUSE",
+          "question": "Luxury apartment located on the top floor of a building"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BACHELORS",
+          "question": "Degree awarded to someone who has completed undergraduate studies"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "TELEPHONE",
+          "question": "Device that lets people talk to each other from far away"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "TRADEMARK",
+          "question": "Symbol or name that legally identifies a brand or product"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "HAIRSPRAY",
+          "question": "Used to keep hair styled and in place"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PARALYSED",
+          "question": "Unable to move or feel part of the body"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BRILLIANT",
+          "question": "Very bright or exceptionally clever"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "COLOGNE CATHEDRAL",
+          "question": null
+        }
+      ]
+    }
+  ]
+}

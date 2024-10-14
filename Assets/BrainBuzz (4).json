@@ -1,0 +1,6392 @@
+[
+    {
+        "id": "1",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "FRANCE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "2",
+        "length": "11",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "EIFFEL TOWER",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "3",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "PLEASE",
+        "clue": "Word used for requests",
+        "feedback": null
+    },
+    {
+        "id": "4",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "DRIVER",
+        "clue": "Someone who drives a vehicle",
+        "feedback": null
+    },
+    {
+        "id": "5",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "COFFEE",
+        "clue": "Something you drink to wake up",
+        "feedback": null
+    },
+    {
+        "id": "6",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "OFFICE",
+        "clue": "Place where people work, usually with desks and computers",
+        "feedback": null
+    },
+    {
+        "id": "7",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "CLEVER",
+        "clue": "Smart and quick to think",
+        "feedback": null
+    },
+    {
+        "id": "8",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "POLICE",
+        "clue": "People who enforce laws and maintain order in a community",
+        "feedback": null
+    },
+    {
+        "id": "9",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "DOCTOR",
+        "clue": "Person trained to diagnose and treat illnesses",
+        "feedback": null
+    },
+    {
+        "id": "10",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "TYCOON",
+        "clue": "Wealthy and powerful business leader",
+        "feedback": null
+    },
+    {
+        "id": "11",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "FLOWER",
+        "clue": "Colorful part of a plant that blooms",
+        "feedback": null
+    },
+    {
+        "id": "12",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "MAKEUP",
+        "clue": "Cosmetics used to enhance appearance",
+        "feedback": null
+    },
+    {
+        "id": "13",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "TETRIS",
+        "clue": "Classic game fitting falling shapes",
+        "feedback": null
+    },
+    {
+        "id": "14",
+        "length": "17",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "NAPOLEON BONAPARTE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "15",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "FOUNTAIN",
+        "clue": "Source of water in a park",
+        "feedback": null
+    },
+    {
+        "id": "16",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "AQUARIUM",
+        "clue": "Home for fish",
+        "feedback": null
+    },
+    {
+        "id": "17",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "SNAPSHOT",
+        "clue": "Quick picture with camera",
+        "feedback": null
+    },
+    {
+        "id": "18",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "ATTORNEY",
+        "clue": "Legal professional in court",
+        "feedback": null
+    },
+    {
+        "id": "19",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "HALLMARK",
+        "clue": "Channel known for movies",
+        "feedback": null
+    },
+    {
+        "id": "20",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "FACETIME",
+        "clue": "Apple video calling app",
+        "feedback": null
+    },
+    {
+        "id": "21",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "OPPONENT",
+        "clue": "Rival in a contest",
+        "feedback": null
+    },
+    {
+        "id": "22",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "STANDARD",
+        "clue": "Normal or accepted level",
+        "feedback": null
+    },
+    {
+        "id": "23",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "BASEBALL",
+        "clue": "Sport with bats, balls",
+        "feedback": null
+    },
+    {
+        "id": "24",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "PRISONER",
+        "clue": "Person held in jail",
+        "feedback": null
+    },
+    {
+        "id": "25",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "CALENDAR",
+        "clue": "Tool for tracking dates",
+        "feedback": null
+    },
+    {
+        "id": "26",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "CASTAWAY",
+        "clue": "Tom Hanks stranded drama",
+        "feedback": null
+    },
+    {
+        "id": "27",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "SHOPPING",
+        "clue": "Buying things at stores",
+        "feedback": null
+    },
+    {
+        "id": "28",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "ISOLATED",
+        "clue": "Far away from others",
+        "feedback": null
+    },
+    {
+        "id": "29",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "BANKRUPT",
+        "clue": "Out of financial resources",
+        "feedback": null
+    },
+    {
+        "id": "30",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "PAINTING",
+        "clue": "Art made with paint",
+        "feedback": null
+    },
+    {
+        "id": "31",
+        "length": "8",
+        "level_id": "1",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "DRIVEWAY",
+        "clue": "Path for parking cars",
+        "feedback": null
+    },
+    {
+        "id": "32",
+        "length": "16",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "FRENCH REVOLUTION",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "33",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "OFFICER",
+        "clue": "Person enforcing the law",
+        "feedback": null
+    },
+    {
+        "id": "34",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "GRIZZLY",
+        "clue": "Large North American bear",
+        "feedback": null
+    },
+    {
+        "id": "35",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "AEROBIC",
+        "clue": "Exercise to improve endurance",
+        "feedback": null
+    },
+    {
+        "id": "36",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "INVALID",
+        "clue": "Incorrect or not applicable",
+        "feedback": null
+    },
+    {
+        "id": "37",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "SCALLOP",
+        "clue": "Edible shellfish with ridges",
+        "feedback": null
+    },
+    {
+        "id": "38",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "KHALIFA",
+        "clue": "Burj ____, Tallest building in Dubai",
+        "feedback": null
+    },
+    {
+        "id": "39",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "BARGAIN",
+        "clue": "Great deal, low price",
+        "feedback": null
+    },
+    {
+        "id": "40",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "EYELASH",
+        "clue": "Hair around the eye",
+        "feedback": null
+    },
+    {
+        "id": "41",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "CAVEMAN",
+        "clue": "Prehistoric human cave dweller",
+        "feedback": null
+    },
+    {
+        "id": "42",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "BOOMBOX",
+        "clue": "Portable music playing device",
+        "feedback": null
+    },
+    {
+        "id": "43",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "BALCONY",
+        "clue": "Outdoor platform on building",
+        "feedback": null
+    },
+    {
+        "id": "44",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "HAUNTED",
+        "clue": "Visited by ghosts regularly",
+        "feedback": null
+    },
+    {
+        "id": "45",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "CITIZEN",
+        "clue": "Member of a country",
+        "feedback": null
+    },
+    {
+        "id": "46",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "CRICKET",
+        "clue": "Widely played global sport",
+        "feedback": null
+    },
+    {
+        "id": "47",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "BOOKING",
+        "clue": "Travel accommodation reservation site",
+        "feedback": null
+    },
+    {
+        "id": "48",
+        "length": "7",
+        "level_id": "1",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "GENERAL",
+        "clue": "High-ranking military officer",
+        "feedback": null
+    },
+    {
+        "id": "49",
+        "length": "12",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "LOUVRE MUSEUM",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "50",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "DEMOLISHED",
+        "clue": "Completely destroyed, torn down",
+        "feedback": null
+    },
+    {
+        "id": "51",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "EMPLOYMENT",
+        "clue": "Having a paying job",
+        "feedback": null
+    },
+    {
+        "id": "52",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "FETTUCCINE",
+        "clue": "Flat, ribbon-like pasta",
+        "feedback": null
+    },
+    {
+        "id": "53",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "INDIVIDUAL",
+        "clue": "Single person, unique entity",
+        "feedback": null
+    },
+    {
+        "id": "54",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "GENERATION",
+        "clue": "People born same period",
+        "feedback": null
+    },
+    {
+        "id": "55",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "SUCCESSFUL",
+        "clue": "Achieved desired goals effectively",
+        "feedback": null
+    },
+    {
+        "id": "56",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "6",
+        "answer_text": "RANDOMIZED",
+        "clue": "Arranged without specific order",
+        "feedback": null
+    },
+    {
+        "id": "57",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "6",
+        "answer_text": "SILHOUETTE",
+        "clue": "Dark outline against background",
+        "feedback": null
+    },
+    {
+        "id": "58",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "6",
+        "answer_text": "ENTHUSIAST",
+        "clue": "Person with great passion",
+        "feedback": null
+    },
+    {
+        "id": "59",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "6",
+        "answer_text": "CHANDELIER",
+        "clue": "Decorative hanging light fixture",
+        "feedback": null
+    },
+    {
+        "id": "60",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "6",
+        "answer_text": "VOCABULARY",
+        "clue": "Collection of language words",
+        "feedback": null
+    },
+    {
+        "id": "61",
+        "length": "10",
+        "level_id": "1",
+        "group_id": "4",
+        "level_image": "6",
+        "answer_text": "DIPLOMATIC",
+        "clue": "Skilled in international relations",
+        "feedback": null
+    },
+    {
+        "id": "62",
+        "length": "15",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "CHARLES DE GAULLE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "63",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "CARPET",
+        "clue": "Aladdin's magic flying tool",
+        "feedback": null
+    },
+    {
+        "id": "64",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "HANGAR",
+        "clue": "Building for storing aircraft",
+        "feedback": null
+    },
+    {
+        "id": "65",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "ANIMAL",
+        "clue": "Creature in the wild",
+        "feedback": null
+    },
+    {
+        "id": "66",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "RANGER",
+        "clue": "Forest guardian in movies",
+        "feedback": null
+    },
+    {
+        "id": "67",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "LETTER",
+        "clue": "Piece of mail you receive",
+        "feedback": null
+    },
+    {
+        "id": "68",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "ESCROW",
+        "clue": "Third-party holding funds",
+        "feedback": null
+    },
+    {
+        "id": "69",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "SALMON",
+        "clue": "Pink fish popular in sushi",
+        "feedback": null
+    },
+    {
+        "id": "70",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "EDITOR",
+        "clue": "Person who revises text",
+        "feedback": null
+    },
+    {
+        "id": "71",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "DENTAL",
+        "clue": "Related to teeth care",
+        "feedback": null
+    },
+    {
+        "id": "72",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "ENGINE",
+        "clue": "Machine that powers vehicles",
+        "feedback": null
+    },
+    {
+        "id": "73",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "BLAZER",
+        "clue": "Smart jacket for formal wear",
+        "feedback": null
+    },
+    {
+        "id": "74",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "MOUSSE",
+        "clue": "Light, fluffy dessert or topping",
+        "feedback": null
+    },
+    {
+        "id": "75",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "GELATO",
+        "clue": "Italian-style creamy ice cream",
+        "feedback": null
+    },
+    {
+        "id": "76",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "VOLLEY",
+        "clue": "Ball hit before it bounces",
+        "feedback": null
+    },
+    {
+        "id": "77",
+        "length": "6",
+        "level_id": "1",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "THESIS",
+        "clue": "Academic paper presenting argument",
+        "feedback": null
+    },
+    {
+        "id": "78",
+        "length": "12",
+        "level_id": "2",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "UNITED STATES",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "79",
+        "length": "15",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "STATUE OF LIBERTY",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "80",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "CASHIER",
+        "clue": "Person who processes payments at a checkout",
+        "feedback": null
+    },
+    {
+        "id": "81",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "AUTOPSY",
+        "clue": "Examination of body to determine cause of death",
+        "feedback": null
+    },
+    {
+        "id": "82",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "ADAPTER",
+        "clue": "Device that connects different types of plugs",
+        "feedback": null
+    },
+    {
+        "id": "83",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "PATTERN",
+        "clue": "Repeated design or sequence in artwork or fabric",
+        "feedback": null
+    },
+    {
+        "id": "84",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "GOURMET",
+        "clue": "High-quality and refined food",
+        "feedback": null
+    },
+    {
+        "id": "85",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "CHEETAH",
+        "clue": "Fastest land animal with spots",
+        "feedback": null
+    },
+    {
+        "id": "86",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "BAZOOKA",
+        "clue": "Rocket launcher used in warfare",
+        "feedback": null
+    },
+    {
+        "id": "87",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "SEAFOOD",
+        "clue": "Fish and shellfish dishes",
+        "feedback": null
+    },
+    {
+        "id": "88",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "GOGGLES",
+        "clue": "Protective eyewear for swimming",
+        "feedback": null
+    },
+    {
+        "id": "89",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "BURRITO",
+        "clue": "Wrapped Mexican food with fillings",
+        "feedback": null
+    },
+    {
+        "id": "90",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "FREEBIE",
+        "clue": "Something given at no cost",
+        "feedback": null
+    },
+    {
+        "id": "91",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "SERPENT",
+        "clue": "Another word for snake",
+        "feedback": null
+    },
+    {
+        "id": "92",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "EXPIRED",
+        "clue": "No longer valid or fresh",
+        "feedback": null
+    },
+    {
+        "id": "93",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "AVIATOR",
+        "clue": "Pilot or person who flies",
+        "feedback": null
+    },
+    {
+        "id": "94",
+        "length": "7",
+        "level_id": "2",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "ANALYZE",
+        "clue": "Examine something in detail",
+        "feedback": null
+    },
+    {
+        "id": "95",
+        "length": "11",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "GRAND CANYON",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "96",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "AGITATED",
+        "clue": "Nervous, restless, or excited",
+        "feedback": null
+    },
+    {
+        "id": "97",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "GREETING",
+        "clue": "Words used to welcome someone",
+        "feedback": null
+    },
+    {
+        "id": "98",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "BACHELOR",
+        "clue": "Single, unmarried man",
+        "feedback": null
+    },
+    {
+        "id": "99",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "UNLIKELY",
+        "clue": "Not expected to happen",
+        "feedback": null
+    },
+    {
+        "id": "100",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "ADVISORY",
+        "clue": "Consulting or providing expert advice",
+        "feedback": null
+    },
+    {
+        "id": "101",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "COCKTAIL",
+        "clue": "Mixed alcoholic drink often served with garnish",
+        "feedback": null
+    },
+    {
+        "id": "102",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "QUANTITY",
+        "clue": "Amount or number of something measured or counted",
+        "feedback": null
+    },
+    {
+        "id": "103",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "HANDYMEN",
+        "clue": "People skilled in various home repair tasks",
+        "feedback": null
+    },
+    {
+        "id": "104",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "KEYBOARD",
+        "clue": "Input device with keys for typing text",
+        "feedback": null
+    },
+    {
+        "id": "105",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "DOORSTEP",
+        "clue": "Step at the entrance of a building",
+        "feedback": null
+    },
+    {
+        "id": "106",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "HANDBALL",
+        "clue": "Team sport where players use hands to score",
+        "feedback": null
+    },
+    {
+        "id": "107",
+        "length": "10",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "DISNEYLAND",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "108",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "GLADIATOR",
+        "clue": "Ancient fighter who battled in arenas",
+        "feedback": null
+    },
+    {
+        "id": "109",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "BILINGUAL",
+        "clue": "Able to speak two different languages fluently",
+        "feedback": null
+    },
+    {
+        "id": "110",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "CROSSROAD",
+        "clue": "Intersection where roads meet or cross",
+        "feedback": null
+    },
+    {
+        "id": "111",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "FRANKFURT",
+        "clue": "City in Germany known for sausages and finance",
+        "feedback": null
+    },
+    {
+        "id": "112",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "APPETIZER",
+        "clue": "Small dish served before the main course",
+        "feedback": null
+    },
+    {
+        "id": "113",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "POLYGRAPH",
+        "clue": "Device that measures physiological responses to lying",
+        "feedback": null
+    },
+    {
+        "id": "114",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "CHILDHOOD",
+        "clue": "Early period of life before adulthood begins",
+        "feedback": null
+    },
+    {
+        "id": "115",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "DEPARTURE",
+        "clue": "Time when a flight leaves the airport",
+        "feedback": null
+    },
+    {
+        "id": "116",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "CARNIVORE",
+        "clue": "Animal that primarily eats other animals",
+        "feedback": null
+    },
+    {
+        "id": "117",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "HANDBRAKE",
+        "clue": "Vehicle lever used to stop or hold position",
+        "feedback": null
+    },
+    {
+        "id": "118",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "HOLLYWOOD",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "119",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "DOUGHNUT",
+        "clue": "Sweet, fried pastry often shaped like a ring",
+        "feedback": null
+    },
+    {
+        "id": "120",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "COMPOUND",
+        "clue": "Substance made from two or more elements",
+        "feedback": null
+    },
+    {
+        "id": "121",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "DUMPLING",
+        "clue": "Small dough-filled food often steamed or boiled",
+        "feedback": null
+    },
+    {
+        "id": "122",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "FEARLESS",
+        "clue": "Brave and without any sign of fear",
+        "feedback": null
+    },
+    {
+        "id": "123",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "VALKYRIE",
+        "clue": "Mythical Norse figure choosing who will die",
+        "feedback": null
+    },
+    {
+        "id": "124",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "SOFTWARE",
+        "clue": "Programs and applications run on a computer",
+        "feedback": null
+    },
+    {
+        "id": "125",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "CUPBOARD",
+        "clue": "Storage space with shelves for dishes and utensils",
+        "feedback": null
+    },
+    {
+        "id": "126",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "EUPHORIA",
+        "clue": "Intense feeling of joy and happiness",
+        "feedback": null
+    },
+    {
+        "id": "127",
+        "length": "8",
+        "level_id": "2",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "SHOWDOWN",
+        "clue": "Final confrontation or decisive battle between opponents",
+        "feedback": null
+    },
+    {
+        "id": "128",
+        "length": "13",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "MOUNT RUSHMORE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "129",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "IMPARTIAL",
+        "clue": "Fair and unbiased in judgment or opinion",
+        "feedback": null
+    },
+    {
+        "id": "130",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "BOOTSTRAP",
+        "clue": "Self-starting business process without external assistance",
+        "feedback": null
+    },
+    {
+        "id": "131",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "AUTHENTIC",
+        "clue": "True to its original and genuine nature",
+        "feedback": null
+    },
+    {
+        "id": "132",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "INVESTING",
+        "clue": "Putting money into assets for future profit",
+        "feedback": null
+    },
+    {
+        "id": "133",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "STORYTIME",
+        "clue": "Scheduled event for reading or telling stories",
+        "feedback": null
+    },
+    {
+        "id": "134",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "BIRDHOUSE",
+        "clue": "Shelter for birds to nest and live",
+        "feedback": null
+    },
+    {
+        "id": "135",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "BLUEPRINT",
+        "clue": "Detailed plan or design for construction projects",
+        "feedback": null
+    },
+    {
+        "id": "136",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "COSMETICS",
+        "clue": "Products used to enhance or alter appearance",
+        "feedback": null
+    },
+    {
+        "id": "137",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "OTHERWISE",
+        "clue": "In a different way or under different conditions",
+        "feedback": null
+    },
+    {
+        "id": "138",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "COMPANION",
+        "clue": "Person or animal who keeps someone company",
+        "feedback": null
+    },
+    {
+        "id": "139",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "BOOKSHELF",
+        "clue": "Furniture with horizontal surfaces for storing books",
+        "feedback": null
+    },
+    {
+        "id": "140",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "ARROWHEAD",
+        "clue": "Pointed tip of an arrow for hunting",
+        "feedback": null
+    },
+    {
+        "id": "141",
+        "length": "9",
+        "level_id": "2",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "OVERWATCH",
+        "clue": "Blizzard's team-based shooter with unique heroes",
+        "feedback": null
+    },
+    {
+        "id": "142",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "AUSTRALIA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "143",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "OPERA HOUSE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "144",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "BOOKMARK",
+        "clue": "Marker used to keep place in a book",
+        "feedback": null
+    },
+    {
+        "id": "145",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "ESPRESSO",
+        "clue": "Strong coffee brewed by forcing hot water",
+        "feedback": null
+    },
+    {
+        "id": "146",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "FRESHMAN",
+        "clue": "First-year student in high school or college",
+        "feedback": null
+    },
+    {
+        "id": "147",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "MARYJANE",
+        "clue": "Spider-Man’s girlfriend",
+        "feedback": null
+    },
+    {
+        "id": "148",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "FLAGSHIP",
+        "clue": "Main or most important product or ship",
+        "feedback": null
+    },
+    {
+        "id": "149",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "ORTHODOX",
+        "clue": "Conforming to traditional or established religious practices",
+        "feedback": null
+    },
+    {
+        "id": "150",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "RICOCHET",
+        "clue": "Projectile that rebounds off a surface",
+        "feedback": null
+    },
+    {
+        "id": "151",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "VALUABLE",
+        "clue": "High worth or importance, often expensive",
+        "feedback": null
+    },
+    {
+        "id": "152",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "BARSTOOL",
+        "clue": "Tall seat often found at a bar",
+        "feedback": null
+    },
+    {
+        "id": "153",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "COMEBACK",
+        "clue": "Team's rally to win after being behind",
+        "feedback": null
+    },
+    {
+        "id": "154",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "BOOMERANG",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "155",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "NEWBALANCE",
+        "clue": "Popular brand known for athletic shoes and apparel",
+        "feedback": null
+    },
+    {
+        "id": "156",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "AUTOMATION",
+        "clue": "Use of technology to perform tasks automatically",
+        "feedback": null
+    },
+    {
+        "id": "157",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "BROOMSTICK",
+        "clue": "Witches’ flying tool in folklore and stories",
+        "feedback": null
+    },
+    {
+        "id": "158",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "ELEMENTARY",
+        "clue": "First level of school education for young students",
+        "feedback": null
+    },
+    {
+        "id": "159",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "SCREENSHOT",
+        "clue": "Digital image of what’s displayed on a screen",
+        "feedback": null
+    },
+    {
+        "id": "160",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "STARSTRUCK",
+        "clue": "Overwhelmed or fascinated by celebrities or stars",
+        "feedback": null
+    },
+    {
+        "id": "161",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "BREAKPOINT",
+        "clue": "Chance to win a game on opponent’s serve in tennis",
+        "feedback": null
+    },
+    {
+        "id": "162",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "EVANGELIST",
+        "clue": "Preacher spreading religious message or beliefs",
+        "feedback": null
+    },
+    {
+        "id": "163",
+        "length": "10",
+        "level_id": "3",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "SONGWRITER",
+        "clue": "Person who writes lyrics and music for songs",
+        "feedback": null
+    },
+    {
+        "id": "164",
+        "length": "14",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "AUSTRALIAN OPEN",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "165",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "HANGOUT",
+        "clue": "Activity where people spend time relaxing together",
+        "feedback": null
+    },
+    {
+        "id": "166",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "SUNRISE",
+        "clue": "Time when the sun first appears above horizon",
+        "feedback": null
+    },
+    {
+        "id": "167",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "ASHTRAY",
+        "clue": "Object used to hold cigarette butts and ashes",
+        "feedback": null
+    },
+    {
+        "id": "168",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "STADIUM",
+        "clue": "Large venue for sports events and concerts",
+        "feedback": null
+    },
+    {
+        "id": "169",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "BRIOCHE",
+        "clue": "Soft, buttery bread often used for pastries",
+        "feedback": null
+    },
+    {
+        "id": "170",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "DAYCARE",
+        "clue": "Facility providing care for children during workday",
+        "feedback": null
+    },
+    {
+        "id": "171",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "BLANKET",
+        "clue": "Soft covering used for warmth while sleeping",
+        "feedback": null
+    },
+    {
+        "id": "172",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "DIPLOMA",
+        "clue": "Certificate awarded upon completing an educational course",
+        "feedback": null
+    },
+    {
+        "id": "173",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "CANNOLI",
+        "clue": "Italian pastry filled with sweet ricotta cheese",
+        "feedback": null
+    },
+    {
+        "id": "174",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "SNOOKER",
+        "clue": "Cue sport played on a rectangular table with pockets",
+        "feedback": null
+    },
+    {
+        "id": "175",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "BROTHER",
+        "clue": "Family member you argue with but also share secrets",
+        "feedback": null
+    },
+    {
+        "id": "176",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "EMPRESS",
+        "clue": "Female ruler with supreme authority over an empire",
+        "feedback": null
+    },
+    {
+        "id": "177",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "CHEDDAR",
+        "clue": "Sharp, aged cheese commonly used in sandwiches",
+        "feedback": null
+    },
+    {
+        "id": "178",
+        "length": "7",
+        "level_id": "3",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "CONTEST",
+        "clue": "Competition where participants compete for a prize",
+        "feedback": null
+    },
+    {
+        "id": "179",
+        "length": "8",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "KANGAROO",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "180",
+        "length": "11",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "7",
+        "answer_text": "AIRSICKNESS",
+        "clue": "Nausea or discomfort experienced while flying",
+        "feedback": null
+    },
+    {
+        "id": "181",
+        "length": "11",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "7",
+        "answer_text": "NATIONALITY",
+        "clue": "Identity based on the country of citizenship",
+        "feedback": null
+    },
+    {
+        "id": "182",
+        "length": "11",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "7",
+        "answer_text": "SPONTANEOUS",
+        "clue": "Acting on impulse without premeditation or planning",
+        "feedback": null
+    },
+    {
+        "id": "183",
+        "length": "11",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "7",
+        "answer_text": "MEANINGLESS",
+        "clue": "Lacking purpose or significance; without value or importance",
+        "feedback": null
+    },
+    {
+        "id": "184",
+        "length": "11",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "7",
+        "answer_text": "POMEGRANATE",
+        "clue": "Red fruit filled with edible seeds and juice",
+        "feedback": null
+    },
+    {
+        "id": "185",
+        "length": "11",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "7",
+        "answer_text": "PHOTOGRAPHY",
+        "clue": "Art of capturing images using a camera",
+        "feedback": null
+    },
+    {
+        "id": "186",
+        "length": "11",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "7",
+        "answer_text": "PHILOSOPHER",
+        "clue": "Person who studies fundamental questions about existence",
+        "feedback": null
+    },
+    {
+        "id": "187",
+        "length": "11",
+        "level_id": "3",
+        "group_id": "4",
+        "level_image": "7",
+        "answer_text": "VACATIONING",
+        "clue": "Traveling for leisure and relaxation away from home",
+        "feedback": null
+    },
+    {
+        "id": "188",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "MELBOURNE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "189",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "PLAYMAKER",
+        "clue": "Player who creates scoring opportunities for the team",
+        "feedback": null
+    },
+    {
+        "id": "190",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "SECRETARY",
+        "clue": "Administrative professional managing office tasks",
+        "feedback": null
+    },
+    {
+        "id": "191",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "ESCALATOR",
+        "clue": "Moving staircase used to transport people between floors",
+        "feedback": null
+    },
+    {
+        "id": "192",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "COWABUNGA",
+        "clue": "Catchphrase popularized by Teenage Mutant Ninja Turtles",
+        "feedback": null
+    },
+    {
+        "id": "193",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "OUTSOURCE",
+        "clue": "Assign tasks to external parties or companies",
+        "feedback": null
+    },
+    {
+        "id": "194",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "COMMUNITY",
+        "clue": "Network of people sharing interests and living together",
+        "feedback": null
+    },
+    {
+        "id": "195",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "SUGARCANE",
+        "clue": "Plant harvested for producing sugar and molasse",
+        "feedback": null
+    },
+    {
+        "id": "196",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "POTENTIAL",
+        "clue": "Talent waiting to be fully realized on the field",
+        "feedback": null
+    },
+    {
+        "id": "197",
+        "length": "9",
+        "level_id": "3",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "SHORELINE",
+        "clue": "Edge where land meets the water",
+        "feedback": null
+    },
+    {
+        "id": "198",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "BRAZIL",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "199",
+        "length": "12",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "RIO DE JANEIRO",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "200",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "TRANSLATOR",
+        "clue": "Bridges communication between different languages",
+        "feedback": null
+    },
+    {
+        "id": "201",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "NIGHTSTAND",
+        "clue": "Small table next to a bed for essentials",
+        "feedback": null
+    },
+    {
+        "id": "202",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "POPULATION",
+        "clue": "Total number of people in a specific area",
+        "feedback": null
+    },
+    {
+        "id": "203",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "MEDICATION",
+        "clue": "Substance used to treat or manage health conditions",
+        "feedback": null
+    },
+    {
+        "id": "204",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "SWEETHEART",
+        "clue": "Nickname for someone special, like a crush or friend",
+        "feedback": null
+    },
+    {
+        "id": "205",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "SUBJECTIVE",
+        "clue": "Based on personal opinions or feelings, not facts",
+        "feedback": null
+    },
+    {
+        "id": "206",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "DREAMWORKS",
+        "clue": "Film studio known for animated movies like Shrek",
+        "feedback": null
+    },
+    {
+        "id": "207",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "GRANDCHILD",
+        "clue": "Child of your son or daughter",
+        "feedback": null
+    },
+    {
+        "id": "208",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "GENEROSITY",
+        "clue": "Willingness to give freely and help others",
+        "feedback": null
+    },
+    {
+        "id": "209",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "HELICOPTER",
+        "clue": "Aircraft with rotating blades for vertical flight",
+        "feedback": null
+    },
+    {
+        "id": "210",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "ENCRYPTION",
+        "clue": "Method for securing data by converting into code",
+        "feedback": null
+    },
+    {
+        "id": "211",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "ACCOUNTANT",
+        "clue": "Professional who manages financial records and transactions",
+        "feedback": null
+    },
+    {
+        "id": "212",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "COPACABANA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "213",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "STOCKING",
+        "clue": "Sheer legwear often worn with skirts or dresses",
+        "feedback": null
+    },
+    {
+        "id": "214",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "GASOLINE",
+        "clue": "Fuel used in cars and other combustion engines",
+        "feedback": null
+    },
+    {
+        "id": "215",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "TROPICAL",
+        "clue": "Warm and humid climate found near the equator",
+        "feedback": null
+    },
+    {
+        "id": "216",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "GIGANTIC",
+        "clue": "Extremely large or huge, much bigger than normal",
+        "feedback": null
+    },
+    {
+        "id": "217",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "BRACELET",
+        "clue": "Jewelry worn around the wrist for decoration",
+        "feedback": null
+    },
+    {
+        "id": "218",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "LOCATION",
+        "clue": "Specific place or position of something or someone",
+        "feedback": null
+    },
+    {
+        "id": "219",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "DUMBBELL",
+        "clue": "Weights used for lifting exercises, one in each hand",
+        "feedback": null
+    },
+    {
+        "id": "220",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "DYNAMITE",
+        "clue": "Explosive used for demolition and breaking things apart",
+        "feedback": null
+    },
+    {
+        "id": "221",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "DOWNTOWN",
+        "clue": "Central area of a city with shops and offices",
+        "feedback": null
+    },
+    {
+        "id": "222",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "VITAMINS",
+        "clue": "Nutrients needed for health, found in various foods",
+        "feedback": null
+    },
+    {
+        "id": "223",
+        "length": "8",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "CARNIVAL",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "224",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "SCARECROW",
+        "clue": "Figure used to scare away birds from crops",
+        "feedback": null
+    },
+    {
+        "id": "225",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "FAIRYTALE",
+        "clue": "Classic story type seen in Disney animated movies",
+        "feedback": null
+    },
+    {
+        "id": "226",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "ARTICHOKE",
+        "clue": "Edible vegetable with a tough outer layer and heart",
+        "feedback": null
+    },
+    {
+        "id": "227",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "UNDERPAID",
+        "clue": "Receiving less money for work than deserved",
+        "feedback": null
+    },
+    {
+        "id": "228",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "FISHERMAN",
+        "clue": "Person who catches fish for a living or hobby",
+        "feedback": null
+    },
+    {
+        "id": "229",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "AVALANCHE",
+        "clue": "Large mass of snow sliding down a mountain",
+        "feedback": null
+    },
+    {
+        "id": "230",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "CANDIDATE",
+        "clue": "Person who applies for a job or election",
+        "feedback": null
+    },
+    {
+        "id": "231",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "BLACKJACK",
+        "clue": "Card game where the goal is 21 points",
+        "feedback": null
+    },
+    {
+        "id": "232",
+        "length": "10",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "RAINFOREST",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "233",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "BERLIN",
+        "clue": "Capital city of Germany known for historical landmarks",
+        "feedback": null
+    },
+    {
+        "id": "234",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "SHAZAM",
+        "clue": "App that identifies songs by listening to them",
+        "feedback": null
+    },
+    {
+        "id": "235",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "ENIGMA",
+        "clue": "A mystery or puzzle that is hard to understand",
+        "feedback": null
+    },
+    {
+        "id": "236",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "GENIUS",
+        "clue": "Someone with extraordinary intellectual or creative ability",
+        "feedback": null
+    },
+    {
+        "id": "237",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "OFFICE",
+        "clue": "Place where people work, often with desks",
+        "feedback": null
+    },
+    {
+        "id": "238",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "CLOSET",
+        "clue": "Small room or space for storing clothes and items",
+        "feedback": null
+    },
+    {
+        "id": "239",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "KARATE",
+        "clue": "Martial art focused on striking with hands and feet",
+        "feedback": null
+    },
+    {
+        "id": "240",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "PRENUP",
+        "clue": "Legal agreement made before marriage about finances",
+        "feedback": null
+    },
+    {
+        "id": "241",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "HOSTEL",
+        "clue": "Affordable lodging for travelers or students, shared rooms",
+        "feedback": null
+    },
+    {
+        "id": "242",
+        "length": "6",
+        "level_id": "4",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "AUTUMN",
+        "clue": "Season with falling leaves and cooler temperatures",
+        "feedback": null
+    },
+    {
+        "id": "243",
+        "length": "12",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "IPANEMA BEACH",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "244",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "CONFIDENT",
+        "clue": "Feeling sure of oneself and one’s abilities",
+        "feedback": null
+    },
+    {
+        "id": "245",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "AUTOPILOT",
+        "clue": "System that automatically controls an aircraft or vehicle",
+        "feedback": null
+    },
+    {
+        "id": "246",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "NOSTALGIC",
+        "clue": "Feeling longing for the past with fond memories",
+        "feedback": null
+    },
+    {
+        "id": "247",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "SPRINKLER",
+        "clue": "Device that sprays water over a garden area",
+        "feedback": null
+    },
+    {
+        "id": "248",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "HORSESHOE",
+        "clue": "U-shaped metal object used to protect horse's hooves",
+        "feedback": null
+    },
+    {
+        "id": "249",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "KILOMETER",
+        "clue": "Unit of measurement equal to 1,000 meters",
+        "feedback": null
+    },
+    {
+        "id": "250",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "RECTANGLE",
+        "clue": "Four-sided shape with opposite sides of equal length",
+        "feedback": null
+    },
+    {
+        "id": "251",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "DODGEBALL",
+        "clue": "Team sport where players throw balls to eliminate opponents",
+        "feedback": null
+    },
+    {
+        "id": "252",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "SPEAKEASY",
+        "clue": "Secret bar from Prohibition era, often hidden",
+        "feedback": null
+    },
+    {
+        "id": "253",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "REGULARLY",
+        "clue": "Occurring at fixed times or intervals each week",
+        "feedback": null
+    },
+    {
+        "id": "254",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "DIFFICULT",
+        "clue": "Not easy; requiring effort or hard work",
+        "feedback": null
+    },
+    {
+        "id": "255",
+        "length": "9",
+        "level_id": "4",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "HANDSHAKE",
+        "clue": "Greeting involving clasping hands and shaking them",
+        "feedback": null
+    },
+    {
+        "id": "256",
+        "length": "5",
+        "level_id": "5",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "INDIA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "257",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "TAJ MAHAL",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "258",
+        "length": "10",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "INTERNSHIP",
+        "clue": "Temporary job for gaining experience in a field",
+        "feedback": null
+    },
+    {
+        "id": "259",
+        "length": "10",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "HEARTBREAK",
+        "clue": "Emotional pain from the end of a relationship",
+        "feedback": null
+    },
+    {
+        "id": "260",
+        "length": "10",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "OBJECTIVES",
+        "clue": "Goals or targets aimed for in a project",
+        "feedback": null
+    },
+    {
+        "id": "261",
+        "length": "10",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "TERMINATOR",
+        "clue": "Iconic cyborg from Arnold Schwarzenegger's famous film",
+        "feedback": null
+    },
+    {
+        "id": "262",
+        "length": "10",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "BREAKDANCE",
+        "clue": "Street dance style with spinning and acrobatic moves",
+        "feedback": null
+    },
+    {
+        "id": "263",
+        "length": "10",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "DISHWASHER",
+        "clue": "Appliance used to clean dishes automatically",
+        "feedback": null
+    },
+    {
+        "id": "264",
+        "length": "10",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "ATTACHMENT",
+        "clue": "Additional part or document added to something",
+        "feedback": null
+    },
+    {
+        "id": "265",
+        "length": "10",
+        "level_id": "5",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "COLLECTORS",
+        "clue": "People who gather and preserve items of interest",
+        "feedback": null
+    },
+    {
+        "id": "266",
+        "length": "14",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "DIWALI FESTIVAL",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "267",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "1",
+        "answer_text": "DELAWARE",
+        "clue": "First state to join the United States Union",
+        "feedback": null
+    },
+    {
+        "id": "268",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "1",
+        "answer_text": "ILLUSION",
+        "clue": "Magic trick that tricks the eye",
+        "feedback": null
+    },
+    {
+        "id": "269",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "1",
+        "answer_text": "WINDMILL",
+        "clue": "Large structure with blades, featured in 'Don Quixote'",
+        "feedback": null
+    },
+    {
+        "id": "270",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "1",
+        "answer_text": "ATHLETIC",
+        "clue": "Active and strong in sports",
+        "feedback": null
+    },
+    {
+        "id": "271",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "1",
+        "answer_text": "LEMONADE",
+        "clue": "A sweet drink made from lemons",
+        "feedback": null
+    },
+    {
+        "id": "272",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "1",
+        "answer_text": "IMPOSTER",
+        "clue": "Someone pretending to be someone else",
+        "feedback": null
+    },
+    {
+        "id": "273",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "OFFTRACK",
+        "clue": "Not following the intended path",
+        "feedback": null
+    },
+    {
+        "id": "274",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "DELIVERY",
+        "clue": "Service for bringing packages to your door",
+        "feedback": null
+    },
+    {
+        "id": "275",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "ISLANDER",
+        "clue": "Someone who lives on an island",
+        "feedback": null
+    },
+    {
+        "id": "276",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "STALLION",
+        "clue": "Large, strong horse often used in racing",
+        "feedback": null
+    },
+    {
+        "id": "277",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "DIVIDEND",
+        "clue": "Part of a company's profit shared with shareholders",
+        "feedback": null
+    },
+    {
+        "id": "278",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "OVERCST",
+        "clue": "Cloudy sky without visible sun",
+        "feedback": null
+    },
+    {
+        "id": "279",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "BALSAMIC",
+        "clue": "Vinegar type, often used in salads",
+        "feedback": null
+    },
+    {
+        "id": "280",
+        "length": "8",
+        "level_id": "5",
+        "group_id": "2",
+        "level_image": "2",
+        "answer_text": "BLACKOUT",
+        "clue": "Complete power loss or a sudden memory lapse",
+        "feedback": null
+    },
+    {
+        "id": "281",
+        "length": "9",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "MEN IN BLUE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "282",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "GAMBLER",
+        "clue": "Person who takes risks with money, often in casinos",
+        "feedback": null
+    },
+    {
+        "id": "283",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "PREVIEW",
+        "clue": "Glimpse of something before its official release or showing",
+        "feedback": null
+    },
+    {
+        "id": "284",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "MANAGER",
+        "clue": "Person overseeing employees and operations",
+        "feedback": null
+    },
+    {
+        "id": "285",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "HYGIENE",
+        "clue": "Set of practices performed to preserve health",
+        "feedback": null
+    },
+    {
+        "id": "286",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "CHANNEL",
+        "clue": "Broadcast platform for TV or radio content",
+        "feedback": null
+    },
+    {
+        "id": "287",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "GOODBYE",
+        "clue": "Common farewell expression",
+        "feedback": null
+    },
+    {
+        "id": "288",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "NOODLES",
+        "clue": "Long, thin pasta often used in Asian dishes",
+        "feedback": null
+    },
+    {
+        "id": "289",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "LAWSUIT",
+        "clue": "Legal action taken in court",
+        "feedback": null
+    },
+    {
+        "id": "290",
+        "length": "7",
+        "level_id": "5",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "NUGGETS",
+        "clue": "Popular chicken item at McDonald's",
+        "feedback": null
+    },
+    {
+        "id": "291",
+        "length": "13",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "MAHATMA GANDHI",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "292",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "CLUMSY",
+        "clue": "Always dropping things or tripping over own feet",
+        "feedback": null
+    },
+    {
+        "id": "293",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "CANADA",
+        "clue": "Country known for its maple syrup and hockey",
+        "feedback": null
+    },
+    {
+        "id": "294",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "LYCHEE",
+        "clue": "Tropical fruit often used in desserts and drinks",
+        "feedback": null
+    },
+    {
+        "id": "295",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "GARAGE",
+        "clue": "Place to park your car or store tools",
+        "feedback": null
+    },
+    {
+        "id": "296",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "EASTER",
+        "clue": "Holiday with egg hunts and chocolate bunnies",
+        "feedback": null
+    },
+    {
+        "id": "297",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "HERMES",
+        "clue": "Luxury fashion brand known for its iconic handbags",
+        "feedback": null
+    },
+    {
+        "id": "298",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "ERRAND",
+        "clue": "Task you might run around town to complete",
+        "feedback": null
+    },
+    {
+        "id": "299",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "SAVAGE",
+        "clue": "Term for someone or something fierce and untamed",
+        "feedback": null
+    },
+    {
+        "id": "300",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "BETRAY",
+        "clue": "To break trust or loyalty with someone",
+        "feedback": null
+    },
+    {
+        "id": "301",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "BUYING",
+        "clue": "Acquiring items or services through purchase",
+        "feedback": null
+    },
+    {
+        "id": "302",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "BLONDE",
+        "clue": "Hair color often associated with light shades",
+        "feedback": null
+    },
+    {
+        "id": "303",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "THIGHS",
+        "clue": "Upper parts of your leg, between the hip and knee",
+        "feedback": null
+    },
+    {
+        "id": "304",
+        "length": "6",
+        "level_id": "5",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "TENNIS",
+        "clue": "Sport where players hit a ball over a net with rackets",
+        "feedback": null
+    },
+    {
+        "id": "305",
+        "length": "9",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "BOLLYWOOD",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "306",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "NEIGHBORHOOD",
+        "clue": "Residential area where people live close to each other",
+        "feedback": null
+    },
+    {
+        "id": "307",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "BILLIONAIRES",
+        "clue": "People with wealth exceeding one billion dollars",
+        "feedback": null
+    },
+    {
+        "id": "308",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "INTELLIGENCE",
+        "clue": "High level of mental ability, often linked to problem-solving and learning",
+        "feedback": null
+    },
+    {
+        "id": "309",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "LEGISLATIONS",
+        "clue": "Laws and rules established by government authorities",
+        "feedback": null
+    },
+    {
+        "id": "310",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "AERODYNAMICS",
+        "clue": "Study of how air interacts with moving objects",
+        "feedback": null
+    },
+    {
+        "id": "311",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "ACKNOWLEDGED",
+        "clue": "Officially recognized or accepted after careful review",
+        "feedback": null
+    },
+    {
+        "id": "312",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "PSYCHOLOGIST",
+        "clue": "Professional who studies the human mind and behavior",
+        "feedback": null
+    },
+    {
+        "id": "313",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "TECHNOPHOBIA",
+        "clue": "Fear or dislike of advanced technology and gadgets",
+        "feedback": null
+    },
+    {
+        "id": "314",
+        "length": "12",
+        "level_id": "5",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "JURISDICTION",
+        "clue": "Power to enforce laws and manage legal disputes within a specific area",
+        "feedback": null
+    },
+    {
+        "id": "315",
+        "length": "6",
+        "level_id": "6",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "RUSSIA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "316",
+        "length": "10",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "THE KREMLIN",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "317",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "STICKER",
+        "clue": "Sticky label often used for decoration, information, or fun",
+        "feedback": null
+    },
+    {
+        "id": "318",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "SHERIFF",
+        "clue": "County law officer who enforces laws and keeps order",
+        "feedback": null
+    },
+    {
+        "id": "319",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "PENGUIN",
+        "clue": "Flightless bird that swims expertly and lives in cold regions",
+        "feedback": null
+    },
+    {
+        "id": "320",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "WAKANDA",
+        "clue": "Fictional African nation with advanced tech and Vibranium",
+        "feedback": null
+    },
+    {
+        "id": "321",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "BARISTA",
+        "clue": "Person who prepares and serves coffee drinks at a café",
+        "feedback": null
+    },
+    {
+        "id": "322",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "CAESARS",
+        "clue": "Iconic salad with romaine, croutons, and zesty dressing, a restaurant favorite",
+        "feedback": null
+    },
+    {
+        "id": "323",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "VAMPIRE",
+        "clue": "Creature that drinks blood and lives forever, often comes out at night",
+        "feedback": null
+    },
+    {
+        "id": "324",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "HOLIDAY",
+        "clue": "A special day for celebration or time off from work or school",
+        "feedback": null
+    },
+    {
+        "id": "325",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "ORIGAMI",
+        "clue": "The art of folding paper into shapes and figures",
+        "feedback": null
+    },
+    {
+        "id": "326",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "CANNOLI",
+        "clue": "Italian pastry with a crispy shell filled with sweet cream",
+        "feedback": null
+    },
+    {
+        "id": "327",
+        "length": "15",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "SAINT PETERSBURG",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "328",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "BACKSEAT",
+        "clue": "The seat behind the driver in a car",
+        "feedback": null
+    },
+    {
+        "id": "329",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "ELEVATOR",
+        "clue": "Machine that moves people or things up and down between floors in a building",
+        "feedback": null
+    },
+    {
+        "id": "330",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "JIUJITSU",
+        "clue": "Martial art focused on grappling, using techniques like throws, holds, and joint locks",
+        "feedback": null
+    },
+    {
+        "id": "331",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "BOTANIST",
+        "clue": "Scientist who studies plants and how they grow",
+        "feedback": null
+    },
+    {
+        "id": "332",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "HERITAGE",
+        "clue": "Traditions, culture, and history passed down through generations",
+        "feedback": null
+    },
+    {
+        "id": "333",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "TRACKPAD",
+        "clue": "Touch-sensitive surface used to control the cursor on a laptop or device",
+        "feedback": null
+    },
+    {
+        "id": "334",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "AVENGERS",
+        "clue": "Group of superheroes who team up to fight powerful villains and save the world",
+        "feedback": null
+    },
+    {
+        "id": "335",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "CONFETTI",
+        "clue": "Small pieces of paper or material thrown during celebrations",
+        "feedback": null
+    },
+    {
+        "id": "336",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "SEATBELT",
+        "clue": "Strap in a car or plane that keeps you safe by holding you in place",
+        "feedback": null
+    },
+    {
+        "id": "337",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "MANDARIN",
+        "clue": "Language spoken in China, known for its tones and characters",
+        "feedback": null
+    },
+    {
+        "id": "338",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "JURASSIC",
+        "clue": "Dinosaur era made famous by movies with prehistoric creatures",
+        "feedback": null
+    },
+    {
+        "id": "339",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "ADORABLE",
+        "clue": "Something super cute and lovable",
+        "feedback": null
+    },
+    {
+        "id": "340",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "DOGHOUSE",
+        "clue": "Small shelter or house where a dog sleeps",
+        "feedback": null
+    },
+    {
+        "id": "341",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "JEOPARDY",
+        "clue": "Famous quiz show where contestants answer questions to win money",
+        "feedback": null
+    },
+    {
+        "id": "342",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "2",
+        "level_image": "6",
+        "answer_text": "NITROGEN",
+        "clue": "colorless gas that makes up most of the air we breathe",
+        "feedback": null
+    },
+    {
+        "id": "343",
+        "length": "10",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "MATRYOSHKA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "344",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "CHAMPAGNE",
+        "clue": "Sparkling wine often used for celebrations and special occasions",
+        "feedback": null
+    },
+    {
+        "id": "345",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "ASPARAGUS",
+        "clue": "Green vegetable with long spears, known for its earthy flavor",
+        "feedback": null
+    },
+    {
+        "id": "346",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "PHOTOSHOP",
+        "clue": "Image editing software used for digital art and photo manipulation",
+        "feedback": null
+    },
+    {
+        "id": "347",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "RECRUITER",
+        "clue": "Person who finds and hires people for jobs",
+        "feedback": null
+    },
+    {
+        "id": "348",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "BODYGUARD",
+        "clue": "Someone hired to protect individuals from danger or threats",
+        "feedback": null
+    },
+    {
+        "id": "349",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "AUTOGRAPH",
+        "clue": "Signature from a famous person, often collected as a keepsake",
+        "feedback": null
+    },
+    {
+        "id": "350",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "MOUSETRAP",
+        "clue": "Device used to catch or kill mice",
+        "feedback": null
+    },
+    {
+        "id": "351",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "NIGHTMARE",
+        "clue": "Scary or bad dream that causes fear or anxiety",
+        "feedback": null
+    },
+    {
+        "id": "352",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "MILKSHAKE",
+        "clue": "Creamy drink made from milk, ice cream, and flavors like chocolate or fruit",
+        "feedback": null
+    },
+    {
+        "id": "353",
+        "length": "9",
+        "level_id": "6",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "BYZANTINE",
+        "clue": "Empire known for its rich history, complex art, and grand architecture in the Eastern Roman world",
+        "feedback": null
+    },
+    {
+        "id": "354",
+        "length": "11",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "MOSKVA RIVER",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "355",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "COMPANY",
+        "clue": "Business or organization that provides goods or services",
+        "feedback": null
+    },
+    {
+        "id": "356",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "BLOOPER",
+        "clue": "Funny mistake or error, often seen in movies or TV shows",
+        "feedback": null
+    },
+    {
+        "id": "357",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "FASHION",
+        "clue": "Trends in clothing and style that are popular at a certain time or place",
+        "feedback": null
+    },
+    {
+        "id": "358",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "JUKEBOX",
+        "clue": "Machine that plays songs when you choose them, often found in diners or bars",
+        "feedback": null
+    },
+    {
+        "id": "359",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "RAVIOLI",
+        "clue": "Pasta filled with cheese, meat, or vegetables, usually served with sauce",
+        "feedback": null
+    },
+    {
+        "id": "360",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "BLANKET",
+        "clue": "Soft covering used to keep warm or for comfort",
+        "feedback": null
+    },
+    {
+        "id": "361",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "AVERAGE",
+        "clue": "The typical value found by adding numbers and dividing by their count",
+        "feedback": null
+    },
+    {
+        "id": "362",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "CURIOUS",
+        "clue": "Eager to learn or know more about something",
+        "feedback": null
+    },
+    {
+        "id": "363",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "BRAVERY",
+        "clue": "Courage to face fear and difficult situations",
+        "feedback": null
+    },
+    {
+        "id": "364",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "JEWELRY",
+        "clue": "Decorative items worn for personal adornment, often made of precious materials",
+        "feedback": null
+    },
+    {
+        "id": "365",
+        "length": "7",
+        "level_id": "6",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "LIBRARY",
+        "clue": "Place where books and other materials are stored and can be borrowed or read",
+        "feedback": null
+    },
+    {
+        "id": "366",
+        "length": "12",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "THE RED SQUARE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "367",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "STRATEGY",
+        "clue": "Plan of action designed to achieve a specific goal",
+        "feedback": null
+    },
+    {
+        "id": "368",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "SHORTCUT",
+        "clue": "Quicker way to reach a destination or complete a task",
+        "feedback": null
+    },
+    {
+        "id": "369",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "MEGABYTE",
+        "clue": "Unit of digital information equal to one million bytes",
+        "feedback": null
+    },
+    {
+        "id": "370",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "FIREWALL",
+        "clue": "Security system that controls incoming and outgoing network traffic",
+        "feedback": null
+    },
+    {
+        "id": "371",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "TRESSURE",
+        "clue": "Hidden or stored valuable items, often in the form of money or jewels",
+        "feedback": null
+    },
+    {
+        "id": "372",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "HEDGEHOG",
+        "clue": "Small, spiny mammal covered in sharp quills that curls into a ball when threatened",
+        "feedback": null
+    },
+    {
+        "id": "373",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "TEASPOON",
+        "clue": "Small spoon used for stirring and measuring ingredients",
+        "feedback": null
+    },
+    {
+        "id": "374",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "FREQUENT",
+        "clue": "Occurring often or at regular intervals in a specific time period",
+        "feedback": null
+    },
+    {
+        "id": "375",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "TEQUILLA",
+        "clue": "Popular alcoholic drink made from the blue agave plant, commonly used in margaritas and shots",
+        "feedback": null
+    },
+    {
+        "id": "376",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "METAPHOR",
+        "clue": "Figure of speech that compares one thing to another to highlight similarities",
+        "feedback": null
+    },
+    {
+        "id": "377",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "PIERCING",
+        "clue": "Making a hole in the skin to wear jewelry",
+        "feedback": null
+    },
+    {
+        "id": "378",
+        "length": "8",
+        "level_id": "6",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "CEMETERY",
+        "clue": "Place where the dead are buried and memorialized",
+        "feedback": null
+    },
+    {
+        "id": "379",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "ENGLAND",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "380",
+        "length": "12",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "FISH AND CHIPS",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "381",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "GODFATHER",
+        "clue": "Iconic movie about a powerful crime family, centered around loyalty and betrayal",
+        "feedback": null
+    },
+    {
+        "id": "382",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "DELICIOUS",
+        "clue": "Tasty and enjoyable to eat",
+        "feedback": null
+    },
+    {
+        "id": "383",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "FLASHBACK",
+        "clue": "Sudden memory of a past event, often triggered by something in the present",
+        "feedback": null
+    },
+    {
+        "id": "384",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "LIGHTBULB",
+        "clue": "Electric device that produces light when connected to a power source",
+        "feedback": null
+    },
+    {
+        "id": "385",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "VIBRATION",
+        "clue": "Rapid movement back and forth, often producing sound or a physical sensation",
+        "feedback": null
+    },
+    {
+        "id": "386",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "WOMANISER",
+        "clue": "Man who engages in numerous casual relationships with women, often without commitment",
+        "feedback": null
+    },
+    {
+        "id": "387",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "SPEEDBOAT",
+        "clue": "Fast boat designed for quick travel on water",
+        "feedback": null
+    },
+    {
+        "id": "388",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "6",
+        "answer_text": "HOROSCOPE",
+        "clue": "Prediction or insight based on astrology, often related to one's zodiac sign",
+        "feedback": null
+    },
+    {
+        "id": "389",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "6",
+        "answer_text": "SUPERHERO",
+        "clue": "Fictional character with extraordinary powers who fights for justice and helps others",
+        "feedback": null
+    },
+    {
+        "id": "390",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "6",
+        "answer_text": "GOODNIGHT",
+        "clue": "Phrase used to wish someone a pleasant night's rest or to say goodbye before bedtime",
+        "feedback": null
+    },
+    {
+        "id": "391",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "6",
+        "answer_text": "WORKSPACE",
+        "clue": "Area designated for work, often equipped with tools and resources to help complete tasks",
+        "feedback": null
+    },
+    {
+        "id": "392",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "1",
+        "level_image": "6",
+        "answer_text": "QUICKSAND",
+        "clue": "Loose sand that can trap objects or people when stepped on, often found near water",
+        "feedback": null
+    },
+    {
+        "id": "393",
+        "length": "16",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "BUCKINGHAM PALACE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "394",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "WEBINAR",
+        "clue": "Online seminar where participants learn and interact through a virtual platform",
+        "feedback": null
+    },
+    {
+        "id": "395",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "LAUNDRY",
+        "clue": "Dirty clothes and linens that need washing",
+        "feedback": null
+    },
+    {
+        "id": "396",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "ALCOHOL",
+        "clue": "Liquid substance that can make people feel relaxed or intoxicated",
+        "feedback": null
+    },
+    {
+        "id": "397",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "VIKINGS",
+        "clue": "Norse seafarers known for raiding, trading, and exploring during the Middle Ages",
+        "feedback": null
+    },
+    {
+        "id": "398",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "GLIMPSE",
+        "clue": "Quick or brief look at something",
+        "feedback": null
+    },
+    {
+        "id": "399",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "SINGING",
+        "clue": "Producing musical sounds with the voice, often to convey emotions or tell a story",
+        "feedback": null
+    },
+    {
+        "id": "400",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "DIGNITY",
+        "clue": "Sense of self-respect and honor in one's actions and presence",
+        "feedback": null
+    },
+    {
+        "id": "401",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "MAHJONG",
+        "clue": "Tile-based game originating from China, often played by four players",
+        "feedback": null
+    },
+    {
+        "id": "402",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "ACADEMY",
+        "clue": "School or institution dedicated to a specific field of study or training",
+        "feedback": null
+    },
+    {
+        "id": "403",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "HAMMOCK",
+        "clue": "Hanging bed made of fabric or netting, used for relaxing or sleeping outdoors",
+        "feedback": null
+    },
+    {
+        "id": "404",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "AIRPORT",
+        "clue": "Place where airplanes take off and land, often equipped with terminals for passengers",
+        "feedback": null
+    },
+    {
+        "id": "405",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "OCTAGON",
+        "clue": "Eight-sided cage used in MMA fights to contain fighters",
+        "feedback": null
+    },
+    {
+        "id": "406",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "BELLBOY",
+        "clue": "Hotel staff member who assists guests by carrying luggage and providing information",
+        "feedback": null
+    },
+    {
+        "id": "407",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "DYNASTY",
+        "clue": "Famous TV series about a wealthy family's glamorous and dramatic lives filled with rivalry",
+        "feedback": null
+    },
+    {
+        "id": "408",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "BISCUIT",
+        "clue": "Baked bread product that is soft and flaky, often served with meals or as a snack",
+        "feedback": null
+    },
+    {
+        "id": "409",
+        "length": "7",
+        "level_id": "7",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "FOREIGN",
+        "clue": "Relating to or originating from another country or nation",
+        "feedback": null
+    },
+    {
+        "id": "410",
+        "length": "11",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "TOWER BRIDGE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "411",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "INSTINCT",
+        "clue": "Natural ability to know or do something without needing to think about it",
+        "feedback": null
+    },
+    {
+        "id": "412",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "HOLOGRAM",
+        "clue": "Three-dimensional image displayed in reality, often used in movies and displays",
+        "feedback": null
+    },
+    {
+        "id": "413",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "SHOWROOM",
+        "clue": "Space where products are displayed for customers to view and buy, often used for cars or furniture",
+        "feedback": null
+    },
+    {
+        "id": "414",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "FOREHEAD",
+        "clue": "The part of the face above the eyes and below the hairline",
+        "feedback": null
+    },
+    {
+        "id": "415",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "WARRANTY",
+        "clue": "Guarantee provided by a seller to repair or replace a product if it fails within a specific time frame",
+        "feedback": null
+    },
+    {
+        "id": "416",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "LIFEBOAT",
+        "clue": "Small boat used for saving lives in emergencies, often to evacuate larger vessels",
+        "feedback": null
+    },
+    {
+        "id": "417",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "BATHROOM",
+        "clue": "Room equipped for personal hygiene, typically with a toilet, sink, and shower or bathtub",
+        "feedback": null
+    },
+    {
+        "id": "418",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "HOSPITAL",
+        "clue": "Facility where people receive medical treatment and care from healthcare professionals",
+        "feedback": null
+    },
+    {
+        "id": "419",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "HUMIDITY",
+        "clue": "Amount of moisture or water vapor in the air",
+        "feedback": null
+    },
+    {
+        "id": "420",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "DISAGREE",
+        "clue": "To have a different opinion or not share the same view as someone else",
+        "feedback": null
+    },
+    {
+        "id": "421",
+        "length": "8",
+        "level_id": "7",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "DYSLEXIA",
+        "clue": "Learning difficulty affecting reading, writing, and spelling skills",
+        "feedback": null
+    },
+    {
+        "id": "422",
+        "length": "11",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "SHAKESPEARE",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "423",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "ESSENTIAL",
+        "clue": "Absolutely necessary or extremely important for a specific purpose",
+        "feedback": null
+    },
+    {
+        "id": "424",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "SHAMELESS",
+        "clue": "Lacking shame or guilt, often behaving in a way that disregards social norms",
+        "feedback": null
+    },
+    {
+        "id": "425",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "BACKSTAGE",
+        "clue": "Area behind the stage in a theater for performers to prepare before a show",
+        "feedback": null
+    },
+    {
+        "id": "426",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "SKYDIVING",
+        "clue": "Sport of jumping from an airplane and free-falling before opening a parachute",
+        "feedback": null
+    },
+    {
+        "id": "427",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "NEUROLOGY",
+        "clue": "Branch of medicine that focuses on the nervous system and its disorders",
+        "feedback": null
+    },
+    {
+        "id": "428",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "PSEUDONYM",
+        "clue": "Fake name used by an author instead of their real name",
+        "feedback": null
+    },
+    {
+        "id": "429",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "SPACESHIP",
+        "clue": "Vehicle designed for travel in outer space",
+        "feedback": null
+    },
+    {
+        "id": "430",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "HEARTLESS",
+        "clue": "Lacking compassion or kindness; cold and unfeeling",
+        "feedback": null
+    },
+    {
+        "id": "431",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "RACETRACK",
+        "clue": "Track where races are held, often for cars or horses",
+        "feedback": null
+    },
+    {
+        "id": "432",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "TRANSLATE",
+        "clue": "To change words from one language to another",
+        "feedback": null
+    },
+    {
+        "id": "433",
+        "length": "9",
+        "level_id": "7",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "MESSANGER",
+        "clue": "Someone who delivers messages or important news from one person to another",
+        "feedback": null
+    },
+    {
+        "id": "434",
+        "length": "10",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "THE BEATLES",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "435",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "TALENT",
+        "clue": "Natural ability or skill in a particular area or activity",
+        "feedback": null
+    },
+    {
+        "id": "436",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "HOBBIT",
+        "clue": "Fictional small creature from J.R.R. Tolkien's works, known for peaceful living in the Shire",
+        "feedback": null
+    },
+    {
+        "id": "437",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "1",
+        "answer_text": "ELEVEN",
+        "clue": "The first prime number after ten",
+        "feedback": null
+    },
+    {
+        "id": "438",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "ABSENT",
+        "clue": "Not present in a place",
+        "feedback": null
+    },
+    {
+        "id": "439",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "REGGAE",
+        "clue": "Jamaican music genre known for its strong rhythm and social themes",
+        "feedback": null
+    },
+    {
+        "id": "440",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "FAMILY",
+        "clue": "Group of people related by blood, marriage, or adoption",
+        "feedback": null
+    },
+    {
+        "id": "441",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "STUDIO",
+        "clue": "Room or building where creative work, such as art, music, or film, is produced",
+        "feedback": null
+    },
+    {
+        "id": "442",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "BLOUSE",
+        "clue": "Women's loose-fitting shirt, often made of light fabric",
+        "feedback": null
+    },
+    {
+        "id": "443",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "LEGEND",
+        "clue": "Traditional story or tale, often based on historical events or characters",
+        "feedback": null
+    },
+    {
+        "id": "444",
+        "length": "6",
+        "level_id": "7",
+        "group_id": "5",
+        "level_image": "2",
+        "answer_text": "ISLAND",
+        "clue": "Land surrounded by water on all sides",
+        "feedback": null
+    },
+    {
+        "id": "445",
+        "length": "11",
+        "level_id": "8",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "SOUTH AFRICA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "446",
+        "length": "12",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "JOHANNESBURG",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "447",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "BONJOUR",
+        "clue": "French word for \"hello.\"",
+        "feedback": null
+    },
+    {
+        "id": "448",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "RICOTTA",
+        "clue": "Soft Italian cheese made from whey",
+        "feedback": null
+    },
+    {
+        "id": "449",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "SEPHORA",
+        "clue": "Beauty store that sells cosmetics and skincare products",
+        "feedback": null
+    },
+    {
+        "id": "450",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "CARAMEL",
+        "clue": "Sweet, sticky substance made from heated sugar",
+        "feedback": null
+    },
+    {
+        "id": "451",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "BLENDER",
+        "clue": "Device that mixes food and drinks",
+        "feedback": null
+    },
+    {
+        "id": "452",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "PAINTER",
+        "clue": "Artist who creates artwork on surfaces",
+        "feedback": null
+    },
+    {
+        "id": "453",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "ELDERLY",
+        "clue": "Older people, often referred to as seniors",
+        "feedback": null
+    },
+    {
+        "id": "454",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "BRISKET",
+        "clue": "Cut of meat from the chest of a cow, often slow-cooked or smoked",
+        "feedback": null
+    },
+    {
+        "id": "455",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "EYEBROW",
+        "clue": "Hair above the eye that shapes the face",
+        "feedback": null
+    },
+    {
+        "id": "456",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "JACUZZI",
+        "clue": "Hot tub with jets for relaxation",
+        "feedback": null
+    },
+    {
+        "id": "457",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "FLORIST",
+        "clue": "Person who sells and arranges flowers",
+        "feedback": null
+    },
+    {
+        "id": "458",
+        "length": "7",
+        "level_id": "8",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "COWGIRL",
+        "clue": "Woman who works with cattle and rides horses",
+        "feedback": null
+    },
+    {
+        "id": "459",
+        "length": "13",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "TABLE MOUNTAIN",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "460",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "PITCHING",
+        "clue": "Throwing the baseball to the batter",
+        "feedback": null
+    },
+    {
+        "id": "461",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "CHAINSAW",
+        "clue": "Power tool with a cutting blade for cutting wood",
+        "feedback": null
+    },
+    {
+        "id": "462",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "UNBUTTON",
+        "clue": "To open or undo buttons on clothing",
+        "feedback": null
+    },
+    {
+        "id": "463",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "FOLLOWER",
+        "clue": "User who subscribes to another person's updates or content",
+        "feedback": null
+    },
+    {
+        "id": "464",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "SLEEPING",
+        "clue": "Resting with eyes closed, usually at night",
+        "feedback": null
+    },
+    {
+        "id": "465",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "ROOMMATE",
+        "clue": "Person who shares a living space with someone else",
+        "feedback": null
+    },
+    {
+        "id": "466",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "GATORADE",
+        "clue": "Sports drink that helps replenish electrolytes and fluids",
+        "feedback": null
+    },
+    {
+        "id": "467",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "REQUIRED",
+        "clue": "Necessary or needed for a specific purpose",
+        "feedback": null
+    },
+    {
+        "id": "468",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "MOONWALK",
+        "clue": "Dance move where a person moves backward while appearing to walk forward",
+        "feedback": null
+    },
+    {
+        "id": "469",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "CAPTIONS",
+        "clue": "Text that explains or adds context to an image or video",
+        "feedback": null
+    },
+    {
+        "id": "470",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "SNEAKERS",
+        "clue": "Casual shoes designed for comfort and sports",
+        "feedback": null
+    },
+    {
+        "id": "471",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "MINIGOLF",
+        "clue": "Small version of golf played on courses with obstacles",
+        "feedback": null
+    },
+    {
+        "id": "472",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "TRENDING",
+        "clue": "Popular or widely discussed at a specific time",
+        "feedback": null
+    },
+    {
+        "id": "473",
+        "length": "13",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "NELSON MANDELA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "474",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "UNDERWEAR",
+        "clue": "Clothing worn beneath outer clothes",
+        "feedback": null
+    },
+    {
+        "id": "475",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "DETERGENT",
+        "clue": "Soap used for cleaning dirt and stains",
+        "feedback": null
+    },
+    {
+        "id": "476",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "GLADIATOR",
+        "clue": "Fighter in ancient Rome who battled for entertainment",
+        "feedback": null
+    },
+    {
+        "id": "477",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "ASSISTANT",
+        "clue": "Person who helps or aids someone in their work",
+        "feedback": null
+    },
+    {
+        "id": "478",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "BOOMERANG",
+        "clue": "Curved tool that returns when thrown",
+        "feedback": null
+    },
+    {
+        "id": "479",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "2",
+        "answer_text": "INSPIRING",
+        "clue": "Encouraging and motivating others to do better",
+        "feedback": null
+    },
+    {
+        "id": "480",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "DEMOCRACY",
+        "clue": "System of government where people have the power to make decisions through voting",
+        "feedback": null
+    },
+    {
+        "id": "481",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "STAIRCASE",
+        "clue": "Set of steps leading from one level to another",
+        "feedback": null
+    },
+    {
+        "id": "482",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "FANTASTIC",
+        "clue": "Very good or excellent; amazing",
+        "feedback": null
+    },
+    {
+        "id": "483",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "AUDIOBOOK",
+        "clue": "Recorded reading of a book, typically listened to on devices",
+        "feedback": null
+    },
+    {
+        "id": "484",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "CHECKLIST",
+        "clue": "List of items or tasks to ensure everything is completed",
+        "feedback": null
+    },
+    {
+        "id": "485",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "HILARIOUS",
+        "clue": "Extremely funny and entertaining",
+        "feedback": null
+    },
+    {
+        "id": "486",
+        "length": "9",
+        "level_id": "8",
+        "group_id": "3",
+        "level_image": "3",
+        "answer_text": "FRAGRANCE",
+        "clue": "Pleasant smell, often found in perfumes or flowers",
+        "feedback": null
+    },
+    {
+        "id": "487",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "CAPE TOWN",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "488",
+        "length": "6",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "DANCER",
+        "clue": "Person who performs dance moves as an art form",
+        "feedback": null
+    },
+    {
+        "id": "489",
+        "length": "6",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "REPAIR",
+        "clue": "To fix or restore something that is broken or damaged",
+        "feedback": null
+    },
+    {
+        "id": "490",
+        "length": "6",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "PURPLE",
+        "clue": "Color made by mixing red and blue",
+        "feedback": null
+    },
+    {
+        "id": "491",
+        "length": "6",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "4",
+        "answer_text": "METEOR",
+        "clue": "Rock or metal object that creates a bright light when entering Earth's atmosphere",
+        "feedback": null
+    },
+    {
+        "id": "492",
+        "length": "6",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "DONATE",
+        "clue": "To give money or items to help others",
+        "feedback": null
+    },
+    {
+        "id": "493",
+        "length": "6",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "DRAGON",
+        "clue": "Legendary creature often portrayed as giant, fire-breathing with wings",
+        "feedback": null
+    },
+    {
+        "id": "494",
+        "length": "6",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "ARROWS",
+        "clue": "Straight, pointed projectiles shot from a bow",
+        "feedback": null
+    },
+    {
+        "id": "495",
+        "length": "6",
+        "level_id": "8",
+        "group_id": "4",
+        "level_image": "5",
+        "answer_text": "CEMENT",
+        "clue": "Substance mixed with water and used to bind materials in construction",
+        "feedback": null
+    },
+    {
+        "id": "496",
+        "length": "12",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "KIRSTENBOSCH",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "497",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "COWORKER",
+        "clue": "Someone who works with you at the same job",
+        "feedback": null
+    },
+    {
+        "id": "498",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "SANDWICH",
+        "clue": "Food made of two pieces of bread with filling in between",
+        "feedback": null
+    },
+    {
+        "id": "499",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "TOMORROW",
+        "clue": "The day after today",
+        "feedback": null
+    },
+    {
+        "id": "500",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "LACROSSE",
+        "clue": "Team sport using a stick and ball to score in goals",
+        "feedback": null
+    },
+    {
+        "id": "501",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "OMELETTE",
+        "clue": "Dish made from cooked eggs, often with fillings",
+        "feedback": null
+    },
+    {
+        "id": "502",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "HOMELESS",
+        "clue": "People without a permanent place to live",
+        "feedback": null
+    },
+    {
+        "id": "503",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "AUDIENCE",
+        "clue": "Group of people who watch or listen to a performance or presentation",
+        "feedback": null
+    },
+    {
+        "id": "504",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "FLEXIBLE",
+        "clue": "Able to bend easily or adapt to change",
+        "feedback": null
+    },
+    {
+        "id": "505",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "BROCCOLI",
+        "clue": "Green vegetable resembling small trees, rich in nutrients",
+        "feedback": null
+    },
+    {
+        "id": "506",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "SYNOPSIS",
+        "clue": "Brief summary of a story or content",
+        "feedback": null
+    },
+    {
+        "id": "507",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "PROTOCOL",
+        "clue": "Set of rules or guidelines for conduct or procedures",
+        "feedback": null
+    },
+    {
+        "id": "508",
+        "length": "8",
+        "level_id": "8",
+        "group_id": "5",
+        "level_image": "6",
+        "answer_text": "SMOOTHIE",
+        "clue": "Blended drink made from fruit, yogurt, and sometimes vegetables",
+        "feedback": null
+    },
+    {
+        "id": "509",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "GERMANY",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "510",
+        "length": "12",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "MERCEDES BENZ",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "511",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "GLAMOROUS",
+        "clue": "Attractive and stylish in a luxurious way",
+        "feedback": null
+    },
+    {
+        "id": "512",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "BLUEBERRY",
+        "clue": "Small, round fruit that is blue or purple, known for its sweet taste",
+        "feedback": null
+    },
+    {
+        "id": "513",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "ASTRONAUT",
+        "clue": "Person trained to travel and work in space",
+        "feedback": null
+    },
+    {
+        "id": "514",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "STOCKINGS",
+        "clue": "Tight clothes worn on the legs",
+        "feedback": null
+    },
+    {
+        "id": "515",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "ARGENTINA",
+        "clue": "Country in South America known for its rich culture and landscapes",
+        "feedback": null
+    },
+    {
+        "id": "516",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "HANDBRAKE",
+        "clue": "Lever used to stop or secure a vehicle when parked",
+        "feedback": null
+    },
+    {
+        "id": "517",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "ADVENTURE",
+        "clue": "Exciting journey or experience, often involving exploration",
+        "feedback": null
+    },
+    {
+        "id": "518",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "NEWSPAPER",
+        "clue": "Printed publication that reports on news and events",
+        "feedback": null
+    },
+    {
+        "id": "519",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "CELEBRITY",
+        "clue": "Famous person, often in entertainment or sports",
+        "feedback": null
+    },
+    {
+        "id": "520",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "PROFESSOR",
+        "clue": "Teacher or educator at a college or university level",
+        "feedback": null
+    },
+    {
+        "id": "521",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "VOLUNTEER",
+        "clue": "Someone who helps without getting paid",
+        "feedback": null
+    },
+    {
+        "id": "522",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "MAGAZINES",
+        "clue": "Publications with articles and photos, often released weekly or monthly",
+        "feedback": null
+    },
+    {
+        "id": "523",
+        "length": "11",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "OKTOBERFEST",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "524",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "HOOTERS",
+        "clue": "Restaurant known for its waitresses and casual dining atmosphere",
+        "feedback": null
+    },
+    {
+        "id": "525",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "LIKABLE",
+        "clue": "Easy to like or friendly in nature",
+        "feedback": null
+    },
+    {
+        "id": "526",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "BATTERY",
+        "clue": "Device that stores and provides electrical energy",
+        "feedback": null
+    },
+    {
+        "id": "527",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "STOMACH",
+        "clue": "Organ in the body that digests food",
+        "feedback": null
+    },
+    {
+        "id": "528",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "WEBPAGE",
+        "clue": "Single page on the internet that can be viewed in a browser",
+        "feedback": null
+    },
+    {
+        "id": "529",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "SHELTER",
+        "clue": "Place that provides protection from the weather or danger",
+        "feedback": null
+    },
+    {
+        "id": "530",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "CARTOON",
+        "clue": "Animated show or drawing that is funny or entertaining",
+        "feedback": null
+    },
+    {
+        "id": "531",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "OFFLINE",
+        "clue": "Not connected to the internet",
+        "feedback": null
+    },
+    {
+        "id": "532",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "UTENSIL",
+        "clue": "Tool used for eating or cooking",
+        "feedback": null
+    },
+    {
+        "id": "533",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "MUSTARD",
+        "clue": "Yellow sauce made from seeds",
+        "feedback": null
+    },
+    {
+        "id": "534",
+        "length": "7",
+        "level_id": "9",
+        "group_id": "2",
+        "level_image": "3",
+        "answer_text": "LETTUCE",
+        "clue": "Green leafy vegetable often used in salads",
+        "feedback": null
+    },
+    {
+        "id": "535",
+        "length": "12",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "BAYERN MUNICH",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "536",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "ABSTRACT",
+        "clue": "Art that focuses on ideas instead of real images",
+        "feedback": null
+    },
+    {
+        "id": "537",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "DAYDREAM",
+        "clue": "Thinking about something nice while not fully paying attention",
+        "feedback": null
+    },
+    {
+        "id": "538",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "PYRAMIDS",
+        "clue": "Triangular-shaped structures built as tombs in ancient Egypt",
+        "feedback": null
+    },
+    {
+        "id": "539",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "LEMONADE",
+        "clue": "Sweet drink made from lemon juice, water, and sugar",
+        "feedback": null
+    },
+    {
+        "id": "540",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "WRESTLER",
+        "clue": "Athlete who competes in grappling matches for entertainment",
+        "feedback": null
+    },
+    {
+        "id": "541",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "4",
+        "answer_text": "UNDERDOG",
+        "clue": "Person or team expected to lose but often surprises by winning",
+        "feedback": null
+    },
+    {
+        "id": "542",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "HOMEWORK",
+        "clue": "School assignments done at home",
+        "feedback": null
+    },
+    {
+        "id": "543",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "ROULETTE",
+        "clue": "Casino game with a spinning wheel and bets on numbers",
+        "feedback": null
+    },
+    {
+        "id": "544",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "CONGRESS",
+        "clue": "Legislative body of the U.S. government that makes laws",
+        "feedback": null
+    },
+    {
+        "id": "545",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "MAILROOM",
+        "clue": "Space where incoming and outgoing mail is sorted and managed",
+        "feedback": null
+    },
+    {
+        "id": "546",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "BACKPACK",
+        "clue": "Bag carried on the back, used for carrying books and supplies",
+        "feedback": null
+    },
+    {
+        "id": "547",
+        "length": "8",
+        "level_id": "9",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "SCHEDULE",
+        "clue": "List of activities and their planned times",
+        "feedback": null
+    },
+    {
+        "id": "548",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "BRATWURST",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "549",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "ABRUPT",
+        "clue": "Sudden and unexpected change or action",
+        "feedback": null
+    },
+    {
+        "id": "550",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "ARMPIT",
+        "clue": "Area under the arm where it connects to the body",
+        "feedback": null
+    },
+    {
+        "id": "551",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "CARDIO",
+        "clue": "Exercise that increases heart rate, like running or cycling",
+        "feedback": null
+    },
+    {
+        "id": "552",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "UTOPIA",
+        "clue": "Perfect or ideal society where everyone is happy",
+        "feedback": null
+    },
+    {
+        "id": "553",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "TWELVE",
+        "clue": "The number after eleven and before thirteen",
+        "feedback": null
+    },
+    {
+        "id": "554",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "HUMBLE",
+        "clue": "Not proud or boastful; modest",
+        "feedback": null
+    },
+    {
+        "id": "555",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "CRYPTO",
+        "clue": "Digital money that uses special codes for security",
+        "feedback": null
+    },
+    {
+        "id": "556",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "ASTRAL",
+        "clue": "Related to stars or outer space",
+        "feedback": null
+    },
+    {
+        "id": "557",
+        "length": "6",
+        "level_id": "9",
+        "group_id": "4",
+        "level_image": "2",
+        "answer_text": "STREET",
+        "clue": "Public road in a city or town",
+        "feedback": null
+    },
+    {
+        "id": "560",
+        "length": "16",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "COLOGNE CATHEDRAL",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "561",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "ACCORDION",
+        "clue": "Musical instrument that expands and contracts while being played",
+        "feedback": null
+    },
+    {
+        "id": "562",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "FOOTSTEPS",
+        "clue": "Sounds made by walking or the marks left by feet",
+        "feedback": null
+    },
+    {
+        "id": "563",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "MILESTONE",
+        "clue": "Important event or stage in a process or journey",
+        "feedback": null
+    },
+    {
+        "id": "564",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "SNOWFLAKE",
+        "clue": "Unique ice crystal that falls from the sky during winter",
+        "feedback": null
+    },
+    {
+        "id": "565",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "NIGHTTIME",
+        "clue": "Time of day when it is dark outside",
+        "feedback": null
+    },
+    {
+        "id": "566",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "HANDSHAKE",
+        "clue": "Greeting or agreement gesture made by grasping someone's hand",
+        "feedback": null
+    },
+    {
+        "id": "567",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "3",
+        "answer_text": "TAEKWONDO",
+        "clue": "Martial art that focuses on kicking techniques",
+        "feedback": null
+    },
+    {
+        "id": "568",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "TOUCHDOWN",
+        "clue": "Scoring play in football when a player carries the ball into the end zone",
+        "feedback": null
+    },
+    {
+        "id": "569",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "TRIATHLON",
+        "clue": "Endurance race that includes swimming, biking, and running",
+        "feedback": null
+    },
+    {
+        "id": "570",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "PENTHOUSE",
+        "clue": "Luxury apartment located on the top floor of a building",
+        "feedback": null
+    },
+    {
+        "id": "571",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "BACHELORS",
+        "clue": "Degree awarded to someone who has completed undergraduate studies",
+        "feedback": null
+    },
+    {
+        "id": "572",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "TELEPHONE",
+        "clue": "Device that lets people talk to each other from far away",
+        "feedback": null
+    },
+    {
+        "id": "573",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "TRADEMARK",
+        "clue": "Symbol or name that legally identifies a brand or product",
+        "feedback": null
+    },
+    {
+        "id": "574",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "HAIRSPRAY",
+        "clue": "Used to keep hair styled and in place",
+        "feedback": null
+    },
+    {
+        "id": "575",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "PARALYSED",
+        "clue": "Unable to move or feel part of the body",
+        "feedback": null
+    },
+    {
+        "id": "576",
+        "length": "9",
+        "level_id": "9",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "BRILLIANT",
+        "clue": "Very bright or exceptionally clever",
+        "feedback": null
+    },
+    {
+        "id": "577",
+        "length": "5",
+        "level_id": "10",
+        "group_id": "0",
+        "level_image": "0",
+        "answer_text": "CHINA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "578",
+        "length": "16",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "0",
+        "answer_text": "GREAT WALL OF CHINA",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "579",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "AGILITY",
+        "clue": "Ability to move quickly and easily",
+        "feedback": null
+    },
+    {
+        "id": "580",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "CRYSTAL",
+        "clue": "Clear, solid material with a regular geometric shape",
+        "feedback": null
+    },
+    {
+        "id": "581",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "RESPECT",
+        "clue": "Admiration for someone's qualities or achievements",
+        "feedback": null
+    },
+    {
+        "id": "582",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "FANTASY",
+        "clue": "Imaginary story or idea, often involving magic or adventure",
+        "feedback": null
+    },
+    {
+        "id": "583",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "2",
+        "answer_text": "STEPSON",
+        "clue": "Son of one's partner from a previous relationship",
+        "feedback": null
+    },
+    {
+        "id": "584",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "REWRITE",
+        "clue": "To write something again in a different way",
+        "feedback": null
+    },
+    {
+        "id": "585",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "LEASING",
+        "clue": "Renting a car for a specific period, usually with monthly payments",
+        "feedback": null
+    },
+    {
+        "id": "586",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "BOLIVIA",
+        "clue": "Country in South America known for its diverse culture and landscapes",
+        "feedback": null
+    },
+    {
+        "id": "587",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "3",
+        "answer_text": "DILEMMA",
+        "clue": "Difficult situation requiring a choice between two options",
+        "feedback": null
+    },
+    {
+        "id": "588",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "BOLOGNA",
+        "clue": "City in Italy known for its rich history and cuisine",
+        "feedback": null
+    },
+    {
+        "id": "589",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "4",
+        "answer_text": "PERFUME",
+        "clue": "Fragrance applied to the body for a pleasant smell",
+        "feedback": null
+    },
+    {
+        "id": "590",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "PELICAN",
+        "clue": "Large water bird known for its long beak and ability to catch fish",
+        "feedback": null
+    },
+    {
+        "id": "591",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "LEATHER",
+        "clue": "Material made from animal skin, often used for clothing and accessories",
+        "feedback": null
+    },
+    {
+        "id": "592",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "EARLIER",
+        "clue": "Before the expected time or previous point in time",
+        "feedback": null
+    },
+    {
+        "id": "593",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "MADONNA",
+        "clue": "Famous singer and pop icon",
+        "feedback": null
+    },
+    {
+        "id": "594",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "1",
+        "level_image": "5",
+        "answer_text": "AVOCADO",
+        "clue": "Creamy green fruit often used in salads and spreads",
+        "feedback": null
+    },
+    {
+        "id": "595",
+        "length": "13",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "0",
+        "answer_text": "FORBIDDEN CITY",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "596",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "CUFFLINK",
+        "clue": "Fastener used to secure the ends of a dress shirt's sleeves",
+        "feedback": null
+    },
+    {
+        "id": "597",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "SPOONING",
+        "clue": "Cuddling closely together, often while lying down",
+        "feedback": null
+    },
+    {
+        "id": "598",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "GUARDIAN",
+        "clue": "Person who protects or takes care of someone else",
+        "feedback": null
+    },
+    {
+        "id": "599",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "AIRBORNE",
+        "clue": "In the air or flying; also refers to things carried by air",
+        "feedback": null
+    },
+    {
+        "id": "600",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "DECIPHER",
+        "clue": "To interpret or make sense of something unclear or coded",
+        "feedback": null
+    },
+    {
+        "id": "601",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "LANDMARK",
+        "clue": "Important or recognizable feature in a specific area",
+        "feedback": null
+    },
+    {
+        "id": "602",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "STEDFAST",
+        "clue": "Firmly loyal or constant in purpose or belief",
+        "feedback": null
+    },
+    {
+        "id": "603",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "BAREFOOT",
+        "clue": "Walking without shoes",
+        "feedback": null
+    },
+    {
+        "id": "604",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "4",
+        "answer_text": "WRINKLES",
+        "clue": "Lines or folds in skin or fabric",
+        "feedback": null
+    },
+    {
+        "id": "605",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "MAGICIAN",
+        "clue": "Person who performs tricks and illusions to entertain",
+        "feedback": null
+    },
+    {
+        "id": "606",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "CONTINUE",
+        "clue": "To keep going or keep doing something",
+        "feedback": null
+    },
+    {
+        "id": "607",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "HAYSTACK",
+        "clue": "Large pile of hay, often found on farms",
+        "feedback": null
+    },
+    {
+        "id": "608",
+        "length": "8",
+        "level_id": "10",
+        "group_id": "2",
+        "level_image": "5",
+        "answer_text": "TERIYAKI",
+        "clue": "Japanese sauce made with soy sauce and sugar, often used for grilling",
+        "feedback": null
+    },
+    {
+        "id": "609",
+        "length": "11",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "0",
+        "answer_text": "THE ART OF WAR",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "610",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "NEGOTIATE",
+        "clue": "Discuss terms in order to reach an agreement",
+        "feedback": null
+    },
+    {
+        "id": "611",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "PITCHFORK",
+        "clue": "Tool with a long handle and pointed tines for lifting materials",
+        "feedback": null
+    },
+    {
+        "id": "612",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "5",
+        "answer_text": "BALLERINA",
+        "clue": "Dancer trained in ballet",
+        "feedback": null
+    },
+    {
+        "id": "613",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "6",
+        "answer_text": "STOPWATCH",
+        "clue": "Device used to measure time intervals accurately",
+        "feedback": null
+    },
+    {
+        "id": "614",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "6",
+        "answer_text": "BOARDROOM",
+        "clue": "Room where a group meets to discuss and make decisions for a company",
+        "feedback": null
+    },
+    {
+        "id": "615",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "6",
+        "answer_text": "EVOLUTION",
+        "clue": "Process of change and development in living things over time",
+        "feedback": null
+    },
+    {
+        "id": "616",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "7",
+        "answer_text": "ETYMOLOGY",
+        "clue": "Study of the origin and history of words",
+        "feedback": null
+    },
+    {
+        "id": "617",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "7",
+        "answer_text": "NONPROFIT",
+        "clue": "Organization focused on a social cause, not making a profit",
+        "feedback": null
+    },
+    {
+        "id": "618",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "8",
+        "answer_text": "HOMEGROWN",
+        "clue": "Grown locally, especially in one's own home or community",
+        "feedback": null
+    },
+    {
+        "id": "619",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "8",
+        "answer_text": "SUGARCOAT",
+        "clue": "Make something appear better or more pleasant than it is",
+        "feedback": null
+    },
+    {
+        "id": "620",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "3",
+        "level_image": "8",
+        "answer_text": "HEARTBURN",
+        "clue": "Burning sensation in the chest caused by acid reflux",
+        "feedback": null
+    },
+    {
+        "id": "621",
+        "length": "9",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "0",
+        "answer_text": "CONFUCIUS",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "622",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "PICNIC",
+        "clue": "Outdoor meal where people eat and relax, usually on a blanket",
+        "feedback": null
+    },
+    {
+        "id": "623",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "GOOGLE",
+        "clue": "Popular search engine that helps users find websites",
+        "feedback": null
+    },
+    {
+        "id": "624",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "CANDLE",
+        "clue": "Stick of wax with a wick that produces light when burned",
+        "feedback": null
+    },
+    {
+        "id": "625",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "REFLEX",
+        "clue": "Involuntary movement or response to a stimulus",
+        "feedback": null
+    },
+    {
+        "id": "626",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "LOUVRE",
+        "clue": "Famous art museum in Paris, known for housing the Mona Lisa",
+        "feedback": null
+    },
+    {
+        "id": "627",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "TICKET",
+        "clue": "Paper or digital document that allows entry to an event or transportation",
+        "feedback": null
+    },
+    {
+        "id": "628",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "KNIGHT",
+        "clue": "Chess piece that moves in an L-shape and can jump over other pieces",
+        "feedback": null
+    },
+    {
+        "id": "629",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "COUGAR",
+        "clue": "Large wild cat from the Americas; slang for an attractive older woman",
+        "feedback": null
+    },
+    {
+        "id": "630",
+        "length": "6",
+        "level_id": "10",
+        "group_id": "4",
+        "level_image": "3",
+        "answer_text": "CASINO",
+        "clue": "Place for gambling and entertainment",
+        "feedback": null
+    },
+    {
+        "id": "631",
+        "length": "10",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "0",
+        "answer_text": "PEKING DUCK",
+        "clue": null,
+        "feedback": null
+    },
+    {
+        "id": "632",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "OUTPOST",
+        "clue": "Remote settlement or station for military or trade",
+        "feedback": null
+    },
+    {
+        "id": "633",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "ALGERIA",
+        "clue": "North African country known for the Sahara Desert",
+        "feedback": null
+    },
+    {
+        "id": "634",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "PARKING",
+        "clue": "Placing a vehicle in a designated space",
+        "feedback": null
+    },
+    {
+        "id": "635",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "LUCIFER",
+        "clue": "Name linked to the devil in religious texts",
+        "feedback": null
+    },
+    {
+        "id": "636",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "STANDBY",
+        "clue": "Ready to act when needed; inactive state of a device",
+        "feedback": null
+    },
+    {
+        "id": "637",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "4",
+        "answer_text": "HUNGARY",
+        "clue": "Central European country known the Danube River",
+        "feedback": null
+    },
+    {
+        "id": "638",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "KINGDOM",
+        "clue": "Area led by a monarch",
+        "feedback": null
+    },
+    {
+        "id": "639",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "FAILURE",
+        "clue": "Lack of success in achieving a goal",
+        "feedback": null
+    },
+    {
+        "id": "640",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "HAIRCUT",
+        "clue": "Style or trim of a person's hair",
+        "feedback": null
+    },
+    {
+        "id": "641",
+        "length": "7",
+        "level_id": "10",
+        "group_id": "5",
+        "level_image": "5",
+        "answer_text": "TRINKET",
+        "clue": "Small, decorative item or piece of jewelry",
+        "feedback": null
+    }
+]

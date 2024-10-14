@@ -1,0 +1,361 @@
+{
+  "GroupId": 7,
+  "GroupName": "ENGLAND",
+  "Levels": [
+    {
+      "GroupId": 7,
+      "LevelId": 1,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "GODFATHER",
+          "question": "Iconic movie about a powerful crime family, centered around loyalty and betrayal"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "DELICIOUS",
+          "question": "Tasty and enjoyable to eat"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "FLASHBACK",
+          "question": "Sudden memory of a past event, often triggered by something in the present"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "LIGHTBULB",
+          "question": "Electric device that produces light when connected to a power source"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "VIBRATION",
+          "question": "Rapid movement back and forth, often producing sound or a physical sensation"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "WOMANISER",
+          "question": "Man who engages in numerous casual relationships with women, often without commitment"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "SPEEDBOAT",
+          "question": "Fast boat designed for quick travel on water"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "HOROSCOPE",
+          "question": "Prediction or insight based on astrology, often related to one's zodiac sign"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "SUPERHERO",
+          "question": "Fictional character with extraordinary powers who fights for justice and helps others"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "GOODNIGHT",
+          "question": "Phrase used to wish someone a pleasant night's rest or to say goodbye before bedtime"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "WORKSPACE",
+          "question": "Area designated for work, often equipped with tools and resources to help complete tasks"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "QUICKSAND",
+          "question": "Loose sand that can trap objects or people when stepped on, often found near water"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "FISH AND CHIPS",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 7,
+      "LevelId": 2,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "WEBINAR",
+          "question": "Online seminar where participants learn and interact through a virtual platform"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "LAUNDRY",
+          "question": "Dirty clothes and linens that need washing"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "ALCOHOL",
+          "question": "Liquid substance that can make people feel relaxed or intoxicated"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "VIKINGS",
+          "question": "Norse seafarers known for raiding, trading, and exploring during the Middle Ages"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "GLIMPSE",
+          "question": "Quick or brief look at something"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "SINGING",
+          "question": "Producing musical sounds with the voice, often to convey emotions or tell a story"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "DIGNITY",
+          "question": "Sense of self-respect and honor in one's actions and presence"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "MAHJONG",
+          "question": "Tile-based game originating from China, often played by four players"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "ACADEMY",
+          "question": "School or institution dedicated to a specific field of study or training"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "HAMMOCK",
+          "question": "Hanging bed made of fabric or netting, used for relaxing or sleeping outdoors"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "AIRPORT",
+          "question": "Place where airplanes take off and land, often equipped with terminals for passengers"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "OCTAGON",
+          "question": "Eight-sided cage used in MMA fights to contain fighters"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BELLBOY",
+          "question": "Hotel staff member who assists guests by carrying luggage and providing information"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "DYNASTY",
+          "question": "Famous TV series about a wealthy family's glamorous and dramatic lives filled with rivalry"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BISCUIT",
+          "question": "Baked bread product that is soft and flaky, often served with meals or as a snack"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "FOREIGN",
+          "question": "Relating to or originating from another country or nation"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "BUCKINGHAM PALACE",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 7,
+      "LevelId": 3,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "INSTINCT",
+          "question": "Natural ability to know or do something without needing to think about it"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "HOLOGRAM",
+          "question": "Three-dimensional image displayed in reality, often used in movies and displays"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "SHOWROOM",
+          "question": "Space where products are displayed for customers to view and buy, often used for cars or furniture"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "FOREHEAD",
+          "question": "The part of the face above the eyes and below the hairline"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "WARRANTY",
+          "question": "Guarantee provided by a seller to repair or replace a product if it fails within a specific time frame"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "LIFEBOAT",
+          "question": "Small boat used for saving lives in emergencies, often to evacuate larger vessels"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "BATHROOM",
+          "question": "Room equipped for personal hygiene, typically with a toilet, sink, and shower or bathtub"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "HOSPITAL",
+          "question": "Facility where people receive medical treatment and care from healthcare professionals"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "HUMIDITY",
+          "question": "Amount of moisture or water vapor in the air"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "DISAGREE",
+          "question": "To have a different opinion or not share the same view as someone else"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "DYSLEXIA",
+          "question": "Learning difficulty affecting reading, writing, and spelling skills"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "TOWER BRIDGE",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 7,
+      "LevelId": 4,
+      "Questions": [
+        {
+          "level_image": 2,
+          "answer_text": "ESSENTIAL",
+          "question": "Absolutely necessary or extremely important for a specific purpose"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SHAMELESS",
+          "question": "Lacking shame or guilt, often behaving in a way that disregards social norms"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BACKSTAGE",
+          "question": "Area behind the stage in a theater for performers to prepare before a show"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SKYDIVING",
+          "question": "Sport of jumping from an airplane and free-falling before opening a parachute"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "NEUROLOGY",
+          "question": "Branch of medicine that focuses on the nervous system and its disorders"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "PSEUDONYM",
+          "question": "Fake name used by an author instead of their real name"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SPACESHIP",
+          "question": "Vehicle designed for travel in outer space"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "HEARTLESS",
+          "question": "Lacking compassion or kindness; cold and unfeeling"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "RACETRACK",
+          "question": "Track where races are held, often for cars or horses"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "TRANSLATE",
+          "question": "To change words from one language to another"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "MESSANGER",
+          "question": "Someone who delivers messages or important news from one person to another"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "SHAKESPEARE",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 7,
+      "LevelId": 5,
+      "Questions": [
+        {
+          "level_image": 1,
+          "answer_text": "TALENT",
+          "question": "Natural ability or skill in a particular area or activity"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "HOBBIT",
+          "question": "Fictional small creature from J.R.R. Tolkien's works, known for peaceful living in the Shire"
+        },
+        {
+          "level_image": 1,
+          "answer_text": "ELEVEN",
+          "question": "The first prime number after ten"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ABSENT",
+          "question": "Not present in a place"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "REGGAE",
+          "question": "Jamaican music genre known for its strong rhythm and social themes"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "FAMILY",
+          "question": "Group of people related by blood, marriage, or adoption"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "STUDIO",
+          "question": "Room or building where creative work, such as art, music, or film, is produced"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "BLOUSE",
+          "question": "Women's loose-fitting shirt, often made of light fabric"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "LEGEND",
+          "question": "Traditional story or tale, often based on historical events or characters"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "ISLAND",
+          "question": "Land surrounded by water on all sides"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "THE BEATLES",
+          "question": null
+        }
+      ]
+    }
+  ]
+}

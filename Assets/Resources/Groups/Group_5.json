@@ -120,7 +120,7 @@
         {
           "level_image": 2,
           "answer_text": "BALSAMIC",
-          "question": "Vinegar type, often used in salads."
+          "question": "Vinegar type, often used in salads"
         },
         {
           "level_image": 2,
@@ -314,6 +314,11 @@
           "level_image": 6,
           "answer_text": "JURISDICTION",
           "question": "Power to enforce laws and manage legal disputes within a specific area"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "BOLLYWOOD",
+          "question": null
         }
       ]
     }

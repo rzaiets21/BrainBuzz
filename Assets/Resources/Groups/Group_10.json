@@ -1,0 +1,352 @@
+{
+  "GroupId": 10,
+  "GroupName": "CHINA",
+  "Levels": [
+    {
+      "GroupId": 10,
+      "LevelId": 1,
+      "Questions": [
+        {
+          "level_image": 2,
+          "answer_text": "AGILITY",
+          "question": "Ability to move quickly and easily"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "CRYSTAL",
+          "question": "Clear, solid material with a regular geometric shape"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "RESPECT",
+          "question": "Admiration for someone's qualities or achievements"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "FANTASY",
+          "question": "Imaginary story or idea, often involving magic or adventure"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "STEPSON",
+          "question": "Son of one's partner from a previous relationship"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "REWRITE",
+          "question": "To write something again in a different way"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "LEASING",
+          "question": "Renting a car for a specific period, usually with monthly payments"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BOLIVIA",
+          "question": "Country in South America known for its diverse culture and landscapes"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "DILEMMA",
+          "question": "Difficult situation requiring a choice between two options"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BOLOGNA",
+          "question": "City in Italy known for its rich history and cuisine"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PERFUME",
+          "question": "Fragrance applied to the body for a pleasant smell"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "PELICAN",
+          "question": "Large water bird known for its long beak and ability to catch fish"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "LEATHER",
+          "question": "Material made from animal skin, often used for clothing and accessories"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "EARLIER",
+          "question": "Before the expected time or previous point in time"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "MADONNA",
+          "question": "Famous singer and pop icon"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "AVOCADO",
+          "question": "Creamy green fruit often used in salads and spreads"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "GREAT WALL OF CHINA",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 10,
+      "LevelId": 2,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "CUFFLINK",
+          "question": "Fastener used to secure the ends of a dress shirt's sleeves"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "SPOONING",
+          "question": "Cuddling closely together, often while lying down"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "GUARDIAN",
+          "question": "Person who protects or takes care of someone else"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "AIRBORNE",
+          "question": "In the air or flying; also refers to things carried by air"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "DECIPHER",
+          "question": "To interpret or make sense of something unclear or coded"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "LANDMARK",
+          "question": "Important or recognizable feature in a specific area"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "STEDFAST",
+          "question": "Firmly loyal or constant in purpose or belief"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BAREFOOT",
+          "question": "Walking without shoes"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "WRINKLES",
+          "question": "Lines or folds in skin or fabric"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "MAGICIAN",
+          "question": "Person who performs tricks and illusions to entertain"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "CONTINUE",
+          "question": "To keep going or keep doing something"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "HAYSTACK",
+          "question": "Large pile of hay, often found on farms"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "TERIYAKI",
+          "question": "Japanese sauce made with soy sauce and sugar, often used for grilling"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "FORBIDDEN CITY",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 10,
+      "LevelId": 3,
+      "Questions": [
+        {
+          "level_image": 5,
+          "answer_text": "NEGOTIATE",
+          "question": "Discuss terms in order to reach an agreement"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "PITCHFORK",
+          "question": "Tool with a long handle and pointed tines for lifting materials"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "BALLERINA",
+          "question": "Dancer trained in ballet"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "STOPWATCH",
+          "question": "Device used to measure time intervals accurately"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "BOARDROOM",
+          "question": "Room where a group meets to discuss and make decisions for a company"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "EVOLUTION",
+          "question": "Process of change and development in living things over time"
+        },
+        {
+          "level_image": 7,
+          "answer_text": "ETYMOLOGY",
+          "question": "Study of the origin and history of words"
+        },
+        {
+          "level_image": 7,
+          "answer_text": "NONPROFIT",
+          "question": "Organization focused on a social cause, not making a profit"
+        },
+        {
+          "level_image": 8,
+          "answer_text": "HOMEGROWN",
+          "question": "Grown locally, especially in one's own home or community"
+        },
+        {
+          "level_image": 8,
+          "answer_text": "SUGARCOAT",
+          "question": "Make something appear better or more pleasant than it is"
+        },
+        {
+          "level_image": 8,
+          "answer_text": "HEARTBURN",
+          "question": "Burning sensation in the chest caused by acid reflux"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "THE ART OF WAR",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 10,
+      "LevelId": 4,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "PICNIC",
+          "question": "Outdoor meal where people eat and relax, usually on a blanket"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "GOOGLE",
+          "question": "Popular search engine that helps users find websites"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CANDLE",
+          "question": "Stick of wax with a wick that produces light when burned"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "REFLEX",
+          "question": "Involuntary movement or response to a stimulus"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "LOUVRE",
+          "question": "Famous art museum in Paris, known for housing the Mona Lisa"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "TICKET",
+          "question": "Paper or digital document that allows entry to an event or transportation"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "KNIGHT",
+          "question": "Chess piece that moves in an L-shape and can jump over other pieces"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "COUGAR",
+          "question": "Large wild cat from the Americas; slang for an attractive older woman"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CASINO",
+          "question": "Place for gambling and entertainment"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "CONFUCIUS",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 10,
+      "LevelId": 5,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "OUTPOST",
+          "question": "Remote settlement or station for military or trade"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ALGERIA",
+          "question": "North African country known for the Sahara Desert"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PARKING",
+          "question": "Placing a vehicle in a designated space"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "LUCIFER",
+          "question": "Name linked to the devil in religious texts"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "STANDBY",
+          "question": "Ready to act when needed; inactive state of a device"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "HUNGARY",
+          "question": "Central European country known the Danube River"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "KINGDOM",
+          "question": "Area led by a monarch"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "FAILURE",
+          "question": "Lack of success in achieving a goal"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "HAIRCUT",
+          "question": "Style or trim of a person's hair"
+        },
+        
+        {
+          "level_image": 0,
+          "answer_text": "MELBOURNE",
+          "question": null
+        }
+      ]
+    }
+  ]
+}

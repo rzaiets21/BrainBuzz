@@ -1,0 +1,351 @@
+{
+  "GroupId": 6,
+  "GroupName": "RUSSIA",
+  "Levels": [
+    {
+      "GroupId": 6,
+      "LevelId": 1,
+      "Questions": [
+        {
+          "level_image": 2,
+          "answer_text": "STICKER",
+          "question": "Sticky label often used for decoration, information, or fun"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SHERIFF",
+          "question": "County law officer who enforces laws and keeps order"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "PENGUIN",
+          "question": "Flightless bird that swims expertly and lives in cold regions"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "WAKANDA",
+          "question": "Fictional African nation with advanced tech and Vibranium"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BARISTA",
+          "question": "Person who prepares and serves coffee drinks at a café"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CAESARS",
+          "question": "Iconic salad with romaine, croutons, and zesty dressing, a restaurant favorite"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "VAMPIRE",
+          "question": "Creature that drinks blood and lives forever, often comes out at night"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "HOLIDAY",
+          "question": "A special day for celebration or time off from work or school"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "ORIGAMI",
+          "question": "The art of folding paper into shapes and figures"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "CANNOLI",
+          "question": "Italian pastry with a crispy shell filled with sweet cream"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "THE KREMLIN",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 6,
+      "LevelId": 2,
+      "Questions": [
+        {
+          "level_image": 5,
+          "answer_text": "BACKSEAT",
+          "question": "The seat behind the driver in a car"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "ELEVATOR",
+          "question": "Machine that moves people or things up and down between floors in a building"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "JIUJITSU",
+          "question": "Martial art focused on grappling, using techniques like throws, holds, and joint locks"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "BOTANIST",
+          "question": "Scientist who studies plants and how they grow"
+        },
+        {
+          "level_image": 5,
+          "answer_text": "HERITAGE",
+          "question": "Traditions, culture, and history passed down through generations"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "TRACKPAD",
+          "question": "Touch-sensitive surface used to control the cursor on a laptop or device"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "AVENGERS",
+          "question": "Group of superheroes who team up to fight powerful villains and save the world"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "CONFETTI",
+          "question": "Small pieces of paper or material thrown during celebrations"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "SEATBELT",
+          "question": "Strap in a car or plane that keeps you safe by holding you in place"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "MANDARIN",
+          "question": "Language spoken in China, known for its tones and characters"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "JURASSIC",
+          "question": "Dinosaur era made famous by movies with prehistoric creatures"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "ADORABLE",
+          "question": "Something super cute and lovable"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "DOGHOUSE",
+          "question": "Small shelter or house where a dog sleeps"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "JEOPARDY",
+          "question": "Famous quiz show where contestants answer questions to win money"
+        },
+        {
+          "level_image": 6,
+          "answer_text": "NITROGEN",
+          "question": "colorless gas that makes up most of the air we breathe"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "SAINT PETERSBURG",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 6,
+      "LevelId": 3,
+      "Questions": [
+        {
+          "level_image": 4,
+          "answer_text": "CHAMPAGNE",
+          "question": "Sparkling wine often used for celebrations and special occasions"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "ASPARAGUS",
+          "question": "Green vegetable with long spears, known for its earthy flavor"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PHOTOSHOP",
+          "question": "Image editing software used for digital art and photo manipulation"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "RECRUITER",
+          "question": "Person who finds and hires people for jobs"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BODYGUARD",
+          "question": "Someone hired to protect individuals from danger or threats"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "AUTOGRAPH",
+          "question": "Signature from a famous person, often collected as a keepsake"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "MOUSETRAP",
+          "question": "Device used to catch or kill mice"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "NIGHTMARE",
+          "question": "Scary or bad dream that causes fear or anxiety"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "MILKSHAKE",
+          "question": "Creamy drink made from milk, ice cream, and flavors like chocolate or fruit"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BYZANTINE",
+          "question": "Empire known for its rich history, complex art, and grand architecture in the Eastern Roman world"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "MATRYOSHKA",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 6,
+      "LevelId": 4,
+      "Questions": [
+        {
+          "level_image": 3,
+          "answer_text": "COMPANY",
+          "question": "Business or organization that provides goods or services"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BLOOPER",
+          "question": "Funny mistake or error, often seen in movies or TV shows"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "FASHION",
+          "question": "Trends in clothing and style that are popular at a certain time or place"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "JUKEBOX",
+          "question": "Machine that plays songs when you choose them, often found in diners or bars"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "RAVIOLI",
+          "question": "Pasta filled with cheese, meat, or vegetables, usually served with sauce"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "BLANKET",
+          "question": "Soft covering used to keep warm or for comfort"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "AVERAGE",
+          "question": "The typical value found by adding numbers and dividing by their count"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CURIOUS",
+          "question": "Eager to learn or know more about something"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "BRAVERY",
+          "question": "Courage to face fear and difficult situations"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "JEWELRY",
+          "question": "Decorative items worn for personal adornment, often made of precious materials"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "LIBRARY",
+          "question": "Place where books and other materials are stored and can be borrowed or read"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "MOSKVA RIVER",
+          "question": null
+        }
+      ]
+    },
+    {
+      "GroupId": 6,
+      "LevelId": 5,
+      "Questions": [
+        {
+          "level_image": 2,
+          "answer_text": "STRATEGY",
+          "question": "Plan of action designed to achieve a specific goal"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "SHORTCUT",
+          "question": "Quicker way to reach a destination or complete a task"
+        },
+        {
+          "level_image": 2,
+          "answer_text": "MEGABYTE",
+          "question": "Unit of digital information equal to one million bytes"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "FIREWALL",
+          "question": "Security system that controls incoming and outgoing network traffic"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "TRESSURE",
+          "question": "Hidden or stored valuable items, often in the form of money or jewels"
+        },
+        {
+          "level_image": 3,
+          "answer_text": "HEDGEHOG",
+          "question": "Small, spiny mammal covered in sharp quills that curls into a ball when threatened"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "TEASPOON",
+          "question": "Small spoon used for stirring and measuring ingredients"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "FREQUENT",
+          "question": "Occurring often or at regular intervals in a specific time period"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "TEQUILLA",
+          "question": "Popular alcoholic drink made from the blue agave plant, commonly used in margaritas and shots"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "METAPHOR",
+          "question": "Figure of speech that compares one thing to another to highlight similarities"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "PIERCING",
+          "question": "Making a hole in the skin to wear jewelry"
+        },
+        {
+          "level_image": 4,
+          "answer_text": "CEMETERY",
+          "question": "Place where the dead are buried and memorialized"
+        },
+        {
+          "level_image": 0,
+          "answer_text": "THE RED SQUARE",
+          "question": null
+        }
+      ]
+    }
+  ]
+}
