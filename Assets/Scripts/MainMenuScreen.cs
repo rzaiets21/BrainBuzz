@@ -22,7 +22,7 @@ public class MainMenuScreen : Screen
     {
         var groupData = gameManager.GetGroupData(true);
         _groupPopup.Init();
-        playButtonText.text = $"Level {groupData.GroupId}";
+        //playButtonText.text = $"Level {groupData.GroupId}";
         // playButtonText.text = $"Group {groupData.GroupId}";
     }
 }

@@ -1,5 +1,6 @@
 using System;
 using System.Linq;
+using Advertising;
 using Newtonsoft.Json;
 using TMPro;
 using Unity.VisualScripting;
@@ -35,6 +36,8 @@ public class GameManager : MonoBehaviour
 
     private bool _isInit;
     private int _currentGroup;
+
+    public Action OnLoadLevel;
 
     private int currentGroup
     {
@@ -117,6 +120,7 @@ public class GameManager : MonoBehaviour
             {
                 startedTimes -= 5;
                 //AdsManager.Instance.ShowInterstitialAd();
+                
             }
 
             PlayerPrefs.SetInt(StartedTimes, startedTimes);
@@ -200,7 +204,11 @@ public class GameManager : MonoBehaviour
         }
         
         screensController.ShowScreen(Screens.Complete, ScreenTransition.RightToLeft);
-        
+
+        if (PlayerPrefs.GetInt(CompletedLevels) > 2)
+        {
+            AdsController.Instance.ShowInterstitialAd();
+        }
         //AdsManager.Instance.ShowInterstitialAd();
     }
 
@@ -264,6 +272,7 @@ public class GameManager : MonoBehaviour
     {
         _levelData = levelData;
         lettersArea.Init(_levelData);
+        OnLoadLevel?.Invoke();
     }
 
     private void OnClickToLeftButton()

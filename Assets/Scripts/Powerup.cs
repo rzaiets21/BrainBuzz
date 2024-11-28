@@ -1,4 +1,5 @@
 ﻿using System;
+using Advertising;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -17,6 +18,8 @@ public class Powerup : MonoBehaviour
     [SerializeField] private GameObject count;
     [SerializeField] private GameObject buy;
     [SerializeField] private Image icon;
+    [SerializeField] private Image _coinsIcon;
+    [SerializeField] private Image _adsIcon;
     [SerializeField] private TextMeshProUGUI countText;
     [SerializeField] private TextMeshProUGUI priceText;
     [SerializeField] private PowerupType powerupType;
@@ -32,6 +35,11 @@ public class Powerup : MonoBehaviour
     public PowerupType PowerupType => powerupType;
 
     private bool _selected;
+
+    public void UpdateData()
+    {
+        PlayerInventory.Instance.Update();
+    }
     
     private void Awake()
     {
@@ -59,7 +67,21 @@ public class Powerup : MonoBehaviour
         
         countText.SetText(value.ToString());
         count.gameObject.SetActive(value > 0);
+
         buy.gameObject.SetActive(value <= 0);
+
+        if (AdsController.Instance.IsRewardedLoaded() && !PlayerInventory.Instance.HasEnoughCoins(price))
+        {
+            priceText.gameObject.SetActive(false);
+            _coinsIcon.gameObject.SetActive(false);
+            _adsIcon.gameObject.SetActive(true);
+        }
+        else
+        {
+            priceText.gameObject.SetActive(true);
+            _coinsIcon.gameObject.SetActive(true);
+            _adsIcon.gameObject.SetActive(false);
+        }
     }
     
     public void Deselect(bool used)
@@ -95,7 +117,15 @@ public class Powerup : MonoBehaviour
 #if !UNITY_EDITOR
             if (!PlayerInventory.Instance.HasPowerup(powerupType) && !PlayerInventory.Instance.HasEnoughCoins(price))
             {
-                screensController.ShowScreen(Screens.Store);
+                
+                if(AdsController.Instance.IsRewardedLoaded()){
+                    AdsController.Instance.ShowRewardedAd(()=> PlayerInventory.Instance.Add(powerupType, 1));    
+                }
+                else
+                {
+                    screensController.ShowScreen(Screens.Store);
+                }
+
                 return;
             }
 #endif

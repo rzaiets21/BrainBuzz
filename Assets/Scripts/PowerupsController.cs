@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class PowerupsController : MonoBehaviour
 {
+    [SerializeField] private GameManager _gameManager;
     [SerializeField] private PowerupPanel powerupPanel;
     [SerializeField] private PowerupInfo[] powerupsInfo;
     [SerializeField] private Image currentPowerupIcon;
@@ -42,6 +43,7 @@ public class PowerupsController : MonoBehaviour
         }
 
         lettersArea.onLetterHolderClick += OnLetterHolderSelected;
+        _gameManager.OnLoadLevel += LoadLevelInvoke;
     }
 
     private void OnDisable()
@@ -54,8 +56,17 @@ public class PowerupsController : MonoBehaviour
         }
         
         lettersArea.onLetterHolderClick -= OnLetterHolderSelected;
+        _gameManager.OnLoadLevel -= LoadLevelInvoke;
     }
-    
+
+    private void LoadLevelInvoke()
+    {
+        foreach (var powerup in powerups)
+        {
+            powerup.UpdateData();
+        }
+    }
+
     private void OnLetterHolderSelected(LetterHolderBase letterHolder)
     {
         if(_currentPowerup == PowerupType.None)
@@ -108,7 +119,6 @@ public class PowerupsController : MonoBehaviour
     private void UsePowerup(LetterHolderBase letterHolder)
     {
         var powerup = _currentPowerup;
-        
         var currentPowerup = powerups.First(x => x.PowerupType == _currentPowerup);
         
         if (!TryUsePowerup(powerup, letterHolder))
@@ -117,16 +127,17 @@ public class PowerupsController : MonoBehaviour
             Debug.LogError("Powerup is not used");
             return;
         }
-#if !UNITY_EDITOR
+//#if !UNITY_EDITOR
         if(PlayerInventory.Instance.HasPowerup(_currentPowerup))
             PlayerInventory.Instance.Consume(_currentPowerup);
         else
             PlayerInventory.Instance.Consume(currentPowerup.Price);
-#endif
+//#endif
                 
         currentPowerup.Deselect(true);
         _currentPowerup = PowerupType.None;
         _selectedLetterHolder = null;
+        LoadLevelInvoke();
     }
     
     private bool TryUsePowerup(PowerupType powerupType, LetterHolderBase letterHolder)
@@ -164,6 +175,7 @@ public class PowerupsController : MonoBehaviour
         
         onPowerupSelected?.Invoke(false);
         //UsePowerup();
+        LoadLevelInvoke();
     }
 }
 

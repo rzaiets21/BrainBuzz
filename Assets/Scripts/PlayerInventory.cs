@@ -109,6 +109,8 @@ public class PlayerInventory
     {
         _coins = Mathf.Clamp(_coins - value, 0, _coins + value);
         OnCoinsValueChanged?.Invoke(_coins);
+        var json = JsonConvert.SerializeObject(_instance);
+        PlayerPrefs.SetString(PlayerInventoryKey, json);
     }
 
     public void Consume(PowerupType powerupType)
@@ -117,6 +119,8 @@ public class PlayerInventory
         powerupInfo.count--;
         
         OnPowerupValueChanged?.Invoke(powerupInfo.PowerupType, powerupInfo.count);
+        var json = JsonConvert.SerializeObject(_instance);
+        PlayerPrefs.SetString(PlayerInventoryKey, json);
     }
 
     public void Update()
